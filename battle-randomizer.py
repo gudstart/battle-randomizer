@@ -5,6 +5,7 @@ from numpy.random import randint
 import os
 import discord
 from dotenv import load_dotenv
+import pokebase as pb
 
 #### SETTINGS ####
 NUM_RULES = 3
@@ -27,12 +28,13 @@ ruleset = [
     {"Only moves starting with @": 10},
     {"Only items starting with @": 10},
     {
-        "Only mons that have 1 type": 5,
+        "Only mons that have 1 type": 3,
         "Only mons that are part & type": 10
     },
     {"Damaging moves can only be up to # base power": 10},
     {"No STAB moves allowed (Tera type included if terastallized)": 0},
-    {"* stat has to be max !": 10}
+    {"* stat has to be max !": 10},
+    {"All mons have access to the move $ (Use hackmons meta for battle)": 20}
 ]
 
 #LISTS
@@ -40,6 +42,7 @@ types = ["Normal", "Fire", "Water", "Grass", "Electric", "Ice", "Fighting", "Poi
          "Ground", "Flying", "Psychic", "Bug", "Rock", "Ghost", "Dragon", "Dark", "Steel", "Fairy"]
 tiers = ["LC", "ZU", "NU", "PU", "RU", "UU", "OU", "Ubers"]
 stats = ["HP", "Attack", "Defense", "Sp. Atk", "Sp. Def", "Speed"]
+numMoves = 904 #We use pokebase api for moves
 
 def getBattleRules():
     global ruleset
@@ -75,10 +78,10 @@ def getBattleRules():
         selectedRuleString = selectedRule[0].replace("@", rand.choice(string.ascii_letters).upper())
         selectedRuleString = selectedRuleString.replace("&", rand.choice(types))
         selectedRuleString = selectedRuleString.replace("#", str(randint(RULE_MAX_BP_RANGE[0]/5, RULE_MAX_BP_RANGE[1]/5)*5))
-        statLowerBound = 40
-        statUpperBound = 110
         selectedRuleString = selectedRuleString.replace("*", rand.choice(stats))
         selectedRuleString = selectedRuleString.replace("!", str(randint(RULE_MAX_STAT_RANGE[0]/5, RULE_MAX_STAT_RANGE[1]/5)*5))
+        if selectedRuleString.find("$"):
+            selectedRuleString = selectedRuleString.replace("$", str(pb.move(randint(1, numMoves))).replace("-", " ").title())
         battleRules += "RULE " + str(i + 1) + ": " + selectedRuleString + "\n\n"
     return battleRules
 
