@@ -82,6 +82,8 @@ def getBattleRules():
         battleRules += "RULE " + str(i + 1) + ": " + selectedRuleString + "\n\n"
     return battleRules
 
+battleInProgress = False
+
 load_dotenv()
 TOKEN = os.getenv("DISCORD_TOKEN")
 GUILD = os.getenv("DISCORD_GUILD")
@@ -95,27 +97,41 @@ async def on_ready():
             break
     print(f"{client.user} has connected to the server:"f"{guild.name}(id: {guild.id})")
 
-    members = "\n - ".join([member.name for member in guild.members])
-
 @client.event
 async def on_message(message):
+    global battleInProgress
     if message.author == client.user:
         return
 
     if message.content == "!battle":
-        response = getBattleRules()
-        channel = client.get_channel(int(os.getenv("SEND_CHANNEL")))
-        await channel.send(response)
-        t = TIME_LIMIT*60
-        mins, secs = divmod(t, 60) 
-        timer = "**Teambuilding: {:02d}:{:02d}**".format(mins, secs)
-        timerMessage = await channel.send(timer)
-        while t: 
-            time.sleep(1)
-            t -= 1
+        if (battleInProgress):
+            channel = client.get_channel(int(os.getenv("MAIN_CHANNEL")))
+            await channel.send("Battle already in progress!")
+        else:
+            channel = client.get_channel(int(os.getenv("BATTLE_CHANNEL")))
+            battleInProgress = True  
+            await channel.send(getBattleRules())
+            t = TIME_LIMIT*60
             mins, secs = divmod(t, 60) 
             timer = "**Teambuilding: {:02d}:{:02d}**".format(mins, secs)
-            await timerMessage.edit(content=timer)
-        await timerMessage.delete()
-
+            timerMessage = await channel.send(timer)
+            while t: 
+                if (not battleInProgress): break
+                time.sleep(1)
+                t -= 1
+                mins, secs = divmod(t, 60) 
+                timer = "**Teambuilding: {:02d}:{:02d}**".format(mins, secs)
+                await timerMessage.edit(content=timer)
+            await timerMessage.delete()
+            battleInProgress = False
+    elif message.content == "!stop":
+        channel = client.get_channel(int(os.getenv("MAIN_CHANNEL")))
+        await channel.send("Battle stopped.")
+        battleInProgress = False
+    elif message.content == "!purge":
+        channel = client.get_channel(int(os.getenv("BATTLE_CHANNEL")))
+        async for mes in channel.history():
+            await mes.delete()
+        channel = client.get_channel(int(os.getenv("MAIN_CHANNEL")))
+        await channel.send("All battles removed.")
 client.run(TOKEN)
