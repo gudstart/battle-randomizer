@@ -79,20 +79,12 @@ def getBattleRules():
         statUpperBound = 110
         selectedRuleString = selectedRuleString.replace("*", rand.choice(stats))
         selectedRuleString = selectedRuleString.replace("!", str(randint(RULE_MAX_STAT_RANGE[0]/5, RULE_MAX_STAT_RANGE[1]/5)*5))
-        battleRules += "RULE " + str(i + 1) + ": " + selectedRuleString + "\n"
-    """
-    t = TIME_LIMIT*60
-    while t: 
-            mins, secs = divmod(t, 60) 
-            timer = '{:02d}:{:02d}'.format(mins, secs) 
-            time.sleep(1) 
-            t -= 1
-    """
+        battleRules += "RULE " + str(i + 1) + ": " + selectedRuleString + "\n\n"
     return battleRules
 
 load_dotenv()
-TOKEN = os.getenv('DISCORD_TOKEN')
-GUILD = os.getenv('DISCORD_GUILD')
+TOKEN = os.getenv("DISCORD_TOKEN")
+GUILD = os.getenv("DISCORD_GUILD")
 
 client = discord.Client(intents=discord.Intents.all())
 
@@ -101,18 +93,29 @@ async def on_ready():
     for guild in client.guilds:
         if guild.name == GUILD:
             break
-    print(f'{client.user} has connected to the server:'f'{guild.name}(id: {guild.id})')
+    print(f"{client.user} has connected to the server:"f"{guild.name}(id: {guild.id})")
 
-    members = '\n - '.join([member.name for member in guild.members])
-    print(f'Guild Members:\n - {members}')
+    members = "\n - ".join([member.name for member in guild.members])
 
 @client.event
 async def on_message(message):
     if message.author == client.user:
         return
 
-    if message.content == '!battle':
+    if message.content == "!battle":
         response = getBattleRules()
-        await message.channel.send(response)
+        channel = client.get_channel(int(os.getenv("SEND_CHANNEL")))
+        await channel.send(response)
+        t = TIME_LIMIT*60
+        mins, secs = divmod(t, 60) 
+        timer = "**Teambuilding: {:02d}:{:02d}**".format(mins, secs)
+        timerMessage = await channel.send(timer)
+        while t: 
+            time.sleep(1)
+            t -= 1
+            mins, secs = divmod(t, 60) 
+            timer = "**Teambuilding: {:02d}:{:02d}**".format(mins, secs)
+            await timerMessage.edit(content=timer)
+        await timerMessage.delete()
 
 client.run(TOKEN)
