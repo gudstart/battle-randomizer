@@ -22,7 +22,7 @@ OHKO_CLAUSE_ON_CHANCE = 85
 EVASION_CLAUSE_ON_CHANCE = 80
 ITEM_CLAUSE_ON_CHANCE = 50
 
-rules = [
+ruleset = [
     {"Only mons starting with @": 10},
     {"Only moves starting with @": 10},
     {"Only items starting with @": 10},
@@ -42,7 +42,8 @@ tiers = ["LC", "ZU", "NU", "PU", "RU", "UU", "OU", "Ubers"]
 stats = ["HP", "Attack", "Defense", "Sp. Atk", "Sp. Def", "Speed"]
 
 def getBattleRules():
-    global rules
+    global ruleset
+    rules = ruleset
     battleRules = ""
     
     #### CLAUSES ####
