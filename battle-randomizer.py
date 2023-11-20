@@ -29,26 +29,30 @@ ITEM_CLAUSE_ON_CHANCE = 50
 # If a rule from a category is selected, the other rules from that category can no longer be selected for further rules.
 
 ruleset = [
-    {"Only mons starting with **@**": 10},
-    {"Only moves starting with **@**": 10},
+    {"Only mons starting with **@**": 20},
     {
-        "Only items starting with **@**": 10,
-        "Only **gems** allowed as items (Use natdex format for battle)": 2,
-        "Only **berries** allowed as items": 2,
-        "Only **plates** allowed as items": 2
+        "Only moves starting with **@**": 14,
+        "Only moves that have 1 word": 3,
+        "Only moves that have 2 words": 3
     },
     {
-        "Only mons that have **1** type": 3,
-        "Only mons that are part **&** type": 10
+        "Only items starting with **@**": 11,
+        "Only **gems** allowed as items (Use natdex format for battle)": 3,
+        "Only **berries** allowed as items": 3,
+        "Only **plates** allowed as items": 3
     },
-    {"Damaging moves can only be up to **#** base power": 10},
+    {
+        "Only mons that have **1** type": 5,
+        "Only mons that are part **&** type": 15
+    },
+    {"Damaging moves can only be up to **#** base power (Multiply minimum #hits for multihit moves)": 10},
     {"No STAB moves allowed (Tera type included if terastallized)": 2},
     {
         "Maximum base | stat is **!**": 10,
-        "Maximum BST is ?": 20
+        "Maximum BST is ?": 10
     },
-    {"Regardless of other rules, all mons have access to the move **$** (Use hackmons meta for battle)": 15},
-    {"Regardless of other rules, all mons have access to the ability **^** (Use hackmons meta for battle)": 15},
+    {"Regardless of other rules, all mons have access to the move **$** (Use custom game for battle)": 20},
+    {"Regardless of other rules, all mons have access to the ability **^** (Use custom game for battle)": 20},
     {"Your mons must have the **%** nature": 5}
 ]
 
