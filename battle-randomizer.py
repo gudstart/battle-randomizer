@@ -45,11 +45,10 @@ ruleset = [
         "Only mons that have **1** type": 5,
         "Only mons that are part **&** type": 15
     },
-    {"Damaging moves can only be up to **#** base power (Multiply minimum #hits for multihit moves)": 10},
+    {"Damaging moves can only be up to **#** base power (Multiply minimum number of hits for multihit moves)": 10},
     {"No STAB moves allowed (Tera type included if terastallized)": 2},
     {
         "Maximum base | stat is **!**": 10,
-        "Maximum BST is ?": 10
     },
     {"Regardless of other rules, all mons have access to the move **$** (Use custom game for battle)": 20},
     {"Regardless of other rules, all mons have access to the ability **^** (Use custom game for battle)": 20},
