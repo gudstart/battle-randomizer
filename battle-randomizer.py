@@ -3,7 +3,7 @@ import os
 import discord
 from dotenv import load_dotenv
 
-from ruleGen import getBattleRules, getTimeLimit
+from ruleGen import getBattleRules, TIME_LIMIT_MINUTES
 
 battleInProgress = False
 
@@ -35,7 +35,7 @@ async def on_message(message):
             channel = client.get_channel(BATTLE_CH)
             battleInProgress = True  
             await channel.send(getBattleRules())
-            t = getTimeLimit()*60
+            t = TIME_LIMIT_MINUTES*60
             mins, secs = divmod(t, 60) 
             timer = "**Teambuilding: {:02d}:{:02d}**".format(mins, secs)
             timerMessage = await channel.send(timer)
@@ -48,6 +48,16 @@ async def on_message(message):
                 await timerMessage.edit(content=timer)
             await timerMessage.delete()
             battleInProgress = False
+
+    elif message.content == "!draft":
+        if (battleInProgress):
+            channel = client.get_channel(MAIN_CH)
+            await channel.send("Battle already in progress!")
+            # await channel.send(getDraftMons())
+
+        else:
+            channel = client.get_channel(BATTLE_CH)
+            battleInProgress = True
     elif message.content == "!stop":
         channel = client.get_channel(MAIN_CH)
         await channel.send("Battle stopped.")

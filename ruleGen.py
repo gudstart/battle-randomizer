@@ -125,13 +125,9 @@ def getBattleRules():
         if selectedRuleString.find("$"): #Minimize need for API call
             selectedRuleString = selectedRuleString.replace("$", str(pb.move(randint(1, numMoves))).replace("-", " ").title())
         selectedRuleString = selectedRuleString.replace("%", rand.choice(influential_natures))
-        selectedRuleString = selectedRuleString.replace("?", str(randint(RULE_MAX_BST_RANGE[0], RULE_MAX_BST_RANGE[1])))
         if selectedRuleString.find("^"): #Minimize need for API call
             selectedRuleString = re.sub(r'\^', lambda x: str(pb.ability(randint(1, numAbilities))).replace("-", " ").title(), selectedRuleString)
         battleRules += "- " + selectedRuleString + "\n"
     
     battleRules += "[Teambuilder](https://play.pokemonshowdown.com/teambuilder)\n"
     return battleRules
-
-def getTimeLimit():
-    return TIME_LIMIT_MINUTES
