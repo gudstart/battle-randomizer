@@ -3,7 +3,7 @@ import os
 import discord
 from dotenv import load_dotenv
 
-from ruleGen import getBattleRules, TIME_LIMIT_MINUTES
+from gamemodes.ruleGen import getBattleRules, TIME_LIMIT_MINUTES
 
 battleInProgress = False
 

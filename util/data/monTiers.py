@@ -37,7 +37,7 @@ tierData = {
 	'charizardmegax': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'UUBL',
+		'natDexTier': 'OU',
 	},
 	'charizardmegay': {
 		'isNonstandard': 'Past',
@@ -66,7 +66,7 @@ tierData = {
 	'blastoisemega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'blastoisegmax': {
 		'isNonstandard': 'Past',
@@ -259,7 +259,7 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'raichu': {
-		'tier': 'ZUBL',
+		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -447,7 +447,7 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'perrserker': {
-		'tier': 'ZUBL',
+		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -463,7 +463,7 @@ tierData = {
 		'tier': 'LC',
 	},
 	'primeape': {
-		'tier': 'PUBL',
+		'tier': 'NU',
 		'doublesTier': 'NFE',
 		'natDexTier': 'NFE',
 	},
@@ -512,12 +512,12 @@ tierData = {
 	'alakazam': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'RUBL',
+		'natDexTier': 'UU',
 	},
 	'alakazammega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'machop': {
 		'isNonstandard': 'Past',
@@ -618,7 +618,7 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'slowbrogalar': {
-		'tier': 'NUBL',
+		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -636,7 +636,7 @@ tierData = {
 		'tier': 'LC',
 	},
 	'magneton': {
-		'tier': 'PUBL',
+		'tier': 'NU',
 		'doublesTier': 'NFE',
 		'natDexTier': 'NFE',
 	},
@@ -715,12 +715,12 @@ tierData = {
 	'gengar': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
-		'natDexTier': 'RUBL',
+		'natDexTier': 'UU',
 	},
 	'gengarmega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'AG',
+		'natDexTier': 'Illegal',
 	},
 	'gengargmax': {
 		'isNonstandard': 'Past',
@@ -770,7 +770,7 @@ tierData = {
 		'tier': 'LC',
 	},
 	'electrode': {
-		'tier': 'ZUBL',
+		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -903,7 +903,7 @@ tierData = {
 	'kangaskhanmega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'horsea': {
 		'isNonstandard': 'Past',
@@ -1028,10 +1028,10 @@ tierData = {
 	'pinsirmega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'UUBL',
+		'natDexTier': 'OU',
 	},
 	'tauros': {
-		'tier': 'ZUBL',
+		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -1054,9 +1054,9 @@ tierData = {
 		'tier': 'LC',
 	},
 	'gyarados': {
-		'tier': 'RUBL',
+		'tier': 'UU',
 		'doublesTier': 'DUU',
-		'natDexTier': 'UUBL',
+		'natDexTier': 'OU',
 	},
 	'gyaradosmega': {
 		'isNonstandard': 'Past',
@@ -1141,7 +1141,7 @@ tierData = {
 	'porygonz': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'RUBL',
+		'natDexTier': 'UU',
 	},
 	'omanyte': {
 		'isNonstandard': 'Past',
@@ -1171,7 +1171,7 @@ tierData = {
 	'aerodactylmega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'RUBL',
+		'natDexTier': 'UU',
 	},
 	'munchlax': {
 		'tier': 'LC',
@@ -1211,9 +1211,9 @@ tierData = {
 		'natDexTier': 'OU',
 	},
 	'moltresgalar': {
-		'tier': 'RUBL',
+		'tier': 'UU',
 		'doublesTier': '(DUU)',
-		'natDexTier': 'RUBL',
+		'natDexTier': 'UU',
 	},
 	'dratini': {
 		'tier': 'LC',
@@ -1227,24 +1227,24 @@ tierData = {
 		'natDexTier': 'OU',
 	},
 	'mewtwo': {
-		'tier': 'Uber',
-		'doublesTier': 'DUber',
-		'natDexTier': 'Uber',
+		'tier': 'Ubers',
+		'doublesTier': 'DUbers',
+		'natDexTier': 'Ubers',
 	},
 	'mewtwomegax': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'mewtwomegay': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'mew': {
-		'tier': 'RUBL',
+		'tier': 'UU',
 		'doublesTier': '(DUU)',
-		'natDexTier': 'RUBL',
+		'natDexTier': 'UU',
 	},
 	'chikorita': {
 		'isNonstandard': 'Past',
@@ -1506,7 +1506,7 @@ tierData = {
 		'natDexTier': 'NFE',
 	},
 	'gliscor': {
-		'tier': 'Uber',
+		'tier': 'Ubers',
 		'doublesTier': 'DUU',
 		'natDexTier': 'OU',
 	},
@@ -1548,7 +1548,7 @@ tierData = {
 	'heracrossmega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'RUBL',
+		'natDexTier': 'UU',
 	},
 	'sneasel': {
 		'tier': 'ZU',
@@ -1563,18 +1563,18 @@ tierData = {
 	'weavile': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
-		'natDexTier': 'UUBL',
+		'natDexTier': 'OU',
 	},
 	'sneasler': {
-		'tier': 'Uber',
+		'tier': 'Ubers',
 		'doublesTier': '(DUU)',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'teddiursa': {
 		'tier': 'LC',
 	},
 	'ursaring': {
-		'tier': 'ZUBL',
+		'tier': 'PU',
 		'doublesTier': 'NFE',
 		'natDexTier': 'NFE',
 	},
@@ -1584,9 +1584,9 @@ tierData = {
 		'natDexTier': 'OU',
 	},
 	'ursalunabloodmoon': {
-		'tier': 'Uber',
+		'tier': 'Ubers',
 		'doublesTier': 'DOU',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'slugma': {
 		'tier': 'LC',
@@ -1607,7 +1607,7 @@ tierData = {
 	'mamoswine': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
-		'natDexTier': 'RUBL',
+		'natDexTier': 'UU',
 	},
 	'corsola': {
 		'isNonstandard': 'Past',
@@ -1679,7 +1679,7 @@ tierData = {
 		'tier': 'NFE',
 	},
 	'wyrdeer': {
-		'tier': 'ZUBL',
+		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -1727,12 +1727,12 @@ tierData = {
 	'lugia': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'hooh': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'celebi': {
 		'isNonstandard': 'Past',
@@ -1772,12 +1772,12 @@ tierData = {
 	'blaziken': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'UUBL',
+		'natDexTier': 'OU',
 	},
 	'blazikenmega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'mudkip': {
 		'isNonstandard': 'Past',
@@ -1921,13 +1921,13 @@ tierData = {
 	'gallademega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'RUBL',
+		'natDexTier': 'UU',
 	},
 	'surskit': {
 		'tier': 'LC',
 	},
 	'masquerain': {
-		'tier': 'ZUBL',
+		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -1963,7 +1963,7 @@ tierData = {
 	'shedinja': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'AG',
+		'natDexTier': 'Illegal',
 	},
 	'whismur': {
 		'isNonstandard': 'Past',
@@ -2024,7 +2024,7 @@ tierData = {
 	'mawilemega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'UUBL',
+		'natDexTier': 'OU',
 	},
 	'aron': {
 		'isNonstandard': 'Past',
@@ -2057,7 +2057,7 @@ tierData = {
 	'medichammega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'UUBL',
+		'natDexTier': 'OU',
 	},
 	'electrike': {
 		'isNonstandard': 'Past',
@@ -2207,10 +2207,10 @@ tierData = {
 	'altariamega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'RUBL',
+		'natDexTier': 'UU',
 	},
 	'zangoose': {
-		'tier': 'ZUBL',
+		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -2416,12 +2416,12 @@ tierData = {
 	'salamence': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
-		'natDexTier': 'RUBL',
+		'natDexTier': 'UU',
 	},
 	'salamencemega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'beldum': {
 		'isNonstandard': 'Past',
@@ -2441,7 +2441,7 @@ tierData = {
 	'metagrossmega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'regirock': {
 		'isNonstandard': 'Past',
@@ -2466,72 +2466,72 @@ tierData = {
 	'latiasmega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'RUBL',
+		'natDexTier': 'UU',
 	},
 	'latios': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'RUBL',
+		'natDexTier': 'UU',
 	},
 	'latiosmega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'RUBL',
+		'natDexTier': 'UU',
 	},
 	'kyogre': {
-		'tier': 'Uber',
-		'doublesTier': 'DUber',
-		'natDexTier': 'Uber',
+		'tier': 'Ubers',
+		'doublesTier': 'DUbers',
+		'natDexTier': 'Ubers',
 	},
 	'kyogreprimal': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'groudon': {
-		'tier': 'Uber',
-		'doublesTier': 'DUber',
-		'natDexTier': 'Uber',
+		'tier': 'Ubers',
+		'doublesTier': 'DUbers',
+		'natDexTier': 'Ubers',
 	},
 	'groudonprimal': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'rayquaza': {
-		'tier': 'Uber',
-		'doublesTier': 'DUber',
-		'natDexTier': 'Uber',
+		'tier': 'Ubers',
+		'doublesTier': 'DUbers',
+		'natDexTier': 'Ubers',
 	},
 	'rayquazamega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'AG',
+		'natDexTier': 'Illegal',
 	},
 	'jirachi': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
-		'natDexTier': 'RUBL',
+		'natDexTier': 'UU',
 	},
 	'deoxys': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'deoxysattack': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'deoxysdefense': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'RUBL',
+		'natDexTier': 'UU',
 	},
 	'deoxysspeed': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'turtwig': {
 		'tier': 'LC',
@@ -2768,7 +2768,7 @@ tierData = {
 	'garchompmega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': '(OU)',
+		'natDexTier': 'OU',
 	},
 	'riolu': {
 		'tier': 'LC',
@@ -2781,7 +2781,7 @@ tierData = {
 	'lucariomega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'hippopotas': {
 		'tier': 'LC',
@@ -2851,12 +2851,12 @@ tierData = {
 		'natDexTier': 'UU',
 	},
 	'rotomfrost': {
-		'tier': 'ZUBL',
+		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
 	'rotomfan': {
-		'tier': 'ZUBL',
+		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -2871,7 +2871,7 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'mesprit': {
-		'tier': 'PUBL',
+		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -2881,24 +2881,24 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'dialga': {
-		'tier': 'Uber',
-		'doublesTier': 'DUber',
-		'natDexTier': 'Uber',
+		'tier': 'Ubers',
+		'doublesTier': 'DUbers',
+		'natDexTier': 'Ubers',
 	},
 	'dialgaorigin': {
-		'tier': 'Uber',
-		'doublesTier': 'DUber',
-		'natDexTier': 'Uber',
+		'tier': 'Ubers',
+		'doublesTier': 'DUbers',
+		'natDexTier': 'Ubers',
 	},
 	'palkia': {
-		'tier': 'Uber',
-		'doublesTier': 'DUber',
-		'natDexTier': 'Uber',
+		'tier': 'Ubers',
+		'doublesTier': 'DUbers',
+		'natDexTier': 'Ubers',
 	},
 	'palkiaorigin': {
-		'tier': 'Uber',
-		'doublesTier': 'DUber',
-		'natDexTier': 'Uber',
+		'tier': 'Ubers',
+		'doublesTier': 'DUbers',
+		'natDexTier': 'Ubers',
 	},
 	'heatran': {
 		'tier': 'OU',
@@ -2911,14 +2911,14 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'giratina': {
-		'tier': 'Uber',
-		'doublesTier': 'DUber',
-		'natDexTier': 'Uber',
+		'tier': 'Ubers',
+		'doublesTier': 'DUbers',
+		'natDexTier': 'Ubers',
 	},
 	'giratinaorigin': {
-		'tier': 'Uber',
-		'doublesTier': 'DUber',
-		'natDexTier': 'Uber',
+		'tier': 'Ubers',
+		'doublesTier': 'DUbers',
+		'natDexTier': 'Ubers',
 	},
 	'cresselia': {
 		'tier': 'UU',
@@ -2933,12 +2933,12 @@ tierData = {
 	'manaphy': {
 		'tier': 'OU',
 		'doublesTier': '(DUU)',
-		'natDexTier': 'UUBL',
+		'natDexTier': 'OU',
 	},
 	'darkrai': {
-		'tier': 'Uber',
-		'doublesTier': 'DUber',
-		'natDexTier': 'Uber',
+		'tier': 'Ubers',
+		'doublesTier': 'DUbers',
+		'natDexTier': 'Ubers',
 	},
 	'shaymin': {
 		'tier': 'NU',
@@ -2946,19 +2946,19 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'shayminsky': {
-		'tier': 'Uber',
+		'tier': 'Ubers',
 		'doublesTier': '(DUU)',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'arceus': {
-		'tier': 'Uber',
-		'doublesTier': 'DUber',
-		'natDexTier': 'Uber',
+		'tier': 'Ubers',
+		'doublesTier': 'DUbers',
+		'natDexTier': 'Ubers',
 	},
 	'victini': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'RUBL',
+		'natDexTier': 'UU',
 	},
 	'snivy': {
 		'isNonstandard': 'Past',
@@ -3229,14 +3229,14 @@ tierData = {
 		'tier': 'LC',
 	},
 	'lilligant': {
-		'tier': 'PUBL',
+		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
 	'lilliganthisui': {
-		'tier': 'RUBL',
+		'tier': 'UU',
 		'doublesTier': '(DUU)',
-		'natDexTier': 'RUBL',
+		'natDexTier': 'UU',
 	},
 	'basculin': {
 		'tier': 'PU',
@@ -3245,7 +3245,7 @@ tierData = {
 	},
 	'basculegion': {
 		'tier': 'RU',
-		'doublesTier': 'DUber',
+		'doublesTier': 'DUbers',
 		'natDexTier': 'RU',
 	},
 	'basculegionf': {
@@ -3285,7 +3285,7 @@ tierData = {
 	'darmanitangalar': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'darmanitangalarzen': {
 		'isNonstandard': 'Past',
@@ -3388,7 +3388,7 @@ tierData = {
 	'zoroarkhisui': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
-		'natDexTier': 'RUBL',
+		'natDexTier': 'UU',
 	},
 	'minccino': {
 		'isNonstandard': 'Past',
@@ -3569,7 +3569,7 @@ tierData = {
 		'tier': 'NFE',
 	},
 	'haxorus': {
-		'tier': 'RUBL',
+		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -3610,7 +3610,7 @@ tierData = {
 		'tier': 'LC',
 	},
 	'mienshao': {
-		'tier': 'RUBL',
+		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -3688,7 +3688,7 @@ tierData = {
 		'tier': 'LC',
 	},
 	'volcarona': {
-		'tier': 'Uber',
+		'tier': 'Ubers',
 		'doublesTier': 'DUU',
 		'natDexTier': 'OU',
 	},
@@ -3700,7 +3700,7 @@ tierData = {
 	'terrakion': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'RUBL',
+		'natDexTier': 'UU',
 	},
 	'virizion': {
 		'isNonstandard': 'Past',
@@ -3715,7 +3715,7 @@ tierData = {
 	'tornadustherian': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
-		'natDexTier': 'UUBL',
+		'natDexTier': 'OU',
 	},
 	'thundurus': {
 		'tier': 'RU',
@@ -3730,17 +3730,17 @@ tierData = {
 	'reshiram': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'zekrom': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'landorus': {
-		'tier': 'Uber',
+		'tier': 'Ubers',
 		'doublesTier': 'DUU',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'landorustherian': {
 		'tier': 'OU',
@@ -3750,17 +3750,17 @@ tierData = {
 	'kyurem': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'UUBL',
+		'natDexTier': 'OU',
 	},
 	'kyuremblack': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'kyuremwhite': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'keldeo': {
 		'isNonstandard': 'Past',
@@ -3778,27 +3778,27 @@ tierData = {
 	'genesect': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'genesectburn': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'genesectchill': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'genesectdouse': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'genesectshock': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'chespin': {
 		'tier': 'LC',
@@ -3867,7 +3867,7 @@ tierData = {
 		'tier': 'NFE',
 	},
 	'vivillon': {
-		'tier': 'PUBL',
+		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -4037,9 +4037,9 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'hawlucha': {
-		'tier': 'RUBL',
+		'tier': 'UU',
 		'doublesTier': '(DUU)',
-		'natDexTier': 'RUBL',
+		'natDexTier': 'UU',
 	},
 	'dedenne': {
 		'tier': 'ZU',
@@ -4135,7 +4135,7 @@ tierData = {
 	'xerneas': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'xerneasneutral': {
 		'isNonstandard': 'Custom', 
@@ -4144,12 +4144,12 @@ tierData = {
 	'yveltal': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'zygarde': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'zygarde10': {
 		'isNonstandard': 'Past',
@@ -4159,7 +4159,7 @@ tierData = {
 	'zygardecomplete': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'diancie': {
 		'tier': 'RU',
@@ -4280,7 +4280,7 @@ tierData = {
 		'tier': 'LC',
 	},
 	'crabominable': {
-		'tier': 'ZUBL',
+		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -4290,12 +4290,12 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'oricoriopompom': {
-		'tier': 'NUBL',
+		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
 	'oricoriopau': {
-		'tier': 'PUBL',
+		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -4329,7 +4329,7 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'lycanrocmidnight': {
-		'tier': 'ZUBL',
+		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -4628,7 +4628,7 @@ tierData = {
 		'tier': 'NFE',
 	},
 	'kommoo': {
-		'tier': 'UUBL',
+		'tier': 'OU',
 		'doublesTier': 'DOU',
 		'natDexTier': 'OU',
 	},
@@ -4670,12 +4670,12 @@ tierData = {
 	'solgaleo': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'lunala': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'nihilego': {
 		'isNonstandard': 'Past',
@@ -4690,12 +4690,12 @@ tierData = {
 	'pheromosa': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'xurkitree': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'UUBL',
+		'natDexTier': 'OU',
 	},
 	'celesteela': {
 		'isNonstandard': 'Past',
@@ -4720,27 +4720,27 @@ tierData = {
 	'necrozmaduskmane': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'necrozmadawnwings': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'necrozmaultra': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'magearna': {
-		'tier': 'Uber',
-		'doublesTier': 'DUber',
-		'natDexTier': 'Uber',
+		'tier': 'Ubers',
+		'doublesTier': 'DUbers',
+		'natDexTier': 'Ubers',
 	},
 	'marshadow': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'poipole': {
 		'isNonstandard': 'Past',
@@ -4750,7 +4750,7 @@ tierData = {
 	'naganadel': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'stakataka': {
 		'isNonstandard': 'Past',
@@ -4775,7 +4775,7 @@ tierData = {
 	'melmetal': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'melmetalgmax': {
 		'isNonstandard': 'Past',
@@ -4904,7 +4904,7 @@ tierData = {
 		'tier': 'LC',
 	},
 	'drednaw': {
-		'tier': 'NUBL',
+		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -5032,7 +5032,7 @@ tierData = {
 		'tier': 'LC',
 	},
 	'polteageist': {
-		'tier': 'RUBL',
+		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -5083,7 +5083,7 @@ tierData = {
 		'tier': 'Illegal',
 	},
 	'falinks': {
-		'tier': 'ZUBL',
+		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -5150,7 +5150,7 @@ tierData = {
 	'dracovish': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'arctovish': {
 		'isNonstandard': 'Past',
@@ -5175,32 +5175,32 @@ tierData = {
 	'dragapult': {
 		'tier': 'OU',
 		'doublesTier': 'DUU',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'zacian': {
-		'tier': 'Uber',
-		'doublesTier': 'DUber',
-		'natDexTier': 'Uber',
+		'tier': 'Ubers',
+		'doublesTier': 'DUbers',
+		'natDexTier': 'Ubers',
 	},
 	'zaciancrowned': {
-		'tier': 'Uber',
-		'doublesTier': 'DUber',
-		'natDexTier': 'Uber',
+		'tier': 'Ubers',
+		'doublesTier': 'DUbers',
+		'natDexTier': 'Ubers',
 	},
 	'zamazenta': {
 		'tier': 'OU',
-		'doublesTier': 'DUber',
+		'doublesTier': 'DUbers',
 		'natDexTier': 'OU',
 	},
 	'zamazentacrowned': {
-		'tier': 'Uber',
-		'doublesTier': 'DUber',
-		'natDexTier': 'Uber',
+		'tier': 'Ubers',
+		'doublesTier': 'DUbers',
+		'natDexTier': 'Ubers',
 	},
 	'eternatus': {
-		'tier': 'Uber',
-		'doublesTier': 'DUber',
-		'natDexTier': 'Uber',
+		'tier': 'Ubers',
+		'doublesTier': 'DUbers',
+		'natDexTier': 'Ubers',
 	},
 	'eternatuseternamax': {
 		'isNonstandard': 'Past',
@@ -5210,13 +5210,13 @@ tierData = {
 		'tier': 'NFE',
 	},
 	'urshifu': {
-		'tier': 'Uber',
-		'doublesTier': 'DUber',
-		'natDexTier': 'Uber',
+		'tier': 'Ubers',
+		'doublesTier': 'DUbers',
+		'natDexTier': 'Ubers',
 	},
 	'urshifurapidstrike': {
-		'tier': 'Uber',
-		'doublesTier': 'DUber',
+		'tier': 'Ubers',
+		'doublesTier': 'DUbers',
 		'natDexTier': 'OU',
 	},
 	'urshifugmax': {
@@ -5228,17 +5228,17 @@ tierData = {
 		'tier': 'Illegal',
 	},
 	'zarude': {
-		'tier': 'RUBL',
+		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
 	'regieleki': {
-		'tier': 'Uber',
+		'tier': 'Ubers',
 		'doublesTier': 'DUU',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'regidrago': {
-		'tier': 'RUBL',
+		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -5248,9 +5248,9 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'spectrier': {
-		'tier': 'Uber',
+		'tier': 'Ubers',
 		'doublesTier': '(DUU)',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'calyrex': {
 		'tier': 'ZU',
@@ -5258,14 +5258,14 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'calyrexice': {
-		'tier': 'Uber',
-		'doublesTier': 'DUber',
-		'natDexTier': 'Uber',
+		'tier': 'Ubers',
+		'doublesTier': 'DUbers',
+		'natDexTier': 'Ubers',
 	},
 	'calyrexshadow': {
-		'tier': 'AG',
-		'doublesTier': 'DUber',
-		'natDexTier': 'AG',
+		'tier': 'Illegal',
+		'doublesTier': 'DUbers',
+		'natDexTier': 'Illegal',
 	},
 	'enamorus': {
 		'tier': 'OU',
@@ -5361,9 +5361,9 @@ tierData = {
 		'tier': 'NFE',
 	},
 	'espathra': {
-		'tier': 'Uber',
+		'tier': 'Ubers',
 		'doublesTier': '(DUU)',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'wiglett': {
 		'tier': 'LC',
@@ -5376,7 +5376,7 @@ tierData = {
 	'dondozo': {
 		'tier': 'OU',
 		'doublesTier': '(DUU)',
-		'natDexTier': 'UUBL',
+		'natDexTier': 'OU',
 	},
 	'veluza': {
 		'tier': 'PU',
@@ -5387,9 +5387,9 @@ tierData = {
 		'tier': 'LC',
 	},
 	'palafin': {
-		'tier': 'Uber',
+		'tier': 'Ubers',
 		'doublesTier': 'DOU',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'smoliv': {
 		'tier': 'LC',
@@ -5443,7 +5443,7 @@ tierData = {
 		'tier': 'LC',
 	},
 	'cetitan': {
-		'tier': 'NUBL',
+		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -5454,13 +5454,13 @@ tierData = {
 		'tier': 'NFE',
 	},
 	'baxcalibur': {
-		'tier': 'Uber',
+		'tier': 'Ubers',
 		'doublesTier': 'DUU',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'tatsugiri': {
 		'tier': 'NU',
-		'doublesTier': 'DUber',
+		'doublesTier': 'DUbers',
 		'natDexTier': 'RU',
 	},
 	'cyclizar': {
@@ -5548,7 +5548,7 @@ tierData = {
 		'tier': 'LC',
 	},
 	'mabosstiff': {
-		'tier': 'ZUBL',
+		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -5569,7 +5569,7 @@ tierData = {
 	'gholdengo': {
 		'tier': 'OU',
 		'doublesTier': 'DOU',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'greattusk': {
 		'tier': 'OU',
@@ -5592,9 +5592,9 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'fluttermane': {
-		'tier': 'Uber',
+		'tier': 'Ubers',
 		'doublesTier': 'DOU',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'slitherwing': {
 		'tier': 'RU',
@@ -5602,9 +5602,9 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'roaringmoon': {
-		'tier': 'Uber',
+		'tier': 'Ubers',
 		'doublesTier': 'DOU',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'irontreads': {
 		'tier': 'UU',
@@ -5617,7 +5617,7 @@ tierData = {
 		'natDexTier': 'UU',
 	},
 	'ironhands': {
-		'tier': 'UUBL',
+		'tier': 'OU',
 		'doublesTier': 'DOU',
 		'natDexTier': 'UU',
 	},
@@ -5632,9 +5632,9 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'ironbundle': {
-		'tier': 'Uber',
+		'tier': 'Ubers',
 		'doublesTier': 'DOU',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'ironvaliant': {
 		'tier': 'OU',
@@ -5647,9 +5647,9 @@ tierData = {
 		'natDexTier': 'UU',
 	},
 	'chienpao': {
-		'tier': 'Uber',
+		'tier': 'Ubers',
 		'doublesTier': 'DOU',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'wochien': {
 		'tier': 'NU',
@@ -5657,19 +5657,19 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'chiyu': {
-		'tier': 'Uber',
+		'tier': 'Ubers',
 		'doublesTier': 'DOU',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'koraidon': {
-		'tier': 'Uber',
-		'doublesTier': 'DUber',
-		'natDexTier': 'AG',
+		'tier': 'Ubers',
+		'doublesTier': 'DUbers',
+		'natDexTier': 'Illegal',
 	},
 	'miraidon': {
-		'tier': 'Uber',
-		'doublesTier': 'DUber',
-		'natDexTier': 'AG',
+		'tier': 'Ubers',
+		'doublesTier': 'DUbers',
+		'natDexTier': 'Illegal',
 	},
 	'tinkatink': {
 		'tier': 'LC',
@@ -5708,7 +5708,7 @@ tierData = {
 	'kingambit': {
 		'tier': 'OU',
 		'doublesTier': 'DOU',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'clodsire': {
 		'tier': 'UU',
@@ -5716,19 +5716,19 @@ tierData = {
 		'natDexTier': 'OU',
 	},
 	'annihilape': {
-		'tier': 'Uber',
-		'doublesTier': 'DUber',
-		'natDexTier': 'Uber',
+		'tier': 'Ubers',
+		'doublesTier': 'DUbers',
+		'natDexTier': 'Ubers',
 	},
 	'walkingwake': {
 		'tier': 'OU',
 		'doublesTier': 'DUU',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'ironleaves': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
-		'natDexTier': 'RUBL',
+		'natDexTier': 'UU',
 	},
 	'poltchageist': {
 		'tier': 'LC',
@@ -5764,14 +5764,14 @@ tierData = {
 		'natDexTier': 'OU',
 	},
 	'ogerponhearthflame': {
-		'tier': 'Uber',
+		'tier': 'Ubers',
 		'doublesTier': 'DOU',
-		'natDexTier': 'Uber',
+		'natDexTier': 'Ubers',
 	},
 	'ogerponcornerstone': {
 		'tier': 'OU',
 		'doublesTier': 'DUU',
-		'natDexTier': 'UUBL',
+		'natDexTier': 'OU',
 	},
 	'missingno': {
 		'isNonstandard': 'Custom',
