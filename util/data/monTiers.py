@@ -1,6151 +1,6151 @@
 tierData = {
-	'bulbasaur': {
+	'Bulbasaur': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'ivysaur': {
+	'Ivysaur': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'venusaur': {
+	'Venusaur': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'venusaurmega': {
+	'Venusaur-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'UU',
 	},
-	'venusaurgmax': {
+	'Venusaur-Gmax': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'charmander': {
+	'Charmander': {
 		'tier': 'LC',
 	},
-	'charmeleon': {
+	'Charmeleon': {
 		'tier': 'NFE',
 	},
-	'charizard': {
+	'Charizard': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'charizardmegax': {
+	'Charizard-Mega-X': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'OU',
 	},
-	'charizardmegay': {
+	'Charizard-Mega-Y': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'OU',
 	},
-	'charizardgmax': {
+	'Charizard-Gmax': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'squirtle': {
+	'Squirtle': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'wartortle': {
+	'Wartortle': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'blastoise': {
+	'Blastoise': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'blastoisemega': {
+	'Blastoise-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'blastoisegmax': {
+	'Blastoise-Gmax': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'caterpie': {
-		'isNonstandard': 'Past',
-		'tier': 'Illegal',
-		'natDexTier': 'LC',
-	},
-	'metapod': {
-		'isNonstandard': 'Past',
-		'tier': 'Illegal',
-		'natDexTier': 'NFE',
-	},
-	'butterfree': {
-		'isNonstandard': 'Past',
-		'tier': 'Illegal',
-		'natDexTier': 'RU',
-	},
-	'butterfreegmax': {
-		'isNonstandard': 'Past',
-		'tier': 'Illegal',
-	},
-	'weedle': {
+	'Caterpie': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'kakuna': {
+	'Metapod': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'beedrill': {
+	'Butterfree': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'beedrillmega': {
+	'Butterfree-Gmax': {
+		'isNonstandard': 'Past',
+		'tier': 'Illegal',
+	},
+	'Weedle': {
+		'isNonstandard': 'Past',
+		'tier': 'Illegal',
+		'natDexTier': 'LC',
+	},
+	'Kakuna': {
+		'isNonstandard': 'Past',
+		'tier': 'Illegal',
+		'natDexTier': 'NFE',
+	},
+	'Beedrill': {
+		'isNonstandard': 'Past',
+		'tier': 'Illegal',
+		'natDexTier': 'RU',
+	},
+	'Beedrill-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'UU',
 	},
-	'pidgey': {
+	'Pidgey': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'pidgeotto': {
+	'Pidgeotto': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'pidgeot': {
+	'Pidgeot': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'pidgeotmega': {
+	'Pidgeot-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'rattata': {
+	'Rattata': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'rattataalola': {
+	'Rattata-Alola': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'raticate': {
+	'Raticate': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'raticatealola': {
+	'Raticate-Alola': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'raticatealolatotem': {
+	'Raticate-Alola-Totem': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'spearow': {
+	'Spearow': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'fearow': {
+	'Fearow': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'ekans': {
+	'Ekans': {
 		'tier': 'LC',
 	},
-	'arbok': {
+	'Arbok': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'pichu': {
+	'Pichu': {
 		'tier': 'LC',
 	},
-	'pichuspikyeared': {
+	'Pichu-Spikyeared': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'pikachu': {
+	'Pikachu': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'pikachucosplay': {
+	'Pikachu-Cosplay': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'pikachurockstar': {
+	'Pikachu-Rockstar': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'pikachubelle': {
+	'Pikachu-Belle': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'pikachupopstar': {
+	'Pikachu-Popstar': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'pikachuphd': {
+	'Pikachu-Phd': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'pikachulibre': {
+	'Pikachu-Libre': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'pikachuoriginal': {
+	'Pikachu-Original': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'pikachuhoenn': {
+	'Pikachu-Hoenn': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'pikachusinnoh': {
+	'Pikachu-Sinnoh': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'pikachuunova': {
+	'Pikachu-Unova': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'pikachukalos': {
+	'Pikachu-Kalos': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'pikachualola': {
+	'Pikachu-Alola': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'pikachupartner': {
+	'Pikachu-Partner': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'pikachustarter': {
+	'Pikachu-Starter': {
 		'isNonstandard': 'LGPE',
 		'tier': 'Illegal',
 	},
-	'pikachugmax': {
+	'Pikachu-Gmax': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'pikachuworld': {
+	'Pikachu-World': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'raichu': {
+	'Raichu': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'raichualola': {
+	'Raichu-Alola': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'sandshrew': {
+	'Sandshrew': {
 		'tier': 'LC',
 	},
-	'sandshrewalola': {
+	'Sandshrew-Alola': {
 		'tier': 'LC',
 	},
-	'sandslash': {
+	'Sandslash': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'sandslashalola': {
+	'Sandslash-Alola': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'nidoranf': {
+	'Nidoran-F': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'nidorina': {
+	'Nidorina': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'nidoqueen': {
+	'Nidoqueen': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'nidoranm': {
+	'Nidoran-M': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'nidorino': {
+	'Nidorino': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'nidoking': {
+	'Nidoking': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'cleffa': {
+	'Cleffa': {
 		'tier': 'LC',
 	},
-	'clefairy': {
+	'Clefairy': {
 		'tier': 'NFE',
 		'doublesTier': 'DUU',
 		'natDexTier': 'NFE',
 	},
-	'clefable': {
+	'Clefable': {
 		'tier': 'OU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'UU',
 	},
-	'vulpix': {
+	'Vulpix': {
 		'tier': 'NFE',
 	},
-	'vulpixalola': {
+	'Vulpix-Alola': {
 		'tier': 'NFE',
 	},
-	'ninetales': {
+	'Ninetales': {
 		'tier': 'NU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
-	'ninetalesalola': {
+	'Ninetales-Alola': {
 		'tier': 'UU',
 		'doublesTier': 'DOU',
 		'natDexTier': 'UU',
 	},
-	'igglybuff': {
+	'Igglybuff': {
 		'tier': 'LC',
 	},
-	'jigglypuff': {
+	'Jigglypuff': {
 		'tier': 'NFE',
 	},
-	'wigglytuff': {
+	'Wigglytuff': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'zubat': {
+	'Zubat': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'golbat': {
+	'Golbat': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'crobat': {
+	'Crobat': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'oddish': {
+	'Oddish': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'gloom': {
+	'Gloom': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'vileplume': {
+	'Vileplume': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'bellossom': {
+	'Bellossom': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'paras': {
+	'Paras': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'parasect': {
+	'Paras-Ect': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'venonat': {
+	'Venonat': {
 		'tier': 'LC',
 	},
-	'venomoth': {
+	'Venomoth': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'diglett': {
+	'Diglett': {
 		'tier': 'NFE',
 	},
-	'diglettalola': {
+	'Diglett-Alola': {
 		'tier': 'LC',
 	},
-	'dugtrio': {
+	'Dugtrio': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'dugtrioalola': {
+	'Dugtrio-Alola': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'meowth': {
+	'Meowth': {
 		'tier': 'LC',
 	},
-	'meowthalola': {
+	'Meowth-Alola': {
 		'tier': 'LC',
 	},
-	'meowthgalar': {
+	'Meowth-Galar': {
 		'tier': 'LC',
 	},
-	'meowthgmax': {
+	'Meowth-Gmax': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'persian': {
+	'Persian': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'persianalola': {
+	'Persian-Alola': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'perrserker': {
+	'Perrserker': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'psyduck': {
+	'Psyduck': {
 		'tier': 'LC',
 	},
-	'golduck': {
+	'Golduck': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'mankey': {
+	'Mankey': {
 		'tier': 'LC',
 	},
-	'primeape': {
+	'Primeape': {
 		'tier': 'NU',
 		'doublesTier': 'NFE',
 		'natDexTier': 'NFE',
 	},
-	'growlithe': {
+	'Growlithe': {
 		'tier': 'LC',
 	},
-	'growlithehisui': {
+	'Growlithe-Hisui': {
 		'tier': 'NFE',
 	},
-	'arcanine': {
+	'Arcanine': {
 		'tier': 'NU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
-	'arcaninehisui': {
+	'Arcanine-Hisui': {
 		'tier': 'UU',
 		'doublesTier': 'DOU',
 		'natDexTier': 'RU',
 	},
-	'poliwag': {
+	'Poliwag': {
 		'tier': 'LC',
 	},
-	'poliwhirl': {
+	'Poliwhirl': {
 		'tier': 'NFE',
 	},
-	'poliwrath': {
+	'Poliwrath': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'politoed': {
+	'Politoed': {
 		'tier': 'RU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
-	'abra': {
+	'Abra': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'kadabra': {
+	'Kadabra': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'alakazam': {
+	'Alakazam': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'UU',
 	},
-	'alakazammega': {
+	'Alakazam-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'machop': {
+	'Machop': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'machoke': {
+	'Machoke': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'machamp': {
+	'Machamp': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'machampgmax': {
+	'Machamp-Gmax': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'bellsprout': {
+	'Bellsprout': {
 		'tier': 'LC',
 	},
-	'weepinbell': {
+	'Weepinbell': {
 		'tier': 'NFE',
 	},
-	'victreebel': {
+	'Victreebel': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'tentacool': {
+	'Tentacool': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'tentacruel': {
+	'Tentacruel': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'geodude': {
+	'Geodude': {
 		'tier': 'LC',
 	},
-	'geodudealola': {
+	'Geodude-Alola': {
 		'tier': 'LC',
 	},
-	'graveler': {
+	'Graveler': {
 		'tier': 'NFE',
 	},
-	'graveleralola': {
+	'Graveler-Alola': {
 		'tier': 'NFE',
 	},
-	'golem': {
+	'Golem': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'golemalola': {
+	'Golem-Alola': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'ponyta': {
+	'Ponyta': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'ponytagalar': {
+	'Ponyta-Galar': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'rapidash': {
+	'Rapidash': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'rapidashgalar': {
+	'Rapidash-Galar': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'slowpoke': {
+	'Slowpoke': {
 		'tier': 'LC',
 	},
-	'slowpokegalar': {
+	'Slowpoke-Galar': {
 		'tier': 'LC',
 	},
-	'slowbro': {
+	'Slowbro': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'UU',
 	},
-	'slowbromega': {
+	'Slowbro-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'slowbrogalar': {
+	'Slowbro-Galar': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'slowking': {
+	'Slowking': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'slowkinggalar': {
+	'Slowking-Galar': {
 		'tier': 'OU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'OU',
 	},
-	'magnemite': {
+	'Magnemite': {
 		'tier': 'LC',
 	},
-	'magneton': {
+	'Magneton': {
 		'tier': 'NU',
 		'doublesTier': 'NFE',
 		'natDexTier': 'NFE',
 	},
-	'magnezone': {
+	'Magnezone': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'farfetchd': {
+	'Farfetchd': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'farfetchdgalar': {
+	'Farfetchd-Galar': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'sirfetchd': {
+	'Sirfetchd': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'doduo': {
+	'Doduo': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'dodrio': {
+	'Dodrio': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'seel': {
+	'Seel': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'dewgong': {
+	'Dewgong': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'grimer': {
+	'Grimer': {
 		'tier': 'LC',
 	},
-	'grimeralola': {
+	'Grimer-Alola': {
 		'tier': 'LC',
 	},
-	'muk': {
+	'Muk': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'mukalola': {
+	'Muk-Alola': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'shellder': {
+	'Shellder': {
 		'tier': 'LC',
 	},
-	'cloyster': {
+	'Cloyster': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'gastly': {
+	'Gastly': {
 		'tier': 'NFE',
 	},
-	'haunter': {
+	'Haunter': {
 		'tier': 'PU',
 		'doublesTier': 'NFE',
 		'natDexTier': 'NFE',
 	},
-	'gengar': {
+	'Gengar': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'UU',
 	},
-	'gengarmega': {
+	'Gengar-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Illegal',
 	},
-	'gengargmax': {
+	'Gengar-Gmax': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'onix': {
+	'Onix': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'steelix': {
+	'Steelix': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'steelixmega': {
+	'Steelix-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'drowzee': {
+	'Drowzee': {
 		'tier': 'LC',
 	},
-	'hypno': {
+	'Hypno': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'krabby': {
+	'Krabby': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'kingler': {
+	'Kingler': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'kinglergmax': {
+	'Kingler-Gmax': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'voltorb': {
+	'Voltorb': {
 		'tier': 'LC',
 	},
-	'voltorbhisui': {
+	'Voltorb-Hisui': {
 		'tier': 'LC',
 	},
-	'electrode': {
+	'Electrode': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'electrodehisui': {
+	'Electrode-Hisui': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'exeggcute': {
+	'Exeggcute': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'exeggutor': {
+	'Exeggutor': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'exeggutoralola': {
+	'Exeggutor-Alola': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'cubone': {
+	'Cubone': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'marowak': {
+	'Marowak': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'marowakalola': {
+	'Marowak-Alola': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'marowakalolatotem': {
+	'Marowak-Alola-Totem': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'tyrogue': {
+	'Tyrogue': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'hitmonlee': {
+	'Hitmonlee': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'hitmonchan': {
+	'Hitmonchan': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'hitmontop': {
+	'Hitmontop': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'lickitung': {
+	'Lickitung': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'lickilicky': {
+	'Lickilicky': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'koffing': {
+	'Koffing': {
 		'tier': 'LC',
 	},
-	'weezing': {
+	'Weezing': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'weezinggalar': {
+	'Weezing-Galar': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'rhyhorn': {
+	'Rhyhorn': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'rhydon': {
+	'Rhydon': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'rhyperior': {
+	'Rhyperior': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'happiny': {
+	'Happiny': {
 		'tier': 'LC',
 	},
-	'chansey': {
+	'Chansey': {
 		'tier': 'NU',
 		'doublesTier': 'NFE',
 		'natDexTier': 'UU',
 	},
-	'blissey': {
+	'Blissey': {
 		'tier': 'OU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'tangela': {
+	'Tangela': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'tangrowth': {
+	'Tangrowth': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'kangaskhan': {
+	'Kangaskhan': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'kangaskhanmega': {
+	'Kangaskhan-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'horsea': {
+	'Horsea': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'seadra': {
+	'Seadra': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'kingdra': {
+	'Kingdra': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'goldeen': {
+	'Goldeen': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'seaking': {
+	'Seaking': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'staryu': {
+	'Staryu': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'starmie': {
+	'Starmie': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'mimejr': {
+	'Mimejr': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'mrmime': {
+	'Mrmime': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'mrmimegalar': {
+	'Mrmime-Galar': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'mrrime': {
+	'Mrrime': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'scyther': {
+	'Scyther': {
 		'tier': 'NU',
 		'doublesTier': 'NFE',
 		'natDexTier': 'NFE',
 	},
-	'scizor': {
+	'Scizor': {
 		'tier': 'UU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
-	'scizormega': {
+	'Scizor-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'OU',
 	},
-	'kleavor': {
+	'Kleavor': {
 		'tier': 'UU',
 		'doublesTier': 'DOU',
 		'natDexTier': 'UU',
 	},
-	'smoochum': {
+	'Smoochum': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'jynx': {
+	'Jynx': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'elekid': {
+	'Elekid': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'electabuzz': {
+	'Electabuzz': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'electivire': {
+	'Electivire': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'magby': {
+	'Magby': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'magmar': {
+	'Magmar': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'magmortar': {
+	'Magmortar': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'pinsir': {
+	'Pinsir': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'pinsirmega': {
+	'Pinsir-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'OU',
 	},
-	'tauros': {
+	'Tauros': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'taurospaldeacombat': {
+	'Tauros-Paldeacombat': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'taurospaldeablaze': {
+	'Tauros-Paldeablaze': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'taurospaldeaaqua': {
+	'Tauros-Paldeaaqua': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'magikarp': {
+	'Magikarp': {
 		'tier': 'LC',
 	},
-	'gyarados': {
+	'Gyarados': {
 		'tier': 'UU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'OU',
 	},
-	'gyaradosmega': {
+	'Gyarados-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'OU',
 	},
-	'lapras': {
+	'Lapras': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'laprasgmax': {
+	'Lapras-Gmax': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'ditto': {
+	'Ditto': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'eevee': {
+	'Eevee': {
 		'tier': 'LC',
 	},
-	'eeveestarter': {
+	'Eevee-Starter': {
 		'isNonstandard': 'LGPE',
 		'tier': 'Illegal',
 	},
-	'eeveegmax': {
+	'Eevee-Gmax': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'vaporeon': {
+	'Vaporeon': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'jolteon': {
+	'Jolteon': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'flareon': {
+	'Flareon': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'espeon': {
+	'Espeon': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'umbreon': {
+	'Umbreon': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'leafeon': {
+	'Leafeon': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'glaceon': {
+	'Glaceon': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'sylveon': {
+	'Sylveon': {
 		'tier': 'NU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
-	'porygon': {
+	'Porygon': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'porygon2': {
+	'Porygon-2': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'porygonz': {
+	'Porygon-Z': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'UU',
 	},
-	'omanyte': {
+	'Omanyte': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'omastar': {
+	'Omastar': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'kabuto': {
+	'Kabuto': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'kabutops': {
+	'Kabuto-Ps': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'aerodactyl': {
+	'Aerodactyl': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'aerodactylmega': {
+	'Aerodactyl-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'UU',
 	},
-	'munchlax': {
+	'Munchlax': {
 		'tier': 'LC',
 	},
-	'snorlax': {
+	'Snorlax': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'snorlaxgmax': {
+	'Snorlax-Gmax': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'articuno': {
+	'Articuno': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'articunogalar': {
+	'Articuno-Galar': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'zapdos': {
+	'Zapdos': {
 		'tier': 'OU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'OU',
 	},
-	'zapdosgalar': {
+	'Zapdos-Galar': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'UU',
 	},
-	'moltres': {
+	'Moltres': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'OU',
 	},
-	'moltresgalar': {
+	'Moltres-Galar': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'UU',
 	},
-	'dratini': {
+	'Dratini': {
 		'tier': 'LC',
 	},
-	'dragonair': {
+	'Dragonair': {
 		'tier': 'NFE',
 	},
-	'dragonite': {
+	'Dragonite': {
 		'tier': 'OU',
 		'doublesTier': 'DOU',
 		'natDexTier': 'OU',
 	},
-	'mewtwo': {
+	'Mewtwo': {
 		'tier': 'Ubers',
 		'doublesTier': 'DUbers',
 		'natDexTier': 'Ubers',
 	},
-	'mewtwomegax': {
+	'Mewtwo-Mega-X': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'mewtwomegay': {
+	'Mewtwo-Mega-Y': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'mew': {
+	'Mew': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'UU',
 	},
-	'chikorita': {
+	'Chikorita': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'bayleef': {
+	'Bayleef': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'meganium': {
+	'Meganium': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'cyndaquil': {
+	'Cyndaquil': {
 		'tier': 'LC',
 	},
-	'quilava': {
+	'Quilava': {
 		'tier': 'NFE',
 	},
-	'typhlosion': {
+	'Typhlosion': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'typhlosionhisui': {
+	'Typhlosion-Hisui': {
 		'tier': 'RU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
-	'totodile': {
+	'Totodile': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'croconaw': {
+	'Croconaw': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'feraligatr': {
+	'Feraligatr': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'sentret': {
+	'Sentret': {
 		'tier': 'LC',
 	},
-	'furret': {
+	'Furret': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'hoothoot': {
+	'Hoothoot': {
 		'tier': 'LC',
 	},
-	'noctowl': {
+	'Noctowl': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'ledyba': {
+	'Ledyba': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'ledian': {
+	'Ledian': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'spinarak': {
+	'Spinarak': {
 		'tier': 'LC',
 	},
-	'ariados': {
+	'Ariados': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'chinchou': {
+	'Chinchou': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'lanturn': {
+	'Lanturn': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'togepi': {
+	'Togepi': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'togetic': {
+	'Togetic': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'togekiss': {
+	'Togekiss': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'natu': {
+	'Natu': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'xatu': {
+	'Xatu': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'mareep': {
+	'Mareep': {
 		'tier': 'LC',
 	},
-	'flaaffy': {
+	'Flaaffy': {
 		'tier': 'NFE',
 	},
-	'ampharos': {
+	'Ampharos': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'ampharosmega': {
+	'Ampharos-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'azurill': {
+	'Azurill': {
 		'tier': 'LC',
 	},
-	'marill': {
+	'Marill': {
 		'tier': 'NFE',
 	},
-	'azumarill': {
+	'Azumarill': {
 		'tier': 'UU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
-	'bonsly': {
+	'Bonsly': {
 		'tier': 'LC',
 	},
-	'sudowoodo': {
+	'Sudowoodo': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'hoppip': {
+	'Hoppip': {
 		'tier': 'LC',
 	},
-	'skiploom': {
+	'Skiploom': {
 		'tier': 'NFE',
 	},
-	'jumpluff': {
+	'Jumpluff': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'aipom': {
+	'Aipom': {
 		'tier': 'NFE',
 	},
-	'ambipom': {
+	'Ambipom': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'sunkern': {
+	'Sunkern': {
 		'tier': 'LC',
 	},
-	'sunflora': {
+	'Sunflora': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'yanma': {
+	'Yanma': {
 		'tier': 'NFE',
 	},
-	'yanmega': {
+	'Yanmega': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'wooper': {
+	'Wooper': {
 		'tier': 'LC',
 	},
-	'wooperpaldea': {
+	'Wooper-Paldea': {
 		'tier': 'LC',
 	},
-	'quagsire': {
+	'Quagsire': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'UU',
 	},
-	'murkrow': {
+	'Murkrow': {
 		'tier': 'NFE',
 		'doublesTier': 'DUU',
 	},
-	'honchkrow': {
+	'Honchkrow': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'misdreavus': {
+	'Misdreavus': {
 		'tier': 'ZU',
 		'doublesTier': 'NFE',
 		'natDexTier': 'NFE',
 	},
-	'mismagius': {
+	'Mismagius': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'unown': {
+	'Unown': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'wynaut': {
+	'Wynaut': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'wobbuffet': {
+	'Wobbuffet': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'girafarig': {
+	'Girafarig': {
 		'tier': 'NFE',
 	},
-	'farigiraf': {
+	'Farigiraf': {
 		'tier': 'PU',
 		'doublesTier': 'DOU',
 		'natDexTier': 'RU',
 	},
-	'pineco': {
+	'Pineco': {
 		'tier': 'LC',
 	},
-	'forretress': {
+	'Forretress': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'dunsparce': {
+	'Dunsparce': {
 		'tier': 'NFE',
 	},
-	'dudunsparce': {
+	'Dudunsparce': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'gligar': {
+	'Gligar': {
 		'tier': 'NU',
 		'doublesTier': 'NFE',
 		'natDexTier': 'NFE',
 	},
-	'gliscor': {
+	'Gliscor': {
 		'tier': 'Ubers',
 		'doublesTier': 'DUU',
 		'natDexTier': 'OU',
 	},
-	'snubbull': {
+	'Snubbull': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'granbull': {
+	'Granbull': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'qwilfish': {
+	'Qwilfish': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'qwilfishhisui': {
+	'Qwilfish-Hisui': {
 		'tier': 'NU',
 		'doublesTier': 'NFE',
 		'natDexTier': 'NFE',
 	},
-	'overqwil': {
+	'Overqwil': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'shuckle': {
+	'Shuckle': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'heracross': {
+	'Heracross': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'heracrossmega': {
+	'Heracross-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'UU',
 	},
-	'sneasel': {
+	'Sneasel': {
 		'tier': 'ZU',
 		'doublesTier': 'NFE',
 		'natDexTier': 'NFE',
 	},
-	'sneaselhisui': {
+	'Sneasel-Hisui': {
 		'tier': 'PU',
 		'doublesTier': 'NFE',
 		'natDexTier': 'NFE',
 	},
-	'weavile': {
+	'Weavile': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'OU',
 	},
-	'sneasler': {
+	'Sneasler': {
 		'tier': 'Ubers',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'Ubers',
 	},
-	'teddiursa': {
+	'Teddiursa': {
 		'tier': 'LC',
 	},
-	'ursaring': {
+	'Ursaring': {
 		'tier': 'PU',
 		'doublesTier': 'NFE',
 		'natDexTier': 'NFE',
 	},
-	'ursaluna': {
+	'Ursaluna': {
 		'tier': 'UU',
 		'doublesTier': 'DOU',
 		'natDexTier': 'OU',
 	},
-	'ursalunabloodmoon': {
+	'Ursaluna-Bloodmoon': {
 		'tier': 'Ubers',
 		'doublesTier': 'DOU',
 		'natDexTier': 'Ubers',
 	},
-	'slugma': {
+	'Slugma': {
 		'tier': 'LC',
 	},
-	'magcargo': {
+	'Magcargo': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'swinub': {
+	'Swinub': {
 		'tier': 'LC',
 	},
-	'piloswine': {
+	'Piloswine': {
 		'tier': 'NU',
 		'doublesTier': 'NFE',
 		'natDexTier': 'NFE',
 	},
-	'mamoswine': {
+	'Mamoswine': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'UU',
 	},
-	'corsola': {
+	'Corsola': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'corsolagalar': {
+	'Corsola-Galar': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'cursola': {
+	'Cursola': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'remoraid': {
+	'Remoraid': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'octillery': {
+	'Octillery': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'delibird': {
+	'Delibird': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'mantyke': {
+	'Mantyke': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'mantine': {
+	'Mantine': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'skarmory': {
+	'Skarmory': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'UU',
 	},
-	'houndour': {
+	'Houndour': {
 		'tier': 'LC',
 	},
-	'houndoom': {
+	'Houndoom': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'houndoommega': {
+	'Houndoom-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'phanpy': {
+	'Phanpy': {
 		'tier': 'LC',
 	},
-	'donphan': {
+	'Donphan': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'stantler': {
+	'Stantler': {
 		'tier': 'NFE',
 	},
-	'wyrdeer': {
+	'Wyrdeer': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'smeargle': {
+	'Smeargle': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'miltank': {
+	'Miltank': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'raikou': {
+	'Raikou': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'entei': {
+	'Entei': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'suicune': {
+	'Suicune': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'larvitar': {
+	'Larvitar': {
 		'tier': 'LC',
 	},
-	'pupitar': {
+	'Pupitar': {
 		'tier': 'NFE',
 	},
-	'tyranitar': {
+	'Tyranitar': {
 		'tier': 'RU',
 		'doublesTier': 'DOU',
 		'natDexTier': 'UU',
 	},
-	'tyranitarmega': {
+	'Tyranitar-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'UU',
 	},
-	'lugia': {
+	'Lugia': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'hooh': {
+	'Hooh': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'celebi': {
+	'Celebi': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'treecko': {
+	'Treecko': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'grovyle': {
+	'Grovyle': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'sceptile': {
+	'Sceptile': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'sceptilemega': {
+	'Sceptile-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'torchic': {
+	'Torchic': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'combusken': {
+	'Combusken': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'blaziken': {
+	'Blaziken': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'OU',
 	},
-	'blazikenmega': {
+	'Blaziken-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'mudkip': {
+	'Mudkip': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'marshtomp': {
+	'Marshtomp': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'swampert': {
+	'Swampert': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'swampertmega': {
+	'Swampert-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'UU',
 	},
-	'poochyena': {
+	'Poochyena': {
 		'tier': 'LC',
 	},
-	'mightyena': {
+	'Mightyena': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'zigzagoon': {
+	'Zigzagoon': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'zigzagoongalar': {
+	'Zigzagoon-Galar': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'linoone': {
+	'Linoone': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'linoonegalar': {
+	'Linoone-Galar': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'obstagoon': {
+	'Obstagoon': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'wurmple': {
+	'Wurmple': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'silcoon': {
+	'Silcoon': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'beautifly': {
+	'Beautifly': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'cascoon': {
+	'Cascoon': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'dustox': {
+	'Dustox': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'lotad': {
+	'Lotad': {
 		'tier': 'LC',
 	},
-	'lombre': {
+	'Lombre': {
 		'tier': 'NFE',
 	},
-	'ludicolo': {
+	'Ludicolo': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'seedot': {
+	'Seedot': {
 		'tier': 'LC',
 	},
-	'nuzleaf': {
+	'Nuzleaf': {
 		'tier': 'NFE',
 	},
-	'shiftry': {
+	'Shiftry': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'taillow': {
+	'Taillow': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'swellow': {
+	'Swellow': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'wingull': {
+	'Wingull': {
 		'tier': 'LC',
 	},
-	'pelipper': {
+	'Pelipper': {
 		'tier': 'UU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'OU',
 	},
-	'ralts': {
+	'Ralts': {
 		'tier': 'LC',
 	},
-	'kirlia': {
+	'Kirlia': {
 		'tier': 'NFE',
 	},
-	'gardevoir': {
+	'Gardevoir': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'gardevoirmega': {
+	'Gardevoir-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'UU',
 	},
-	'gallade': {
+	'Gallade': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'gallademega': {
+	'Gallade-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'UU',
 	},
-	'surskit': {
+	'Surskit': {
 		'tier': 'LC',
 	},
-	'masquerain': {
+	'Masquerain': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'shroomish': {
+	'Shroomish': {
 		'tier': 'LC',
 	},
-	'breloom': {
+	'Breloom': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'slakoth': {
+	'Slakoth': {
 		'tier': 'LC',
 	},
-	'vigoroth': {
+	'Vigoroth': {
 		'tier': 'NFE',
 	},
-	'slaking': {
+	'Slaking': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'nincada': {
+	'Nincada': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'ninjask': {
+	'Ninjask': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'shedinja': {
+	'Shedinja': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Illegal',
 	},
-	'whismur': {
+	'Whismur': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'loudred': {
+	'Loudred': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'exploud': {
+	'Exploud': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'makuhita': {
+	'Makuhita': {
 		'tier': 'LC',
 	},
-	'hariyama': {
+	'Hariyama': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'nosepass': {
+	'Nosepass': {
 		'tier': 'LC',
 	},
-	'probopass': {
+	'Probopass': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'skitty': {
+	'Skitty': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'delcatty': {
+	'Delcatty': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'sableye': {
+	'Sableye': {
 		'tier': 'PU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
-	'sableyemega': {
+	'Sableye-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'UU',
 	},
-	'mawile': {
+	'Mawile': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'mawilemega': {
+	'Mawile-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'OU',
 	},
-	'aron': {
+	'Aron': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'lairon': {
+	'Lairon': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'aggron': {
+	'Aggron': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'aggronmega': {
+	'Aggron-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'meditite': {
+	'Meditite': {
 		'tier': 'NFE',
 	},
-	'medicham': {
+	'Medicham': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'medichammega': {
+	'Medicham-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'OU',
 	},
-	'electrike': {
+	'Electrike': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'manectric': {
+	'Manectric': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'manectricmega': {
+	'Manectric-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'plusle': {
+	'Plusle': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'minun': {
+	'Minun': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'volbeat': {
+	'Volbeat': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'illumise': {
+	'Illumise': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'budew': {
+	'Budew': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'roselia': {
+	'Roselia': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'roserade': {
+	'Roserade': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'gulpin': {
+	'Gulpin': {
 		'tier': 'LC',
 	},
-	'swalot': {
+	'Swalot': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'carvanha': {
+	'Carvanha': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'sharpedo': {
+	'Sharpedo': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'sharpedomega': {
+	'Sharpedo-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'wailmer': {
+	'Wailmer': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'wailord': {
+	'Wailord': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'numel': {
+	'Numel': {
 		'tier': 'LC',
 	},
-	'camerupt': {
+	'Camerupt': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'cameruptmega': {
+	'Camerupt-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'torkoal': {
+	'Torkoal': {
 		'tier': 'RU',
 		'doublesTier': 'DOU',
 		'natDexTier': 'RU',
 	},
-	'spoink': {
+	'Spoink': {
 		'tier': 'LC',
 	},
-	'grumpig': {
+	'Grumpig': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'spinda': {
+	'Spinda': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'trapinch': {
+	'Trapinch': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'vibrava': {
+	'Vibrava': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'flygon': {
+	'Flygon': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'cacnea': {
+	'Cacnea': {
 		'tier': 'LC',
 	},
-	'cacturne': {
+	'Cacturne': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'swablu': {
+	'Swablu': {
 		'tier': 'LC',
 	},
-	'altaria': {
+	'Altaria': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'altariamega': {
+	'Altaria-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'UU',
 	},
-	'zangoose': {
+	'Zangoose': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'seviper': {
+	'Seviper': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'lunatone': {
+	'Lunatone': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'solrock': {
+	'Solrock': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'barboach': {
+	'Barboach': {
 		'tier': 'LC',
 	},
-	'whiscash': {
+	'Whiscash': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'corphish': {
+	'Corphish': {
 		'tier': 'LC',
 	},
-	'crawdaunt': {
+	'Crawdaunt': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'baltoy': {
+	'Baltoy': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'claydol': {
+	'Claydol': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'lileep': {
+	'Lileep': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'cradily': {
+	'Cradily': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'anorith': {
+	'Anorith': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'armaldo': {
+	'Armaldo': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'feebas': {
+	'Feebas': {
 		'tier': 'LC',
 	},
-	'milotic': {
+	'Milotic': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'castform': {
+	'Castform': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'castformsunny': {
+	'Castform-Sunny': {
 		'isNonstandard': 'Past',
 	},
-	'castformrainy': {
+	'Castform-Rainy': {
 		'isNonstandard': 'Past',
 	},
-	'castformsnowy': {
+	'Castform-Snowy': {
 		'isNonstandard': 'Past',
 	},
-	'kecleon': {
+	'Kecleon': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'shuppet': {
+	'Shuppet': {
 		'tier': 'LC',
 	},
-	'banette': {
+	'Banette': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'banettemega': {
+	'Banette-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'OU',
 	},
-	'duskull': {
+	'Duskull': {
 		'tier': 'LC',
 	},
-	'dusclops': {
+	'Dusclops': {
 		'tier': 'NFE',
 	},
-	'dusknoir': {
+	'Dusknoir': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'tropius': {
+	'Tropius': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'chingling': {
+	'Chingling': {
 		'tier': 'LC',
 	},
-	'chimecho': {
+	'Chimecho': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'absol': {
+	'Absol': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'absolmega': {
+	'Absol-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'snorunt': {
+	'Snorunt': {
 		'tier': 'LC',
 	},
-	'glalie': {
+	'Glalie': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'glaliemega': {
+	'Glalie-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'froslass': {
+	'Froslass': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'spheal': {
+	'Spheal': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'sealeo': {
+	'Sealeo': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'walrein': {
+	'Walrein': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'clamperl': {
+	'Clamperl': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'huntail': {
+	'Huntail': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'gorebyss': {
+	'Gorebyss': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'relicanth': {
+	'Relicanth': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'luvdisc': {
+	'Luvdisc': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'bagon': {
+	'Bagon': {
 		'tier': 'LC',
 	},
-	'shelgon': {
+	'Shelgon': {
 		'tier': 'NFE',
 	},
-	'salamence': {
+	'Salamence': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'UU',
 	},
-	'salamencemega': {
+	'Salamence-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'beldum': {
+	'Beldum': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'metang': {
+	'Metang': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'metagross': {
+	'Metagross': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'metagrossmega': {
+	'Metagross-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'regirock': {
+	'Regirock': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'regice': {
+	'Regice': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'registeel': {
+	'Registeel': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'latias': {
+	'Latias': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'latiasmega': {
+	'Latias-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'UU',
 	},
-	'latios': {
+	'Latios': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'UU',
 	},
-	'latiosmega': {
+	'Latios-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'UU',
 	},
-	'kyogre': {
+	'Kyogre': {
 		'tier': 'Ubers',
 		'doublesTier': 'DUbers',
 		'natDexTier': 'Ubers',
 	},
-	'kyogreprimal': {
+	'Kyogre-Primal': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'groudon': {
+	'Groudon': {
 		'tier': 'Ubers',
 		'doublesTier': 'DUbers',
 		'natDexTier': 'Ubers',
 	},
-	'groudonprimal': {
+	'Groudon-Primal': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'rayquaza': {
+	'Rayquaza': {
 		'tier': 'Ubers',
 		'doublesTier': 'DUbers',
 		'natDexTier': 'Ubers',
 	},
-	'rayquazamega': {
+	'Rayquaza-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Illegal',
 	},
-	'jirachi': {
+	'Jirachi': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'UU',
 	},
-	'deoxys': {
+	'Deoxys': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'deoxysattack': {
+	'Deoxys-Attack': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'deoxysdefense': {
+	'Deoxys-Defense': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'UU',
 	},
-	'deoxysspeed': {
+	'Deoxys-Speed': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'turtwig': {
+	'Turtwig': {
 		'tier': 'LC',
 	},
-	'grotle': {
+	'Grotle': {
 		'tier': 'NFE',
 	},
-	'torterra': {
+	'Torterra': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'chimchar': {
+	'Chimchar': {
 		'tier': 'LC',
 	},
-	'monferno': {
+	'Monferno': {
 		'tier': 'NFE',
 	},
-	'infernape': {
+	'Infernape': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'piplup': {
+	'Piplup': {
 		'tier': 'LC',
 	},
-	'prinplup': {
+	'Prinplup': {
 		'tier': 'NFE',
 	},
-	'empoleon': {
+	'Empoleon': {
 		'tier': 'UU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
-	'starly': {
+	'Starly': {
 		'tier': 'LC',
 	},
-	'staravia': {
+	'Staravia': {
 		'tier': 'NFE',
 	},
-	'staraptor': {
+	'Staraptor': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'bidoof': {
+	'Bidoof': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'bibarel': {
+	'Bibarel': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'kricketot': {
+	'Kricketot': {
 		'tier': 'LC',
 	},
-	'kricketune': {
+	'Kricketune': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'shinx': {
+	'Shinx': {
 		'tier': 'LC',
 	},
-	'luxio': {
+	'Luxio': {
 		'tier': 'NFE',
 	},
-	'luxray': {
+	'Luxray': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'cranidos': {
+	'Cranidos': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'rampardos': {
+	'Rampardos': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'shieldon': {
+	'Shieldon': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'bastiodon': {
+	'Bastiodon': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'burmy': {
+	'Burmy': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'wormadam': {
+	'Wormadam': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'wormadamsandy': {
+	'Wormadam-Sandy': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'wormadamtrash': {
+	'Wormadam-Trash': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'mothim': {
+	'Mothim': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'combee': {
+	'Combee': {
 		'tier': 'LC',
 	},
-	'vespiquen': {
+	'Vespiquen': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'pachirisu': {
+	'Pachirisu': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'buizel': {
+	'Buizel': {
 		'tier': 'LC',
 	},
-	'floatzel': {
+	'Floatzel': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'cherubi': {
+	'Cherubi': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'cherrim': {
+	'Cherrim': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'cherrimsunshine': {
+	'Cherrim-Sunshine': {
 		'isNonstandard': 'Past',
 	},
-	'shellos': {
+	'Shellos': {
 		'tier': 'LC',
 	},
-	'gastrodon': {
+	'Gastrodon': {
 		'tier': 'UU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'UU',
 	},
-	'drifloon': {
+	'Drifloon': {
 		'tier': 'LC',
 	},
-	'drifblim': {
+	'Drifblim': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'buneary': {
+	'Buneary': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'lopunny': {
+	'Lopunny': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'lopunnymega': {
+	'Lopunny-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'OU',
 	},
-	'glameow': {
+	'Glameow': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'purugly': {
+	'Purugly': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'stunky': {
+	'Stunky': {
 		'tier': 'LC',
 	},
-	'skuntank': {
+	'Skuntank': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'bronzor': {
+	'Bronzor': {
 		'tier': 'LC',
 	},
-	'bronzong': {
+	'Bronzong': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'chatot': {
+	'Chatot': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'spiritomb': {
+	'Spiritomb': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'gible': {
+	'Gible': {
 		'tier': 'LC',
 	},
-	'gabite': {
+	'Gabite': {
 		'tier': 'ZU',
 		'doublesTier': 'NFE',
 		'natDexTier': 'NFE',
 	},
-	'garchomp': {
+	'Garchomp': {
 		'tier': 'OU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'OU',
 	},
-	'garchompmega': {
+	'Garchomp-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'OU',
 	},
-	'riolu': {
+	'Riolu': {
 		'tier': 'LC',
 	},
-	'lucario': {
+	'Lucario': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'lucariomega': {
+	'Lucario-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'hippopotas': {
+	'Hippopotas': {
 		'tier': 'LC',
 	},
-	'hippowdon': {
+	'Hippowdon': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'UU',
 	},
-	'skorupi': {
+	'Skorupi': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'drapion': {
+	'Drapion': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'croagunk': {
+	'Croagunk': {
 		'tier': 'LC',
 	},
-	'toxicroak': {
+	'Toxicroak': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'carnivine': {
+	'Carnivine': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'finneon': {
+	'Finneon': {
 		'tier': 'LC',
 	},
-	'lumineon': {
+	'Lumineon': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'snover': {
+	'Snover': {
 		'tier': 'LC',
 	},
-	'abomasnow': {
+	'Abomasnow': {
 		'tier': 'NU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
-	'abomasnowmega': {
+	'Abomasnow-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'rotom': {
+	'Rotom': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'rotomheat': {
+	'Rotom-Heat': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'rotomwash': {
+	'Rotom-Wash': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'UU',
 	},
-	'rotomfrost': {
+	'Rotom-Frost': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'rotomfan': {
+	'Rotom-Fan': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'rotommow': {
+	'Rotom-Mow': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'uxie': {
+	'Uxie': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'mesprit': {
+	'Mesprit': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'azelf': {
+	'Azelf': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'dialga': {
+	'Dialga': {
 		'tier': 'Ubers',
 		'doublesTier': 'DUbers',
 		'natDexTier': 'Ubers',
 	},
-	'dialgaorigin': {
+	'Dialga-Origin': {
 		'tier': 'Ubers',
 		'doublesTier': 'DUbers',
 		'natDexTier': 'Ubers',
 	},
-	'palkia': {
+	'Palkia': {
 		'tier': 'Ubers',
 		'doublesTier': 'DUbers',
 		'natDexTier': 'Ubers',
 	},
-	'palkiaorigin': {
+	'Palkia-Origin': {
 		'tier': 'Ubers',
 		'doublesTier': 'DUbers',
 		'natDexTier': 'Ubers',
 	},
-	'heatran': {
+	'Heatran': {
 		'tier': 'OU',
 		'doublesTier': 'DOU',
 		'natDexTier': 'OU',
 	},
-	'regigigas': {
+	'Regigigas': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'giratina': {
+	'Giratina': {
 		'tier': 'Ubers',
 		'doublesTier': 'DUbers',
 		'natDexTier': 'Ubers',
 	},
-	'giratinaorigin': {
+	'Giratina-Origin': {
 		'tier': 'Ubers',
 		'doublesTier': 'DUbers',
 		'natDexTier': 'Ubers',
 	},
-	'cresselia': {
+	'Cresselia': {
 		'tier': 'UU',
 		'doublesTier': 'DOU',
 		'natDexTier': 'RU',
 	},
-	'phione': {
+	'Phione': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'manaphy': {
+	'Manaphy': {
 		'tier': 'OU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'OU',
 	},
-	'darkrai': {
+	'Darkrai': {
 		'tier': 'Ubers',
 		'doublesTier': 'DUbers',
 		'natDexTier': 'Ubers',
 	},
-	'shaymin': {
+	'Shaymin': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'shayminsky': {
+	'Shaymin-Sky': {
 		'tier': 'Ubers',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'Ubers',
 	},
-	'arceus': {
+	'Arceus': {
 		'tier': 'Ubers',
 		'doublesTier': 'DUbers',
 		'natDexTier': 'Ubers',
 	},
-	'victini': {
+	'Victini': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'UU',
 	},
-	'snivy': {
+	'Snivy': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'servine': {
+	'Servine': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'serperior': {
+	'Serperior': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'UU',
 	},
-	'tepig': {
+	'Tepig': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'pignite': {
+	'Pignite': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'emboar': {
+	'Emboar': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'oshawott': {
+	'Oshawott': {
 		'tier': 'LC',
 	},
-	'dewott': {
+	'Dewott': {
 		'tier': 'NFE',
 	},
-	'samurott': {
+	'Samurott': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'samurotthisui': {
+	'Samurott-Hisui': {
 		'tier': 'OU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'OU',
 	},
-	'patrat': {
+	'Patrat': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'watchog': {
+	'Watchog': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'lillipup': {
+	'Lillipup': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'herdier': {
+	'Herdier': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'stoutland': {
+	'Stoutland': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'purrloin': {
+	'Purrloin': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'liepard': {
+	'Liepard': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'pansage': {
+	'Pansage': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'simisage': {
+	'Simisage': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'pansear': {
+	'Pansear': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'simisear': {
+	'Simisear': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'panpour': {
+	'Panpour': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'simipour': {
+	'Simipour': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'munna': {
+	'Munna': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'musharna': {
+	'Musharna': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'pidove': {
+	'Pidove': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'tranquill': {
+	'Tranquill': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'unfezant': {
+	'Unfezant': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'blitzle': {
+	'Blitzle': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'zebstrika': {
+	'Zebstrika': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'roggenrola': {
+	'Roggenrola': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'boldore': {
+	'Boldore': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'gigalith': {
+	'Gigalith': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'woobat': {
+	'Woobat': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'swoobat': {
+	'Swoobat': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'drilbur': {
+	'Drilbur': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'excadrill': {
+	'Excadrill': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'UU',
 	},
-	'audino': {
+	'Audino': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'audinomega': {
+	'Audino-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'timburr': {
+	'Timburr': {
 		'tier': 'LC',
 	},
-	'gurdurr': {
+	'Gurdurr': {
 		'tier': 'PU',
 		'doublesTier': 'NFE',
 		'natDexTier': 'NFE',
 	},
-	'conkeldurr': {
+	'Conkeldurr': {
 		'tier': 'UU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
-	'tympole': {
+	'Tympole': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'palpitoad': {
+	'Palpitoad': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'seismitoad': {
+	'Seismitoad': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'throh': {
+	'Throh': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'sawk': {
+	'Sawk': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'sewaddle': {
+	'Sewaddle': {
 		'tier': 'LC',
 	},
-	'swadloon': {
+	'Swadloon': {
 		'tier': 'NFE',
 	},
-	'leavanny': {
+	'Leavanny': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'venipede': {
+	'Venipede': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'whirlipede': {
+	'Whirlipede': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'scolipede': {
+	'Scolipede': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'cottonee': {
+	'Cottonee': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'whimsicott': {
+	'Whimsicott': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'petilil': {
+	'Petilil': {
 		'tier': 'LC',
 	},
-	'lilligant': {
+	'Lilligant': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'lilliganthisui': {
+	'Lilligant-Hisui': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'UU',
 	},
-	'basculin': {
+	'Basculin': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'basculegion': {
+	'Basculegion': {
 		'tier': 'RU',
 		'doublesTier': 'DUbers',
 		'natDexTier': 'RU',
 	},
-	'basculegionf': {
+	'Basculegion-F': {
 		'tier': 'UU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
-	'sandile': {
+	'Sandile': {
 		'tier': 'LC',
 	},
-	'krokorok': {
+	'Krokorok': {
 		'tier': 'NFE',
 	},
-	'krookodile': {
+	'Krookodile': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'darumaka': {
+	'Darumaka': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'darumakagalar': {
+	'Darumaka-Galar': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'darmanitan': {
+	'Darmanitan': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'darmanitanzen': {
+	'Darmanitan-Zen': {
 		'isNonstandard': 'Past',
 	},
-	'darmanitangalar': {
+	'Darmanitan-Galar': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'darmanitangalarzen': {
+	'Darmanitan-Galarzen': {
 		'isNonstandard': 'Past',
 	},
-	'maractus': {
+	'Maractus': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'dwebble': {
+	'Dwebble': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'crustle': {
+	'Crustle': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'scraggy': {
+	'Scraggy': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'scrafty': {
+	'Scrafty': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'sigilyph': {
+	'Sigilyph': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'yamask': {
+	'Yamask': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'yamaskgalar': {
+	'Yamask-Galar': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'cofagrigus': {
+	'Cofagrigus': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'runerigus': {
+	'Runerigus': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'tirtouga': {
+	'Tirtouga': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'carracosta': {
+	'Carracosta': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'archen': {
+	'Archen': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'archeops': {
+	'Archeops': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'trubbish': {
+	'Trubbish': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'garbodor': {
+	'Garbodor': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'garbodorgmax': {
+	'Garbodor-Gmax': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'zorua': {
+	'Zorua': {
 		'tier': 'LC',
 	},
-	'zoruahisui': {
+	'Zorua-Hisui': {
 		'tier': 'LC',
 	},
-	'zoroark': {
+	'Zoroark': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'zoroarkhisui': {
+	'Zoroark-Hisui': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'UU',
 	},
-	'minccino': {
+	'Minccino': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'cinccino': {
+	'Cinccino': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'gothita': {
+	'Gothita': {
 		'tier': 'LC',
 	},
-	'gothorita': {
+	'Gothorita': {
 		'tier': 'NFE',
 	},
-	'gothitelle': {
+	'Gothitelle': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'solosis': {
+	'Solosis': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'duosion': {
+	'Duosion': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'reuniclus': {
+	'Reuniclus': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'ducklett': {
+	'Ducklett': {
 		'tier': 'LC',
 	},
-	'swanna': {
+	'Swanna': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'vanillite': {
+	'Vanillite': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'vanillish': {
+	'Vanillish': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'vanilluxe': {
+	'Vanilluxe': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'deerling': {
+	'Deerling': {
 		'tier': 'LC',
 	},
-	'sawsbuck': {
+	'Sawsbuck': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'emolga': {
+	'Emolga': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'karrablast': {
+	'Karrablast': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'escavalier': {
+	'Escavalier': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'foongus': {
+	'Foongus': {
 		'tier': 'LC',
 	},
-	'amoonguss': {
+	'Amoonguss': {
 		'tier': 'OU',
 		'doublesTier': 'DOU',
 		'natDexTier': 'UU',
 	},
-	'frillish': {
+	'Frillish': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'jellicent': {
+	'Jellicent': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'alomomola': {
+	'Alomomola': {
 		'tier': 'OU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'OU',
 	},
-	'joltik': {
+	'Joltik': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'galvantula': {
+	'Galvantula': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'ferroseed': {
+	'Ferroseed': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'ferrothorn': {
+	'Ferrothorn': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'OU',
 	},
-	'klink': {
+	'Klink': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'klang': {
+	'Klang': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'klinklang': {
+	'Klinklang': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'tynamo': {
+	'Tynamo': {
 		'tier': 'LC',
 	},
-	'eelektrik': {
+	'Eelektrik': {
 		'tier': 'NFE',
 	},
-	'eelektross': {
+	'Eelektross': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'elgyem': {
+	'Elgyem': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'beheeyem': {
+	'Beheeyem': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'litwick': {
+	'Litwick': {
 		'tier': 'LC',
 	},
-	'lampent': {
+	'Lampent': {
 		'tier': 'NFE',
 	},
-	'chandelure': {
+	'Chandelure': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'axew': {
+	'Axew': {
 		'tier': 'LC',
 	},
-	'fraxure': {
+	'Fraxure': {
 		'tier': 'NFE',
 	},
-	'haxorus': {
+	'Haxorus': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'cubchoo': {
+	'Cubchoo': {
 		'tier': 'LC',
 	},
-	'beartic': {
+	'Beartic': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'cryogonal': {
+	'Cryogonal': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'shelmet': {
+	'Shelmet': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'accelgor': {
+	'Accelgor': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'stunfisk': {
+	'Stunfisk': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'stunfiskgalar': {
+	'Stunfisk-Galar': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'mienfoo': {
+	'Mienfoo': {
 		'tier': 'LC',
 	},
-	'mienshao': {
+	'Mienshao': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'druddigon': {
+	'Druddigon': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'golett': {
+	'Golett': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'golurk': {
+	'Golurk': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'pawniard': {
+	'Pawniard': {
 		'tier': 'LC',
 	},
-	'bisharp': {
+	'Bisharp': {
 		'tier': 'RU',
 		'doublesTier': 'NFE',
 		'natDexTier': 'UU',
 	},
-	'bouffalant': {
+	'Bouffalant': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'rufflet': {
+	'Rufflet': {
 		'tier': 'NFE',
 	},
-	'braviary': {
+	'Braviary': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'braviaryhisui': {
+	'Braviary-Hisui': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'vullaby': {
+	'Vullaby': {
 		'tier': 'LC',
 	},
-	'mandibuzz': {
+	'Mandibuzz': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'heatmor': {
+	'Heatmor': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'durant': {
+	'Durant': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'deino': {
+	'Deino': {
 		'tier': 'LC',
 	},
-	'zweilous': {
+	'Zweilous': {
 		'tier': 'NFE',
 	},
-	'hydreigon': {
+	'Hydreigon': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'UU',
 	},
-	'larvesta': {
+	'Larvesta': {
 		'tier': 'LC',
 	},
-	'volcarona': {
+	'Volcarona': {
 		'tier': 'Ubers',
 		'doublesTier': 'DUU',
 		'natDexTier': 'OU',
 	},
-	'cobalion': {
+	'Cobalion': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'terrakion': {
+	'Terrakion': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'UU',
 	},
-	'virizion': {
+	'Virizion': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'tornadus': {
+	'Tornadus': {
 		'tier': 'NU',
 		'doublesTier': 'DOU',
 		'natDexTier': 'RU',
 	},
-	'tornadustherian': {
+	'Tornadus-Therian': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'OU',
 	},
-	'thundurus': {
+	'Thundurus': {
 		'tier': 'RU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
-	'thundurustherian': {
+	'Thundurus-Therian': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'UU',
 	},
-	'reshiram': {
+	'Reshiram': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'zekrom': {
+	'Zekrom': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'landorus': {
+	'Landorus': {
 		'tier': 'Ubers',
 		'doublesTier': 'DUU',
 		'natDexTier': 'Ubers',
 	},
-	'landorustherian': {
+	'Landorus-Therian': {
 		'tier': 'OU',
 		'doublesTier': 'DOU',
 		'natDexTier': 'OU',
 	},
-	'kyurem': {
+	'Kyurem': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'OU',
 	},
-	'kyuremblack': {
+	'Kyurem-Black': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'kyuremwhite': {
+	'Kyurem-White': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'keldeo': {
+	'Keldeo': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'UU',
 	},
-	'keldeoresolute': {
+	'Keldeo-Resolute': {
 		'isNonstandard': 'Past',
 	},
-	'meloetta': {
+	'Meloetta': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'genesect': {
+	'Genesect': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'genesectburn': {
+	'Genesect-Burn': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'genesectchill': {
+	'Genesect-Chill': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'genesectdouse': {
+	'Genesect-Douse': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'genesectshock': {
+	'Genesect-Shock': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'chespin': {
+	'Chespin': {
 		'tier': 'LC',
 	},
-	'quilladin': {
+	'Quilladin': {
 		'tier': 'NFE',
 	},
-	'chesnaught': {
+	'Chesnaught': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'fennekin': {
+	'Fennekin': {
 		'tier': 'LC',
 	},
-	'braixen': {
+	'Braixen': {
 		'tier': 'NFE',
 	},
-	'delphox': {
+	'Delphox': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'froakie': {
+	'Froakie': {
 		'tier': 'LC',
 	},
-	'frogadier': {
+	'Frogadier': {
 		'tier': 'ZU',
 		'doublesTier': 'NFE',
 		'natDexTier': 'NFE',
 	},
-	'greninja': {
+	'Greninja': {
 		'tier': 'OU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'OU',
 	},
-	'greninjaash': {
+	'Greninja-Ash': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'bunnelby': {
+	'Bunnelby': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'diggersby': {
+	'Diggersby': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'fletchling': {
+	'Fletchling': {
 		'tier': 'LC',
 	},
-	'fletchinder': {
+	'Fletchinder': {
 		'tier': 'NFE',
 	},
-	'talonflame': {
+	'Talonflame': {
 		'tier': 'RU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'UU',
 	},
-	'scatterbug': {
+	'Scatterbug': {
 		'tier': 'LC',
 	},
-	'spewpa': {
+	'Spewpa': {
 		'tier': 'NFE',
 	},
-	'vivillon': {
+	'Vivillon': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'litleo': {
+	'Litleo': {
 		'tier': 'LC',
 	},
-	'pyroar': {
+	'Pyroar': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'flabebe': {
+	'Flabebe': {
 		'tier': 'LC',
 	},
-	'floette': {
+	'Floette': {
 		'tier': 'NFE',
 	},
-	'floetteeternal': {
+	'Floette-Eternal': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'florges': {
+	'Florges': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'skiddo': {
+	'Skiddo': {
 		'tier': 'LC',
 	},
-	'gogoat': {
+	'Gogoat': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'pancham': {
+	'Pancham': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'pangoro': {
+	'Pangoro': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'furfrou': {
+	'Furfrou': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'espurr': {
+	'Espurr': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'meowstic': {
+	'Meowstic': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'meowsticf': {
+	'Meowstic-F': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'honedge': {
+	'Honedge': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'doublade': {
+	'Doublade': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'aegislash': {
+	'Aegislash': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'OU',
 	},
-	'aegislashblade': {
+	'Aegislash-Blade': {
 		'isNonstandard': 'Past',
 	},
-	'spritzee': {
-		'isNonstandard': 'Past',
-		'tier': 'Illegal',
-		'natDexTier': 'LC',
-	},
-	'aromatisse': {
-		'isNonstandard': 'Past',
-		'tier': 'Illegal',
-		'natDexTier': 'RU',
-	},
-	'swirlix': {
+	'Spritzee': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'slurpuff': {
+	'Aromatisse': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'inkay': {
+	'Swirlix': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'malamar': {
+	'Slurpuff': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'binacle': {
+	'Inkay': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'barbaracle': {
+	'Malamar': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'skrelp': {
+	'Binacle': {
+		'isNonstandard': 'Past',
+		'tier': 'Illegal',
+		'natDexTier': 'LC',
+	},
+	'Barbaracle': {
+		'isNonstandard': 'Past',
+		'tier': 'Illegal',
+		'natDexTier': 'RU',
+	},
+	'Skrelp': {
 		'tier': 'LC',
 	},
-	'dragalge': {
+	'Dragalge': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'clauncher': {
+	'Clauncher': {
 		'tier': 'LC',
 	},
-	'clawitzer': {
+	'Clawitzer': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'helioptile': {
+	'Helioptile': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'heliolisk': {
+	'Heliolisk': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'tyrunt': {
+	'Tyrunt': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'tyrantrum': {
+	'Tyrantrum': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'amaura': {
+	'Amaura': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'aurorus': {
+	'Aurorus': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'hawlucha': {
+	'Hawlucha': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'UU',
 	},
-	'dedenne': {
+	'Dedenne': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'carbink': {
+	'Carbink': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'goomy': {
+	'Goomy': {
 		'tier': 'LC',
 	},
-	'sliggoo': {
+	'Sliggoo': {
 		'tier': 'NFE',
 	},
-	'sliggoohisui': {
+	'Sliggoo-Hisui': {
 		'tier': 'NFE',
 	},
-	'goodra': {
+	'Goodra': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'goodrahisui': {
+	'Goodra-Hisui': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'UU',
 	},
-	'klefki': {
+	'Klefki': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'phantump': {
+	'Phantump': {
 		'tier': 'LC',
 	},
-	'trevenant': {
+	'Trevenant': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'pumpkaboo': {
+	'Pumpkaboo': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'pumpkaboosmall': {
+	'Pumpkaboo-Small': {
 		'isNonstandard': 'Past',
 	},
-	'pumpkaboolarge': {
+	'Pumpkaboo-Large': {
 		'isNonstandard': 'Past',
 	},
-	'pumpkaboosuper': {
+	'Pumpkaboo-Super': {
 		'isNonstandard': 'Past',
 	},
-	'gourgeist': {
+	'Gourgeist': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'gourgeistsmall': {
+	'Gourgeist-Small': {
 		'isNonstandard': 'Past',
 	},
-	'gourgeistlarge': {
+	'Gourgeist-Large': {
 		'isNonstandard': 'Past',
 	},
-	'gourgeistsuper': {
+	'Gourgeist-Super': {
 		'isNonstandard': 'Past',
 	},
-	'bergmite': {
+	'Bergmite': {
 		'tier': 'LC',
 	},
-	'avalugg': {
+	'Avalugg': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'avalugghisui': {
+	'Avalugg-Hisui': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'noibat': {
+	'Noibat': {
 		'tier': 'LC',
 	},
-	'noivern': {
+	'Noivern': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'xerneas': {
+	'Xerneas': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'xerneasneutral': {
+	'Xerneas-Neutral': {
 		'isNonstandard': 'Custom', 
 		'tier': 'Illegal',
 	},
-	'yveltal': {
+	'Yveltal': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'zygarde': {
+	'Zygarde': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'zygarde10': {
+	'Zygarde-10': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'zygardecomplete': {
+	'Zygarde-Complete': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'diancie': {
+	'Diancie': {
 		'tier': 'RU',
 		'doublesTier': 'DOU',
 		'natDexTier': 'RU',
 	},
-	'dianciemega': {
+	'Diancie-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'OU',
 	},
-	'hoopa': {
+	'Hoopa': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'hoopaunbound': {
+	'Hoopa-Unbound': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'OU',
 	},
-	'volcanion': {
+	'Volcanion': {
 		'tier': 'UU',
 		'doublesTier': 'DOU',
 		'natDexTier': 'RU',
 	},
-	'rowlet': {
+	'Rowlet': {
 		'tier': 'LC',
 	},
-	'dartrix': {
+	'Dartrix': {
 		'tier': 'NFE',
 	},
-	'decidueye': {
+	'Decidueye': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'decidueyehisui': {
+	'Decidueye-Hisui': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'litten': {
+	'Litten': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'torracat': {
+	'Torracat': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'incineroar': {
+	'Incineroar': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'popplio': {
+	'Popplio': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'brionne': {
+	'Brionne': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'primarina': {
+	'Primarina': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'pikipek': {
+	'Pikipek': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'trumbeak': {
+	'Trumbeak': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'toucannon': {
+	'Toucannon': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'yungoos': {
+	'Yungoos': {
 		'tier': 'LC',
 	},
-	'gumshoos': {
+	'Gumshoos': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'gumshoostotem': {
+	'Gumshoos-Totem': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'grubbin': {
+	'Grubbin': {
 		'tier': 'LC',
 	},
-	'charjabug': {
+	'Charjabug': {
 		'tier': 'NFE',
 	},
-	'vikavolt': {
+	'Vikavolt': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'vikavolttotem': {
+	'Vikavolt-Totem': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'crabrawler': {
+	'Crabrawler': {
 		'tier': 'LC',
 	},
-	'crabominable': {
+	'Crabominable': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'oricorio': {
+	'Oricorio': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'oricoriopompom': {
+	'Oricorio-Pompom': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'oricoriopau': {
+	'Oricorio-Pau': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'oricoriosensu': {
+	'Oricorio-Sensu': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'cutiefly': {
+	'Cutiefly': {
 		'tier': 'NFE',
 	},
-	'ribombee': {
+	'Ribombee': {
 		'tier': 'OU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'ribombeetotem': {
+	'Ribombee-Totem': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'rockruff': {
+	'Rockruff': {
 		'tier': 'LC',
 	},
-	'rockruffdusk': {
+	'Rockruff-Dusk': {
 		'tier': 'LC',
 	},
-	'lycanroc': {
+	'Lycanroc': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'lycanrocmidnight': {
+	'Lycanroc-Midnight': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'lycanrocdusk': {
+	'Lycanroc-Dusk': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'wishiwashi': {
+	'Wishiwashi': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'wishiwashischool': {
+	'Wishiwashi-School': {
 		'isNonstandard': 'Past',
 	},
-	'mareanie': {
+	'Mareanie': {
 		'tier': 'LC',
 	},
-	'toxapex': {
+	'Toxapex': {
 		'tier': 'OU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'OU',
 	},
-	'mudbray': {
+	'Mudbray': {
 		'tier': 'LC',
 	},
-	'mudsdale': {
+	'Mudsdale': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'dewpider': {
+	'Dewpider': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'araquanid': {
+	'Araquanid': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'araquanidtotem': {
+	'Araquanid-Totem': {
 		'isNonstandard': 'Past',
 	},
-	'fomantis': {
+	'Fomantis': {
 		'tier': 'LC',
 	},
-	'lurantis': {
+	'Lurantis': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'lurantistotem': {
+	'Lurantis-Totem': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'morelull': {
+	'Morelull': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'shiinotic': {
+	'Shiinotic': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'salandit': {
+	'Salandit': {
 		'tier': 'LC',
 	},
-	'salazzle': {
+	'Salazzle': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'salazzletotem': {
+	'Salazzle-Totem': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'stufful': {
+	'Stufful': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'bewear': {
+	'Bewear': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'bounsweet': {
+	'Bounsweet': {
 		'tier': 'LC',
 	},
-	'steenee': {
+	'Steenee': {
 		'tier': 'NFE',
 	},
-	'tsareena': {
+	'Tsareena': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'comfey': {
+	'Comfey': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'oranguru': {
+	'Oranguru': {
 		'tier': 'ZU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
-	'passimian': {
+	'Passimian': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'wimpod': {
+	'Wimpod': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'golisopod': {
+	'Golisopod': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'sandygast': {
+	'Sandygast': {
 		'tier': 'LC',
 	},
-	'palossand': {
+	'Palossand': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'pyukumuku': {
+	'Pyukumuku': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'typenull': {
+	'Typenull': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'silvally': {
+	'Silvally': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'silvallybug': {
+	'Silvally-Bug': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'silvallydark': {
+	'Silvally-Dark': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'silvallydragon': {
+	'Silvally-Dragon': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'silvallyelectric': {
+	'Silvally-Electric': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'silvallyfairy': {
+	'Silvally-Fairy': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'silvallyfighting': {
+	'Silvally-Fighting': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'silvallyfire': {
+	'Silvally-Fire': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'silvallyflying': {
+	'Silvally-Flying': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'silvallyghost': {
+	'Silvally-Ghost': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'silvallygrass': {
+	'Silvally-Grass': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'silvallyground': {
+	'Silvally-Ground': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'silvallyice': {
+	'Silvally-Ice': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'silvallypoison': {
+	'Silvally-Poison': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'silvallypsychic': {
+	'Silvally-Psychic': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'silvallyrock': {
+	'Silvally-Rock': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'silvallysteel': {
+	'Silvally-Steel': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'silvallywater': {
+	'Silvally-Water': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'minior': {
+	'Minior': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'miniormeteor': {
+	'Minior-Meteor': {
 		'isNonstandard': 'Past',
 	},
-	'komala': {
+	'Komala': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'turtonator': {
+	'Turtonator': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'togedemaru': {
+	'Togedemaru': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'togedemarutotem': {
+	'Togedemaru-Totem': {
 		'isNonstandard': 'Past',
 	},
-	'mimikyu': {
+	'Mimikyu': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'mimikyutotem': {
+	'Mimikyu-Totem': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'mimikyubustedtotem': {
+	'Mimikyu-Busted-Totem': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'bruxish': {
+	'Bruxish': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'drampa': {
+	'Drampa': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'dhelmise': {
+	'Dhelmise': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'jangmoo': {
+	'Jangmoo': {
 		'tier': 'LC',
 	},
-	'hakamoo': {
+	'Hakamoo': {
 		'tier': 'NFE',
 	},
-	'kommoo': {
+	'Kommoo': {
 		'tier': 'OU',
 		'doublesTier': 'DOU',
 		'natDexTier': 'OU',
 	},
-	'kommoototem': {
+	'Kommoo-Totem': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'OU',
 	},
-	'tapukoko': {
+	'Tapu-Koko': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'OU',
 	},
-	'tapulele': {
+	'Tapu-Lele': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'OU',
 	},
-	'tapubulu': {
+	'Tapu-Bulu': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'tapufini': {
+	'Tapu-Fini': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'UU',
 	},
-	'cosmog': {
+	'Cosmog': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'cosmoem': {
+	'Cosmoem': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'solgaleo': {
+	'Solgaleo': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'lunala': {
+	'Lunala': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'nihilego': {
+	'Nihilego': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'buzzwole': {
+	'Buzzwole': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'pheromosa': {
+	'Pheromosa': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'xurkitree': {
+	'Xurkitree': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'OU',
 	},
-	'celesteela': {
+	'Celesteela': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'UU',
 	},
-	'kartana': {
+	'Kartana': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'OU',
 	},
-	'guzzlord': {
+	'Guzzlord': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'necrozma': {
+	'Necrozma': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'necrozmaduskmane': {
+	'Necrozma-Dusk-Mane': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'necrozmadawnwings': {
+	'Necrozma-Dawn-Wings': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'necrozmaultra': {
+	'Necrozma-Ultra': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'magearna': {
+	'Magearna': {
 		'tier': 'Ubers',
 		'doublesTier': 'DUbers',
 		'natDexTier': 'Ubers',
 	},
-	'marshadow': {
+	'Marshadow': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'poipole': {
+	'Poipole': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'naganadel': {
+	'Naganadel': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'stakataka': {
+	'Stakataka': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'blacephalon': {
+	'Blacephalon': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'UU',
 	},
-	'zeraora': {
+	'Zeraora': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'meltan': {
+	'Meltan': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'melmetal': {
+	'Melmetal': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'melmetalgmax': {
+	'Melmetal-Gmax': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'grookey': {
+	'Grookey': {
 		'tier': 'LC',
 	},
-	'thwackey': {
+	'Thwackey': {
 		'tier': 'ZU',
 		'doublesTier': 'NFE',
 		'natDexTier': 'NFE',
 	},
-	'rillaboom': {
+	'Rillaboom': {
 		'tier': 'OU',
 		'doublesTier': 'DOU',
 		'natDexTier': 'OU',
 	},
-	'rillaboomgmax': {
+	'Rillaboom-Gmax': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'scorbunny': {
+	'Scorbunny': {
 		'tier': 'LC',
 	},
-	'raboot': {
+	'Raboot': {
 		'tier': 'NFE',
 	},
-	'cinderace': {
+	'Cinderace': {
 		'tier': 'OU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'UU',
 	},
-	'cinderacegmax': {
+	'Cinderace-Gmax': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'sobble': {
+	'Sobble': {
 		'tier': 'LC',
 	},
-	'drizzile': {
+	'Drizzile': {
 		'tier': 'NFE',
 	},
-	'inteleon': {
+	'Inteleon': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'inteleongmax': {
+	'Inteleon-Gmax': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'skwovet': {
+	'Skwovet': {
 		'tier': 'LC',
 	},
-	'greedent': {
+	'Greedent': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'rookidee': {
+	'Rookidee': {
 		'tier': 'LC',
 	},
-	'corvisquire': {
+	'Corvisquire': {
 		'tier': 'NFE',
 	},
-	'corviknight': {
+	'Corviknight': {
 		'tier': 'OU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'OU',
 	},
-	'corviknightgmax': {
+	'Corviknight-Gmax': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'blipbug': {
+	'Blipbug': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'dottler': {
+	'Dottler': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'NFE',
 	},
-	'orbeetle': {
+	'Orbeetle': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'orbeetlegmax': {
+	'Orbeetle-Gmax': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'nickit': {
+	'Nickit': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'thievul': {
+	'Thievul': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'gossifleur': {
+	'Gossifleur': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'eldegoss': {
+	'Eldegoss': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'wooloo': {
+	'Wooloo': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'dubwool': {
+	'Dubwool': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'chewtle': {
+	'Chewtle': {
 		'tier': 'LC',
 	},
-	'drednaw': {
+	'Drednaw': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'drednawgmax': {
+	'Drednaw-Gmax': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'yamper': {
+	'Yamper': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'boltund': {
+	'Boltund': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'rolycoly': {
+	'Rolycoly': {
 		'tier': 'LC',
 	},
-	'carkol': {
+	'Carkol': {
 		'tier': 'NFE',
 	},
-	'coalossal': {
+	'Coalossal': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'coalossalgmax': {
+	'Coalossal-Gmax': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'applin': {
+	'Applin': {
 		'tier': 'LC',
 	},
-	'flapple': {
+	'Flapple': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'flapplegmax': {
+	'Flapple-Gmax': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'appletun': {
+	'Appletun': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'appletungmax': {
+	'Appletun-Gmax': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'dipplin': {
+	'Dipplin': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'silicobra': {
+	'Silicobra': {
 		'tier': 'LC',
 	},
-	'sandaconda': {
+	'Sandaconda': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'sandacondagmax': {
+	'Sandaconda-Gmax': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'cramorant': {
+	'Cramorant': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'arrokuda': {
+	'Arrokuda': {
 		'tier': 'LC',
 	},
-	'barraskewda': {
+	'Barraskewda': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'toxel': {
+	'Toxel': {
 		'tier': 'LC',
 	},
-	'toxtricity': {
+	'Toxtricity': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'toxtricitygmax': {
+	'Toxtricity-Gmax': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'toxtricitylowkeygmax': {
+	'Toxtricity-Lowkeygmax': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'sizzlipede': {
-		'isNonstandard': 'Past',
-		'tier': 'Illegal',
-		'natDexTier': 'LC',
-	},
-	'centiskorch': {
-		'isNonstandard': 'Past',
-		'tier': 'Illegal',
-		'natDexTier': 'RU',
-	},
-	'centiskorchgmax': {
-		'isNonstandard': 'Past',
-		'tier': 'Illegal',
-	},
-	'clobbopus': {
+	'Sizzlipede': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'grapploct': {
+	'Centiskorch': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'sinistea': {
+	'Centiskorch-Gmax': {
+		'isNonstandard': 'Past',
+		'tier': 'Illegal',
+	},
+	'Clobbopus': {
+		'isNonstandard': 'Past',
+		'tier': 'Illegal',
+		'natDexTier': 'LC',
+	},
+	'Grapploct': {
+		'isNonstandard': 'Past',
+		'tier': 'Illegal',
+		'natDexTier': 'RU',
+	},
+	'Sinistea': {
 		'tier': 'LC',
 	},
-	'polteageist': {
+	'Polteageist': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'hatenna': {
+	'Hatenna': {
 		'tier': 'LC',
 	},
-	'hattrem': {
+	'Hattrem': {
 		'tier': 'ZU',
 		'doublesTier': 'NFE',
 		'natDexTier': 'NFE',
 	},
-	'hatterene': {
+	'Hatterene': {
 		'tier': 'OU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'OU',
 	},
-	'hatterenegmax': {
+	'Hatterene-Gmax': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'impidimp': {
+	'Impidimp': {
 		'tier': 'LC',
 	},
-	'morgrem': {
+	'Morgrem': {
 		'tier': 'NFE',
 	},
-	'grimmsnarl': {
+	'Grimmsnarl': {
 		'tier': 'UU',
 		'doublesTier': 'DOU',
 		'natDexTier': 'UU',
 	},
-	'grimmsnarlgmax': {
+	'Grimmsnarl-Gmax': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'milcery': {
+	'Milcery': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'LC',
 	},
-	'alcremie': {
+	'Alcremie': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'alcremiegmax': {
+	'Alcremie-Gmax': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'falinks': {
+	'Falinks': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'pincurchin': {
+	'Pincurchin': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'snom': {
+	'Snom': {
 		'tier': 'LC',
 	},
-	'frosmoth': {
+	'Frosmoth': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'stonjourner': {
+	'Stonjourner': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'eiscue': {
+	'Eiscue': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'indeedee': {
+	'Indeedee': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'indeedeef': {
+	'Indeedee-F': {
 		'tier': 'ZU',
 		'doublesTier': 'DOU',
 		'natDexTier': 'RU',
 	},
-	'morpeko': {
+	'Morpeko': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'cufant': {
+	'Cufant': {
 		'tier': 'LC',
 	},
-	'copperajah': {
+	'Copperajah': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'copperajahgmax': {
+	'Copperajah-Gmax': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'dracozolt': {
+	'Dracozolt': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'UU',
 	},
-	'arctozolt': {
+	'Arctozolt': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'dracovish': {
+	'Dracovish': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'Ubers',
 	},
-	'arctovish': {
+	'Arctovish': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'duraludon': {
+	'Duraludon': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 		'natDexTier': 'RU',
 	},
-	'duraludongmax': {
+	'Duraludon-Gmax': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'dreepy': {
+	'Dreepy': {
 		'tier': 'LC',
 	},
-	'drakloak': {
+	'Drakloak': {
 		'tier': 'NFE',
 	},
-	'dragapult': {
+	'Dragapult': {
 		'tier': 'OU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'Ubers',
 	},
-	'zacian': {
+	'Zacian': {
 		'tier': 'Ubers',
 		'doublesTier': 'DUbers',
 		'natDexTier': 'Ubers',
 	},
-	'zaciancrowned': {
+	'Zacian-Crowned': {
 		'tier': 'Ubers',
 		'doublesTier': 'DUbers',
 		'natDexTier': 'Ubers',
 	},
-	'zamazenta': {
+	'Zamazenta': {
 		'tier': 'OU',
 		'doublesTier': 'DUbers',
 		'natDexTier': 'OU',
 	},
-	'zamazentacrowned': {
+	'Zamazenta-Crowned': {
 		'tier': 'Ubers',
 		'doublesTier': 'DUbers',
 		'natDexTier': 'Ubers',
 	},
-	'eternatus': {
+	'Eternatus': {
 		'tier': 'Ubers',
 		'doublesTier': 'DUbers',
 		'natDexTier': 'Ubers',
 	},
-	'eternatuseternamax': {
+	'Eternatus-Eternamax': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'kubfu': {
+	'Kubfu': {
 		'tier': 'NFE',
 	},
-	'urshifu': {
+	'Urshifu': {
 		'tier': 'Ubers',
 		'doublesTier': 'DUbers',
 		'natDexTier': 'Ubers',
 	},
-	'urshifurapidstrike': {
+	'Urshifu-Rapidstrike': {
 		'tier': 'Ubers',
 		'doublesTier': 'DUbers',
 		'natDexTier': 'OU',
 	},
-	'urshifugmax': {
+	'Urshifu-Gmax': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'urshifurapidstrikegmax': {
+	'Urshifu-Rapidstrikegmax': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
 	},
-	'zarude': {
+	'Zarude': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'regieleki': {
+	'Regieleki': {
 		'tier': 'Ubers',
 		'doublesTier': 'DUU',
 		'natDexTier': 'Ubers',
 	},
-	'regidrago': {
+	'Regidrago': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'glastrier': {
+	'Glastrier': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'spectrier': {
+	'Spectrier': {
 		'tier': 'Ubers',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'Ubers',
 	},
-	'calyrex': {
+	'Calyrex': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'calyrexice': {
+	'Calyrex-Ice': {
 		'tier': 'Ubers',
 		'doublesTier': 'DUbers',
 		'natDexTier': 'Ubers',
 	},
-	'calyrexshadow': {
+	'Calyrex-Shadow': {
 		'tier': 'Illegal',
 		'doublesTier': 'DUbers',
 		'natDexTier': 'Illegal',
 	},
-	'enamorus': {
+	'Enamorus': {
 		'tier': 'OU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'UU',
 	},
-	'enamorustherian': {
+	'Enamorus-Therian': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'sprigatito': {
+	'Sprigatito': {
 		'tier': 'LC',
 	},
-	'floragato': {
+	'Floragato': {
 		'tier': 'NFE',
 	},
-	'meowscarada': {
+	'Meowscarada': {
 		'tier': 'UU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'UU',
 	},
-	'fuecoco': {
+	'Fuecoco': {
 		'tier': 'LC',
 	},
-	'crocalor': {
+	'Crocalor': {
 		'tier': 'NFE',
 	},
-	'skeledirge': {
+	'Skeledirge': {
 		'tier': 'OU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'UU',
 	},
-	'quaxly': {
+	'Quaxly': {
 		'tier': 'LC',
 	},
-	'quaxwell': {
+	'Quaxwell': {
 		'tier': 'ZU',
 		'doublesTier': 'NFE',
 		'natDexTier': 'NFE',
 	},
-	'quaquaval': {
+	'Quaquaval': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'lechonk': {
+	'Lechonk': {
 		'tier': 'LC',
 	},
-	'oinkologne': {
+	'Oinkologne': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'oinkolognef': {
+	'Oinkologne-F': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'tarountula': {
+	'Tarountula': {
 		'tier': 'LC',
 	},
-	'spidops': {
+	'Spidops': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'nymble': {
+	'Nymble': {
 		'tier': 'LC',
 	},
-	'lokix': {
+	'Lokix': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'rellor': {
+	'Rellor': {
 		'tier': 'LC',
 	},
-	'rabsca': {
+	'Rabsca': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'greavard': {
+	'Greavard': {
 		'tier': 'LC',
 	},
-	'houndstone': {
+	'Houndstone': {
 		'tier': 'PU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
-	'flittle': {
+	'Flittle': {
 		'tier': 'NFE',
 	},
-	'espathra': {
+	'Espathra': {
 		'tier': 'Ubers',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'Ubers',
 	},
-	'wiglett': {
+	'Wiglett': {
 		'tier': 'LC',
 	},
-	'wugtrio': {
+	'Wugtrio': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'dondozo': {
+	'Dondozo': {
 		'tier': 'OU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'OU',
 	},
-	'veluza': {
+	'Veluza': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'finizen': {
+	'Finizen': {
 		'tier': 'LC',
 	},
-	'palafin': {
+	'Palafin': {
 		'tier': 'Ubers',
 		'doublesTier': 'DOU',
 		'natDexTier': 'Ubers',
 	},
-	'smoliv': {
+	'Smoliv': {
 		'tier': 'LC',
 	},
-	'dolliv': {
+	'Dolliv': {
 		'tier': 'NFE',
 	},
-	'arboliva': {
+	'Arboliva': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'capsakid': {
+	'Capsakid': {
 		'tier': 'LC',
 	},
-	'scovillain': {
+	'Scovillain': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'tadbulb': {
+	'Tadbulb': {
 		'tier': 'LC',
 	},
-	'bellibolt': {
+	'Bellibolt': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'varoom': {
+	'Varoom': {
 		'tier': 'LC',
 	},
-	'revavroom': {
+	'Revavroom': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'orthworm': {
+	'Orthworm': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'tandemaus': {
+	'Tandemaus': {
 		'tier': 'LC',
 	},
-	'maushold': {
+	'Maushold': {
 		'tier': 'RU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
-	'cetoddle': {
+	'Cetoddle': {
 		'tier': 'LC',
 	},
-	'cetitan': {
+	'Cetitan': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'frigibax': {
+	'Frigibax': {
 		'tier': 'LC',
 	},
-	'arctibax': {
+	'Arctibax': {
 		'tier': 'NFE',
 	},
-	'baxcalibur': {
+	'Baxcalibur': {
 		'tier': 'Ubers',
 		'doublesTier': 'DUU',
 		'natDexTier': 'Ubers',
 	},
-	'tatsugiri': {
+	'Tatsugiri': {
 		'tier': 'NU',
 		'doublesTier': 'DUbers',
 		'natDexTier': 'RU',
 	},
-	'cyclizar': {
+	'Cyclizar': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'pawmi': {
+	'Pawmi': {
 		'tier': 'LC',
 	},
-	'pawmo': {
+	'Pawmo': {
 		'tier': 'NFE',
 	},
-	'pawmot': {
+	'Pawmo-T': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'wattrel': {
+	'Wattrel': {
 		'tier': 'LC',
 	},
-	'kilowattrel': {
+	'Kilowattrel': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'bombirdier': {
+	'Bombirdier': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'squawkabilly': {
+	'Squawkabilly': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'flamigo': {
+	'Flamigo': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'klawf': {
+	'Klawf': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'nacli': {
+	'Nacli': {
 		'tier': 'LC',
 	},
-	'naclstack': {
+	'Naclstack': {
 		'tier': 'PU',
 		'doublesTier': 'NFE',
 		'natDexTier': 'NFE',
 	},
-	'garganacl': {
+	'Garganacl': {
 		'tier': 'OU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'OU',
 	},
-	'glimmet': {
+	'Glimmet': {
 		'tier': 'LC',
 	},
-	'glimmora': {
+	'Glimmora': {
 		'tier': 'OU',
 		'doublesTier': 'DOU',
 		'natDexTier': 'OU',
 	},
-	'shroodle': {
+	'Shroodle': {
 		'tier': 'LC',
 	},
-	'grafaiai': {
+	'Grafaiai': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'fidough': {
+	'Fidough': {
 		'tier': 'LC',
 	},
-	'dachsbun': {
+	'Dachsbun': {
 		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'maschiff': {
+	'Maschiff': {
 		'tier': 'LC',
 	},
-	'mabosstiff': {
+	'Mabosstiff': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'bramblin': {
+	'Bramblin': {
 		'tier': 'LC',
 	},
-	'brambleghast': {
+	'Brambleghast': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'gimmighoul': {
+	'Gimmighoul': {
 		'tier': 'LC',
 	},
-	'gimmighoulroaming': {
+	'Gimmighoul-Roaming': {
 		'tier': 'LC',
 	},
-	'gholdengo': {
+	'Gholdengo': {
 		'tier': 'OU',
 		'doublesTier': 'DOU',
 		'natDexTier': 'Ubers',
 	},
-	'greattusk': {
+	'Greattusk': {
 		'tier': 'OU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'OU',
 	},
-	'brutebonnet': {
+	'Brutebonnet': {
 		'tier': 'NU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
-	'sandyshocks': {
+	'Sandyshocks': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'screamtail': {
+	'Screamtail': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'fluttermane': {
+	'Fluttermane': {
 		'tier': 'Ubers',
 		'doublesTier': 'DOU',
 		'natDexTier': 'Ubers',
 	},
-	'slitherwing': {
+	'Slitherwing': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'roaringmoon': {
+	'Roaringmoon': {
 		'tier': 'Ubers',
 		'doublesTier': 'DOU',
 		'natDexTier': 'Ubers',
 	},
-	'irontreads': {
+	'Irontreads': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'UU',
 	},
-	'ironmoth': {
+	'Ironmoth': {
 		'tier': 'OU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'UU',
 	},
-	'ironhands': {
+	'Ironhands': {
 		'tier': 'OU',
 		'doublesTier': 'DOU',
 		'natDexTier': 'UU',
 	},
-	'ironjugulis': {
+	'Ironjugulis': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'ironthorns': {
+	'Ironthorns': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'ironbundle': {
+	'Ironbundle': {
 		'tier': 'Ubers',
 		'doublesTier': 'DOU',
 		'natDexTier': 'Ubers',
 	},
-	'ironvaliant': {
+	'Ironvaliant': {
 		'tier': 'OU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'OU',
 	},
-	'tinglu': {
+	'Tinglu': {
 		'tier': 'OU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'UU',
 	},
-	'chienpao': {
+	'Chienpao': {
 		'tier': 'Ubers',
 		'doublesTier': 'DOU',
 		'natDexTier': 'Ubers',
 	},
-	'wochien': {
+	'Wochien': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'chiyu': {
+	'Chiyu': {
 		'tier': 'Ubers',
 		'doublesTier': 'DOU',
 		'natDexTier': 'Ubers',
 	},
-	'koraidon': {
+	'Koraidon': {
 		'tier': 'Ubers',
 		'doublesTier': 'DUbers',
 		'natDexTier': 'Illegal',
 	},
-	'miraidon': {
+	'Miraidon': {
 		'tier': 'Ubers',
 		'doublesTier': 'DUbers',
 		'natDexTier': 'Illegal',
 	},
-	'tinkatink': {
+	'Tinkatink': {
 		'tier': 'LC',
 	},
-	'tinkatuff': {
+	'Tinkatuff': {
 		'tier': 'ZU',
 		'doublesTier': 'NFE',
 		'natDexTier': 'NFE',
 	},
-	'tinkaton': {
+	'Tinkaton': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'charcadet': {
+	'Charcadet': {
 		'tier': 'LC',
 	},
-	'armarouge': {
+	'Armarouge': {
 		'tier': 'RU',
 		'doublesTier': 'DOU',
 		'natDexTier': 'RU',
 	},
-	'ceruledge': {
+	'Ceruledge': {
 		'tier': 'OU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'UU',
 	},
-	'toedscool': {
+	'Toedscool': {
 		'tier': 'LC',
 	},
-	'toedscruel': {
+	'Toedscruel': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'kingambit': {
+	'Kingambit': {
 		'tier': 'OU',
 		'doublesTier': 'DOU',
 		'natDexTier': 'Ubers',
 	},
-	'clodsire': {
+	'Clodsire': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'OU',
 	},
-	'annihilape': {
+	'Annihilape': {
 		'tier': 'Ubers',
 		'doublesTier': 'DUbers',
 		'natDexTier': 'Ubers',
 	},
-	'walkingwake': {
+	'Walkingwake': {
 		'tier': 'OU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'Ubers',
 	},
-	'ironleaves': {
+	'Ironleaves': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'UU',
 	},
-	'poltchageist': {
+	'Poltchageist': {
 		'tier': 'LC',
 	},
-	'sinistcha': {
+	'Sinistcha': {
 		'tier': 'UU',
 		'doublesTier': 'DOU',
 		'natDexTier': 'UU',
 	},
-	'okidogi': {
+	'Okidogi': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'munkidori': {
+	'Munkidori': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'fezandipiti': {
+	'Fezandipiti': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'ogerpon': {
+	'Ogerpon': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'ogerponwellspring': {
+	'Ogerpon-Wellspring': {
 		'tier': 'OU',
 		'doublesTier': 'DOU',
 		'natDexTier': 'OU',
 	},
-	'ogerponhearthflame': {
+	'Ogerpon-Hearthflame': {
 		'tier': 'Ubers',
 		'doublesTier': 'DOU',
 		'natDexTier': 'Ubers',
 	},
-	'ogerponcornerstone': {
+	'Ogerpon-Cornerstone': {
 		'tier': 'OU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'OU',
 	},
-	'missingno': {
+	'Missingno': {
 		'isNonstandard': 'Custom',
 		'tier': 'Illegal',
 	},
-	'syclar': {
+	'Syclar': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP LC',
 	},
-	'syclant': {
+	'Syclant': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP',
 	},
-	'revenankh': {
+	'Revenankh': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP',
 	},
-	'embirch': {
+	'Embirch': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP LC',
 	},
-	'flarelm': {
+	'Flarelm': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP NFE',
 	},
-	'pyroak': {
+	'Pyroak': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP',
 	},
-	'breezi': {
+	'Breezi': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP LC',
 	},
-	'fidgit': {
+	'Fidgit': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP',
 	},
-	'rebble': {
+	'Rebble': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP LC',
 	},
-	'tactite': {
+	'Tactite': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP NFE',
 	},
-	'stratagem': {
+	'Stratagem': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP',
 	},
-	'privatyke': {
+	'Privatyke': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP LC',
 	},
-	'arghonaut': {
+	'Arghonaut': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP',
 	},
-	'nohface': {
+	'Nohface': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP LC',
 	},
-	'kitsunoh': {
+	'Kitsunoh': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP',
 	},
-	'monohm': {
+	'Monohm': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP LC',
 	},
-	'duohm': {
+	'Duohm': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP NFE',
 	},
-	'cyclohm': {
+	'Cyclohm': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP',
 	},
-	'dorsoil': {
+	'Dorsoil': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP LC',
 	},
-	'colossoil': {
+	'Colossoil': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP',
 	},
-	'protowatt': {
+	'Protowatt': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP LC',
 	},
-	'krilowatt': {
+	'Krilowatt': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP',
 	},
-	'voodoll': {
+	'Voodoll': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP LC',
 	},
-	'voodoom': {
+	'Voodoom': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP',
 	},
-	'scratchet': {
+	'Scratchet': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP LC',
 	},
-	'tomohawk': {
+	'Tomohawk': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP',
 	},
-	'necturine': {
+	'Necturine': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP LC',
 	},
-	'necturna': {
+	'Necturna': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP',
 	},
-	'mollux': {
+	'Mollux': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP',
 	},
-	'cupra': {
+	'Cupra': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP LC',
 	},
-	'argalis': {
+	'Argalis': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP NFE',
 	},
-	'aurumoth': {
+	'Aurumoth': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP',
 	},
-	'brattler': {
+	'Brattler': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP LC',
 	},
-	'malaconda': {
+	'Malaconda': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP',
 	},
-	'cawdet': {
+	'Cawdet': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP LC',
 	},
-	'cawmodore': {
+	'Cawmodore': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP',
 	},
-	'volkritter': {
+	'Volkritter': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP LC',
 	},
-	'volkraken': {
+	'Volkraken': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP',
 	},
-	'snugglow': {
+	'Snugglow': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP LC',
 	},
-	'plasmanta': {
+	'Plasmanta': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP',
 	},
-	'floatoy': {
+	'Floatoy': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP LC',
 	},
-	'caimanoe': {
+	'Caimanoe': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP NFE',
 	},
-	'naviathan': {
+	'Naviathan': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP',
 	},
-	'crucibelle': {
+	'Crucibelle': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP',
 	},
-	'crucibellemega': {
+	'Crucibelle-Mega': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP',
 	},
-	'pluffle': {
+	'Pluffle': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP LC',
 	},
-	'kerfluffle': {
+	'Kerfluffle': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP',
 	},
-	'pajantom': {
+	'Pajantom': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP',
 	},
-	'mumbao': {
+	'Mumbao': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP LC',
 	},
-	'jumbao': {
+	'Jumbao': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP',
 	},
-	'fawnifer': {
+	'Fawnifer': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP LC',
 	},
-	'electrelk': {
+	'Electrelk': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP NFE',
 	},
-	'caribolt': {
+	'Caribolt': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP',
 	},
-	'smogecko': {
+	'Smogecko': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP LC',
 	},
-	'smoguana': {
+	'Smoguana': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP NFE',
 	},
-	'smokomodo': {
+	'Smokomodo': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP',
 	},
-	'swirlpool': {
+	'Swirlpool': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP LC',
 	},
-	'coribalis': {
+	'Coribalis': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP NFE',
 	},
-	'snaelstrom': {
+	'Snaelstrom': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP',
 	},
-	'justyke': {
+	'Justyke': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP LC',
 	},
-	'equilibra': {
+	'Equilibra': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP',
 	},
-	'solotl': {
+	'Solotl': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP LC',
 	},
-	'astrolotl': {
+	'Astrolotl': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP',
 	},
-	'miasmite': {
+	'Miasmite': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP LC',
 	},
-	'miasmaw': {
+	'Miasmaw': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP',
 	},
-	'chromera': {
+	'Chromera': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP',
 	},
-	'venomicon': {
+	'Venomicon': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP',
 	},
-	'venomiconepilogue': {
+	'Venomicon-Epilogue': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP',
 	},
-	'saharascal': {
+	'Saharascal': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP LC',
 	},
-	'saharaja': {
+	'Saharaja': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP',
 	},
-	'ababo': {
+	'Ababo': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP LC',
 	},
-	'scattervein': {
+	'Scattervein': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP NFE',
 	},
-	'hemogoblin': {
+	'Hemogoblin': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP',
 	},
-	'cresceidon': {
+	'Cresceidon': {
 		'isNonstandard': 'CAP',
 		'tier': 'CAP',
 	},
-	'pokestarsmeargle': {
+	'Pokestarsmeargle': {
 		'isNonstandard': 'Custom',
 		'tier': 'Illegal',
 	},
-	'pokestarufo': {
+	'Pokestarufo': {
 		'isNonstandard': 'Custom',
 		'tier': 'Illegal',
 	},
-	'pokestarufo2': {
+	'Pokestarufo-2': {
 		'isNonstandard': 'Custom',
 		'tier': 'Illegal',
 	},
-	'pokestarbrycenman': {
+	'Pokestarbrycenman': {
 		'isNonstandard': 'Custom',
 		'tier': 'Illegal',
 	},
-	'pokestarmt': {
+	'Pokestarmt': {
 		'isNonstandard': 'Custom',
 		'tier': 'Illegal',
 	},
-	'pokestarmt2': {
+	'Pokestarmt-2': {
 		'isNonstandard': 'Custom',
 		'tier': 'Illegal',
 	},
-	'pokestartransport': {
+	'Pokestartransport': {
 		'isNonstandard': 'Custom',
 		'tier': 'Illegal',
 	},
-	'pokestargiant': {
+	'Pokestargiant': {
 		'isNonstandard': 'Custom',
 		'tier': 'Illegal',
 	},
-	'pokestargiant2': {
+	'Pokestargiant-2': {
 		'isNonstandard': 'Custom',
 		'tier': 'Illegal',
 	},
-	'pokestarhumanoid': {
+	'Pokestarhumanoid': {
 		'isNonstandard': 'Custom',
 		'tier': 'Illegal',
 	},
-	'pokestarmonster': {
+	'Pokestarmonster': {
 		'isNonstandard': 'Custom',
 		'tier': 'Illegal',
 	},
-	'pokestarf00': {
+	'Pokestarf00': {
 		'isNonstandard': 'Custom',
 		'tier': 'Illegal',
 	},
-	'pokestarf002': {
+	'Pokestarf00-2': {
 		'isNonstandard': 'Custom',
 		'tier': 'Illegal',
 	},
-	'pokestarspirit': {
+	'Pokestarspirit': {
 		'isNonstandard': 'Custom',
 		'tier': 'Illegal',
 	},
-	'pokestarblackdoor': {
+	'Pokestarblackdoor': {
 		'isNonstandard': 'Custom',
 		'tier': 'Illegal',
 	},
-	'pokestarwhitedoor': {
+	'Pokestarwhitedoor': {
 		'isNonstandard': 'Custom',
 		'tier': 'Illegal',
 	},
-	'pokestarblackbelt': {
+	'Pokestarblackbelt': {
 		'isNonstandard': 'Custom',
 		'tier': 'Illegal',
 	},
-	'pokestargiantpropo2': {
+	'Pokestargiantpropo2': {
 		'isNonstandard': 'Custom',
 		'tier': 'Illegal',
 	},
-	'pokestarufopropu2': {
+	'Pokestarufopropu2': {
 		'isNonstandard': 'Custom',
 		'tier': 'Illegal',
 	},
