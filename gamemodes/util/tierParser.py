@@ -1,6 +1,7 @@
 import shutil
 import tempfile
 import urllib.request
+import os
 
 with urllib.request.urlopen('https://raw.githubusercontent.com/smogon/pokemon-showdown/master/data/formats-data.ts') as response:
     with tempfile.NamedTemporaryFile(delete=False) as tmp_file:
@@ -8,8 +9,7 @@ with urllib.request.urlopen('https://raw.githubusercontent.com/smogon/pokemon-sh
 
 with open(tmp_file.name) as html:
   lines = html.read().splitlines()
-
-  fw = open("util\\data\\monTiers.py", "w")
+  fw = open("gamemodes\\util\\data\\monTiers.py", "w")
   fw.write("tierData = {\n")
   previous = "*"
   for line in lines[1:-1]:
@@ -56,8 +56,31 @@ with open(tmp_file.name) as html:
         line = line.replace("Megay", "Mega-Y")
         line = line.replace("Dawnwings", "Dawn-Wings")
         line = line.replace("Duskmane", "Dusk-Mane")
+        line = line.replace("Chiyu", "Chi-Yu")
+        line = line.replace("Wochien", "Wo-Chien")
+        line = line.replace("Sandyshocks", "Sandy Shocks")
+        line = line.replace("Slitherwing", "Slither Wing")
         if line.lstrip().startswith("Tapu"):
           line = line[:5] + "-" + line[5:].capitalize()
+        if line.lstrip().startswith("Iron"):
+          line = line[:5] + " " + line[5:].capitalize()
+        if line.lstrip().startswith("Brute"):
+          line = line[:6] + " " + line[6:].capitalize()
+        if line.lstrip().startswith("Scream"):
+          line = line[:7] + " " + line[7:].capitalize()
+        if line.lstrip().startswith("Flutter"):
+          line = line[:8] + " " + line[8:].capitalize()
+        if line.lstrip().startswith("Roaring"):
+          line = line[:8] + " " + line[8:].capitalize()
+        if line.lstrip().startswith("Great"):
+          line = line[:6] + " " + line[6:].capitalize()
+        if line.lstrip().startswith("Ting"):
+          line = line[:5] + "-" + line[5:].capitalize()
+        if line.lstrip().startswith("Chien"):
+          line = line[:6] + "-" + line[6:].capitalize()
+        if line.find("-Paldea") != -1:
+          if line[line.find("-Paldea") + 7] != "\'":
+            line = line[:line.find("-Paldea") + 7] + "-" + line[line.find("-Paldea") + 7:].capitalize()
         fw.write('\t\'')
 
     fw.write(line.lstrip() + "\n")

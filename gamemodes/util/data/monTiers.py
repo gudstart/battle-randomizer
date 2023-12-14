@@ -1035,17 +1035,17 @@ tierData = {
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'Tauros-Paldeacombat': {
+	'Tauros-Paldea-Combat': {
 		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'Tauros-Paldeablaze': {
+	'Tauros-Paldea-Blaze': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'Tauros-Paldeaaqua': {
+	'Tauros-Paldea-Aqua': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
@@ -5571,92 +5571,92 @@ tierData = {
 		'doublesTier': 'DOU',
 		'natDexTier': 'Ubers',
 	},
-	'Greattusk': {
+	'Great Tusk': {
 		'tier': 'OU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'OU',
 	},
-	'Brutebonnet': {
+	'Brute Bonnet': {
 		'tier': 'NU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
-	'Sandyshocks': {
+	'Sandy Shocks': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'Screamtail': {
+	'Scream Tail': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'Fluttermane': {
+	'Flutter Mane': {
 		'tier': 'Ubers',
 		'doublesTier': 'DOU',
 		'natDexTier': 'Ubers',
 	},
-	'Slitherwing': {
+	'Slither Wing': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'Roaringmoon': {
+	'Roaring Moon': {
 		'tier': 'Ubers',
 		'doublesTier': 'DOU',
 		'natDexTier': 'Ubers',
 	},
-	'Irontreads': {
+	'Iron Treads': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'UU',
 	},
-	'Ironmoth': {
+	'Iron Moth': {
 		'tier': 'OU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'UU',
 	},
-	'Ironhands': {
+	'Iron Hands': {
 		'tier': 'OU',
 		'doublesTier': 'DOU',
 		'natDexTier': 'UU',
 	},
-	'Ironjugulis': {
+	'Iron Jugulis': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'Ironthorns': {
+	'Iron Thorns': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'Ironbundle': {
+	'Iron Bundle': {
 		'tier': 'Ubers',
 		'doublesTier': 'DOU',
 		'natDexTier': 'Ubers',
 	},
-	'Ironvaliant': {
+	'Iron Valiant': {
 		'tier': 'OU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'OU',
 	},
-	'Tinglu': {
+	'Ting-Lu': {
 		'tier': 'OU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'UU',
 	},
-	'Chienpao': {
+	'Chien-Pao': {
 		'tier': 'Ubers',
 		'doublesTier': 'DOU',
 		'natDexTier': 'Ubers',
 	},
-	'Wochien': {
+	'Wo-Chien': {
 		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
-	'Chiyu': {
+	'Chi-Yu': {
 		'tier': 'Ubers',
 		'doublesTier': 'DOU',
 		'natDexTier': 'Ubers',
@@ -5725,7 +5725,7 @@ tierData = {
 		'doublesTier': 'DUU',
 		'natDexTier': 'Ubers',
 	},
-	'Ironleaves': {
+	'Iron Leaves': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'UU',
