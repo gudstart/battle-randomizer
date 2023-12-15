@@ -44,23 +44,23 @@ for pokemon, data in tierData.items():
         if "tier" in data:
             tiers[data["tier"]].append(pokemon)
 
-ndSelection = {
-    "OU": rand.sample(ndTiers["OU"], 4),
-    "UU": rand.sample(ndTiers["UU"], 4),
-    "RU": rand.sample(ndTiers["RU"], 4),
-    "Tera Captains": rand.sample(ndTiers["NFE"] + ndTiers["LC"], 4),
-}
-
-selection = {
-    "OU": rand.sample(tiers["OU"], 4),
-    "UU": rand.sample(tiers["UU"], 4),
-    "RU": rand.sample(tiers["RU"], 4),
-    "Tera Captains": rand.sample(tiers["NU"] + tiers["PU"] + tiers["ZU"], 4),
-}
-
 def getDraftRules(format):
-    rand = randint(2)
-    r = "## YOUNGEST" if rand == 0 else "## OLDEST"
+    ndSelection = {
+        "OU": rand.sample(ndTiers["OU"], 4),
+        "UU": rand.sample(ndTiers["UU"], 4),
+        "RU": rand.sample(ndTiers["RU"], 4),
+        "Tera Captains": rand.sample(ndTiers["NFE"], 4),
+    }
+
+    selection = {
+        "OU": rand.sample(tiers["OU"], 4),
+        "UU": rand.sample(tiers["UU"], 4),
+        "RU": rand.sample(tiers["RU"], 4),
+        "Tera Captains": rand.sample(tiers["NU"] + tiers["PU"] + tiers["ZU"], 4),
+    }
+
+    randN = randint(2)
+    r = "## SNAKE DRAFT: YOUNGEST" if randN == 0 else "## SNAKE DRAFT: OLDEST"
     text = r + " GOES FIRST\n"
     text += "Only Tera Captains may terastallize. " + str(TIME_LIMIT_MINUTES) + " minute time limit. Run **!draft** again to start timer\n"
     text += "First pick: **OU** and below. Second pick: **UU** and below. Third pick: **RU** and below. Fourth pick: **Tera Captains** only.\n\n"

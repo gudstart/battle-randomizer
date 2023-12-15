@@ -1,7 +1,6 @@
 import shutil
 import tempfile
 import urllib.request
-import os
 
 with urllib.request.urlopen('https://raw.githubusercontent.com/smogon/pokemon-showdown/master/data/formats-data.ts') as response:
     with tempfile.NamedTemporaryFile(delete=False) as tmp_file:
