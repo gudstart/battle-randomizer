@@ -69,6 +69,10 @@ with open(tmp_file.name) as html:
           line = line[:7] + " " + line[7:].capitalize()
         if line.lstrip().startswith("Flutter"):
           line = line[:8] + " " + line[8:].capitalize()
+        if line.lstrip().startswith("Raging"):
+          line = line[:7] + " " + line[7:].capitalize()
+        if line.lstrip().startswith("Gouging"):
+          line = line[:8] + " " + line[8:].capitalize()
         if line.lstrip().startswith("Roaring"):
           line = line[:8] + " " + line[8:].capitalize()
         if line.lstrip().startswith("Great"):
