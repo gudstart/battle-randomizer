@@ -21,7 +21,8 @@ tiers = {
     "CAP": [],
     "CAP LC": [],
     "CAP NFE": [],
-    "Illegal": []
+    "Illegal": [],
+    "Unreleased": []
 }
 
 ndTiers = {
@@ -34,7 +35,8 @@ ndTiers = {
     "ZU" : [],
     "NFE": [],
     "LC": [],
-    "Illegal": []
+    "Illegal": [],
+    "Unreleased": []
 }
 
 for pokemon, data in tierData.items():

@@ -6,8 +6,8 @@ tierData = {
 		'tier': 'NFE',
 	},
 	'Venusaur': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'UU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Venusaur-Mega': {
@@ -48,11 +48,13 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Wartortle': {
-		'tier': 'NFE',
+		'tier': 'ZU',
+		'doublesTier': 'NFE',
+		'natDexTier': 'NFE',
 	},
 	'Blastoise': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'UU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Blastoise-Mega': {
@@ -101,7 +103,7 @@ tierData = {
 	'Beedrill-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'UU',
+		'natDexTier': 'RU',
 	},
 	'Pidgey': {
 		'isNonstandard': 'Past',
@@ -271,7 +273,7 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'Sandslash-Alola': {
-		'tier': 'NU',
+		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -319,7 +321,9 @@ tierData = {
 		'natDexTier': 'UU',
 	},
 	'Vulpix': {
-		'tier': 'NFE',
+		'tier': 'PU',
+		'doublesTier': 'LC',
+		'natDexTier': 'LC',
 	},
 	'Vulpix-Alola': {
 		'tier': 'NFE',
@@ -331,8 +335,8 @@ tierData = {
 	},
 	'Ninetales-Alola': {
 		'tier': 'UU',
-		'doublesTier': 'DOU',
-		'natDexTier': 'UU',
+		'doublesTier': 'DUU',
+		'natDexTier': 'RU',
 	},
 	'Igglybuff': {
 		'tier': 'LC',
@@ -367,13 +371,13 @@ tierData = {
 		'tier': 'NFE',
 	},
 	'Vileplume': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'PU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Bellossom': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'PU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Paras': {
@@ -406,7 +410,7 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'Dugtrio-Alola': {
-		'tier': 'PU',
+		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -450,7 +454,7 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Primeape': {
-		'tier': 'NU',
+		'tier': 'PU',
 		'doublesTier': 'NFE',
 		'natDexTier': 'NFE',
 	},
@@ -467,7 +471,7 @@ tierData = {
 	},
 	'Arcanine-Hisui': {
 		'tier': 'UU',
-		'doublesTier': 'DOU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Poliwag': {
@@ -540,8 +544,8 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Tentacruel': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'UU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Geodude': {
@@ -557,12 +561,12 @@ tierData = {
 		'tier': 'NFE',
 	},
 	'Golem': {
-		'tier': 'PU',
+		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
 	'Golem-Alola': {
-		'tier': 'PU',
+		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -603,7 +607,7 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'Slowbro-Galar': {
-		'tier': 'RU',
+		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -621,7 +625,7 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Magneton': {
-		'tier': 'NU',
+		'tier': 'PU',
 		'doublesTier': 'NFE',
 		'natDexTier': 'NFE',
 	},
@@ -649,16 +653,16 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Dodrio': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'PU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Seel': {
 		'tier': 'LC',
 	},
 	'Dewgong': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'PU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Grimer': {
@@ -689,7 +693,7 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Haunter': {
-		'tier': 'PU',
+		'tier': 'ZU',
 		'doublesTier': 'NFE',
 		'natDexTier': 'NFE',
 	},
@@ -756,7 +760,7 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'Electrode-Hisui': {
-		'tier': 'NU',
+		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -764,13 +768,13 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Exeggutor': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'PU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Exeggutor-Alola': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'RU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Cubone': {
@@ -796,18 +800,18 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Hitmonlee': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'RU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Hitmonchan': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'PU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Hitmontop': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'NU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Lickitung': {
@@ -837,23 +841,25 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Rhydon': {
-		'tier': 'NFE',
+		'tier': 'NU',
+		'doublesTier': 'NFE',
+		'natDexTier': 'NFE',
 	},
 	'Rhyperior': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'RU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Happiny': {
 		'tier': 'LC',
 	},
 	'Chansey': {
-		'tier': 'NU',
+		'tier': 'RU',
 		'doublesTier': 'NFE',
 		'natDexTier': 'UU',
 	},
 	'Blissey': {
-		'tier': 'OU',
+		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -884,8 +890,8 @@ tierData = {
 		'tier': 'NFE',
 	},
 	'Kingdra': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'UU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Goldeen': {
@@ -945,7 +951,7 @@ tierData = {
 	},
 	'Kleavor': {
 		'tier': 'UU',
-		'doublesTier': 'DOU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'UU',
 	},
 	'Smoochum': {
@@ -962,22 +968,26 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Electabuzz': {
-		'tier': 'NFE',
+		'tier': 'ZU',
+		'doublesTier': 'NFE',
+		'natDexTier': 'NFE',
 	},
 	'Electivire': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'RU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Magby': {
 		'tier': 'LC',
 	},
 	'Magmar': {
-		'tier': 'NFE',
+		'tier': 'ZU',
+		'doublesTier': 'NFE',
+		'natDexTier': 'NFE',
 	},
 	'Magmortar': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'PU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Pinsir': {
@@ -996,7 +1006,7 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'Tauros-Paldea-Combat': {
-		'tier': 'PU',
+		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -1024,8 +1034,8 @@ tierData = {
 		'natDexTier': 'OU',
 	},
 	'Lapras': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'NU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Lapras-Gmax': {
@@ -1064,7 +1074,7 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'Espeon': {
-		'tier': 'RU',
+		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -1079,7 +1089,7 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'Glaceon': {
-		'tier': 'ZU',
+		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -1089,14 +1099,16 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'Porygon': {
-		'tier': 'LC',
-	},
-	'Porygon-2': {
 		'tier': 'NFE',
 	},
+	'Porygon-2': {
+		'tier': 'PU',
+		'doublesTier': 'NFE',
+		'natDexTier': 'NFE',
+	},
 	'Porygon-Z': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'UU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'UU',
 	},
 	'Omanyte': {
@@ -1152,7 +1164,7 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'Zapdos': {
-		'tier': 'OU',
+		'tier': 'UU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'OU',
 	},
@@ -1209,8 +1221,8 @@ tierData = {
 		'tier': 'NFE',
 	},
 	'Meganium': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'NU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Cyndaquil': {
@@ -1220,7 +1232,7 @@ tierData = {
 		'tier': 'NFE',
 	},
 	'Typhlosion': {
-		'tier': 'NU',
+		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -1236,8 +1248,8 @@ tierData = {
 		'tier': 'NFE',
 	},
 	'Feraligatr': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'UU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Sentret': {
@@ -1278,8 +1290,8 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Lanturn': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'PU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Togepi': {
@@ -1331,7 +1343,7 @@ tierData = {
 	},
 	'Azumarill': {
 		'tier': 'UU',
-		'doublesTier': 'DUU',
+		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
 	'Bonsly': {
@@ -1386,14 +1398,14 @@ tierData = {
 	'Quagsire': {
 		'tier': 'RU',
 		'doublesTier': '(DUU)',
-		'natDexTier': 'UU',
+		'natDexTier': 'RU',
 	},
 	'Murkrow': {
 		'tier': 'NFE',
 		'doublesTier': 'DUU',
 	},
 	'Honchkrow': {
-		'tier': 'PU',
+		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -1403,7 +1415,7 @@ tierData = {
 		'natDexTier': 'NFE',
 	},
 	'Mismagius': {
-		'tier': 'NU',
+		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -1442,7 +1454,7 @@ tierData = {
 		'tier': 'NFE',
 	},
 	'Dudunsparce': {
-		'tier': 'NU',
+		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -1460,8 +1472,8 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Granbull': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'PU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Qwilfish': {
@@ -1470,12 +1482,12 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'Qwilfish-Hisui': {
-		'tier': 'NU',
+		'tier': 'PU',
 		'doublesTier': 'NFE',
 		'natDexTier': 'NFE',
 	},
 	'Overqwil': {
-		'tier': 'RU',
+		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -1505,7 +1517,7 @@ tierData = {
 		'natDexTier': 'NFE',
 	},
 	'Weavile': {
-		'tier': 'UU',
+		'tier': 'OU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'OU',
 	},
@@ -1529,7 +1541,7 @@ tierData = {
 	},
 	'Ursaluna-Bloodmoon': {
 		'tier': 'Ubers',
-		'doublesTier': 'DOU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'Ubers',
 	},
 	'Slugma': {
@@ -1544,12 +1556,12 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Piloswine': {
-		'tier': 'NU',
+		'tier': 'PU',
 		'doublesTier': 'NFE',
 		'natDexTier': 'NFE',
 	},
 	'Mamoswine': {
-		'tier': 'UU',
+		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'UU',
 	},
@@ -1595,14 +1607,14 @@ tierData = {
 	},
 	'Skarmory': {
 		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'UU',
 	},
 	'Houndour': {
 		'tier': 'LC',
 	},
 	'Houndoom': {
-		'tier': 'PU',
+		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -1615,7 +1627,7 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Donphan': {
-		'tier': 'RU',
+		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -1628,8 +1640,8 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'Smeargle': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'UU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Miltank': {
@@ -1638,18 +1650,18 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'Raikou': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'RU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Entei': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'RU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Suicune': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'UU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Larvitar': {
@@ -1659,7 +1671,7 @@ tierData = {
 		'tier': 'NFE',
 	},
 	'Tyranitar': {
-		'tier': 'RU',
+		'tier': 'UU',
 		'doublesTier': 'DOU',
 		'natDexTier': 'UU',
 	},
@@ -1690,8 +1702,8 @@ tierData = {
 		'tier': 'NFE',
 	},
 	'Sceptile': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'PU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Sceptile-Mega': {
@@ -1703,11 +1715,13 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Combusken': {
-		'tier': 'NFE',
+		'tier': 'ZU',
+		'doublesTier': 'NFE',
+		'natDexTier': 'NFE',
 	},
 	'Blaziken': {
 		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'OU',
 	},
 	'Blaziken-Mega': {
@@ -1722,14 +1736,14 @@ tierData = {
 		'tier': 'NFE',
 	},
 	'Swampert': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'UU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Swampert-Mega': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'UU',
+		'natDexTier': 'OU',
 	},
 	'Poochyena': {
 		'tier': 'LC',
@@ -1807,7 +1821,7 @@ tierData = {
 		'tier': 'NFE',
 	},
 	'Shiftry': {
-		'tier': 'NU',
+		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -1825,8 +1839,8 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Pelipper': {
-		'tier': 'UU',
-		'doublesTier': 'DUU',
+		'tier': 'OU',
+		'doublesTier': 'DOU',
 		'natDexTier': 'OU',
 	},
 	'Ralts': {
@@ -1846,7 +1860,7 @@ tierData = {
 		'natDexTier': 'UU',
 	},
 	'Gallade': {
-		'tier': 'NU',
+		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -1916,8 +1930,8 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Hariyama': {
-		'tier': 'NU',
-		'doublesTier': '(DUU)',
+		'tier': 'PU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Nosepass': {
@@ -1939,7 +1953,7 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'Sableye': {
-		'tier': 'PU',
+		'tier': 'ZU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
@@ -2007,13 +2021,13 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'Plusle': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'PU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Minun': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'PU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Volbeat': {
@@ -2088,9 +2102,9 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'Torkoal': {
-		'tier': 'RU',
+		'tier': 'OU',
 		'doublesTier': 'DOU',
-		'natDexTier': 'RU',
+		'natDexTier': 'OU',
 	},
 	'Spoink': {
 		'tier': 'LC',
@@ -2112,8 +2126,8 @@ tierData = {
 		'tier': 'NFE',
 	},
 	'Flygon': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'NU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Cacnea': {
@@ -2161,7 +2175,7 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Whiscash': {
-		'tier': 'PU',
+		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -2169,7 +2183,7 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Crawdaunt': {
-		'tier': 'UU',
+		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -2343,7 +2357,7 @@ tierData = {
 	},
 	'Salamence': {
 		'tier': 'UU',
-		'doublesTier': '(DUU)',
+		'doublesTier': 'DUU',
 		'natDexTier': 'UU',
 	},
 	'Salamence-Mega': {
@@ -2355,11 +2369,13 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Metang': {
-		'tier': 'NFE',
+		'tier': 'ZU',
+		'doublesTier': 'NFE',
+		'natDexTier': 'NFE',
 	},
 	'Metagross': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'UU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Metagross-Mega': {
@@ -2368,23 +2384,23 @@ tierData = {
 		'natDexTier': 'Ubers',
 	},
 	'Regirock': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'PU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Regice': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'PU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Registeel': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'PU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Latias': {
 		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Latias-Mega': {
@@ -2393,8 +2409,8 @@ tierData = {
 		'natDexTier': 'UU',
 	},
 	'Latios': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'UU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'UU',
 	},
 	'Latios-Mega': {
@@ -2439,7 +2455,7 @@ tierData = {
 	},
 	'Deoxys': {
 		'tier': 'Ubers',
-		'doublesTier': 'DOU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'Ubers',
 	},
 	'Deoxys-Attack': {
@@ -2448,13 +2464,13 @@ tierData = {
 		'natDexTier': 'Ubers',
 	},
 	'Deoxys-Defense': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'UU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'UU',
 	},
 	'Deoxys-Speed': {
 		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'Ubers',
 	},
 	'Turtwig': {
@@ -2472,7 +2488,9 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Monferno': {
-		'tier': 'NFE',
+		'tier': 'ZU',
+		'doublesTier': 'NFE',
+		'natDexTier': 'NFE',
 	},
 	'Infernape': {
 		'tier': 'UU',
@@ -2486,7 +2504,7 @@ tierData = {
 		'tier': 'NFE',
 	},
 	'Empoleon': {
-		'tier': 'UU',
+		'tier': 'RU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
@@ -2497,7 +2515,7 @@ tierData = {
 		'tier': 'NFE',
 	},
 	'Staraptor': {
-		'tier': 'RU',
+		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -2534,16 +2552,16 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Rampardos': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'RU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Shieldon': {
 		'tier': 'LC',
 	},
 	'Bastiodon': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'NU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Burmy': {
@@ -2658,7 +2676,7 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Bronzong': {
-		'tier': 'NU',
+		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -2681,7 +2699,7 @@ tierData = {
 		'natDexTier': 'NFE',
 	},
 	'Garchomp': {
-		'tier': 'OU',
+		'tier': 'UU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'OU',
 	},
@@ -2707,9 +2725,9 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Hippowdon': {
-		'tier': 'RU',
-		'doublesTier': '(DUU)',
-		'natDexTier': 'UU',
+		'tier': 'UU',
+		'doublesTier': 'DUU',
+		'natDexTier': 'RU',
 	},
 	'Skorupi': {
 		'isNonstandard': 'Past',
@@ -2781,7 +2799,7 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'Rotom-Mow': {
-		'tier': 'NU',
+		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -2791,7 +2809,7 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'Mesprit': {
-		'tier': 'NU',
+		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -2822,12 +2840,12 @@ tierData = {
 	},
 	'Heatran': {
 		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'OU',
 	},
 	'Regigigas': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'NU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Giratina': {
@@ -2851,17 +2869,17 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'Manaphy': {
-		'tier': 'OU',
+		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'OU',
 	},
 	'Darkrai': {
 		'tier': 'OU',
 		'doublesTier': 'DUbers',
-		'natDexTier': 'Ubers',
+		'natDexTier': 'OU',
 	},
 	'Shaymin': {
-		'tier': 'NU',
+		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -2884,12 +2902,14 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Servine': {
-		'tier': 'NFE',
+		'tier': 'ZU',
+		'doublesTier': 'NFE',
+		'natDexTier': 'NFE',
 	},
 	'Serperior': {
 		'tier': 'OU',
-		'doublesTier': 'DOU',
-		'natDexTier': 'UU',
+		'doublesTier': 'DUU',
+		'natDexTier': 'OU',
 	},
 	'Tepig': {
 		'tier': 'LC',
@@ -2898,8 +2918,8 @@ tierData = {
 		'tier': 'NFE',
 	},
 	'Emboar': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'NU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Oshawott': {
@@ -2915,7 +2935,7 @@ tierData = {
 	},
 	'Samurott-Hisui': {
 		'tier': 'OU',
-		'doublesTier': '(DUU)',
+		'doublesTier': 'DUU',
 		'natDexTier': 'OU',
 	},
 	'Patrat': {
@@ -3012,8 +3032,8 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Zebstrika': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'PU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Roggenrola': {
@@ -3068,7 +3088,7 @@ tierData = {
 		'natDexTier': 'NFE',
 	},
 	'Conkeldurr': {
-		'tier': 'UU',
+		'tier': 'RU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
@@ -3127,7 +3147,7 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Whimsicott': {
-		'tier': 'OU',
+		'tier': 'RU',
 		'doublesTier': 'DOU',
 		'natDexTier': 'RU',
 	},
@@ -3135,12 +3155,12 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Lilligant': {
-		'tier': 'NU',
+		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
 	'Lilligant-Hisui': {
-		'tier': 'UU',
+		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'UU',
 	},
@@ -3155,7 +3175,7 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'Basculegion-F': {
-		'tier': 'UU',
+		'tier': 'RU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
@@ -3163,7 +3183,9 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Krokorok': {
-		'tier': 'NFE',
+		'tier': 'ZU',
+		'doublesTier': 'NFE',
+		'natDexTier': 'NFE',
 	},
 	'Krookodile': {
 		'tier': 'RU',
@@ -3212,11 +3234,11 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'Scraggy': {
-		'tier': 'LC',
+		'tier': 'NFE',
 	},
 	'Scrafty': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'NU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Sigilyph': {
@@ -3298,8 +3320,8 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Cinccino': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'UU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Gothita': {
@@ -3317,11 +3339,13 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Duosion': {
-		'tier': 'NFE',
+		'tier': 'ZU',
+		'doublesTier': 'NFE',
+		'natDexTier': 'NFE',
 	},
 	'Reuniclus': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'UU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Ducklett': {
@@ -3374,7 +3398,7 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Amoonguss': {
-		'tier': 'OU',
+		'tier': 'UU',
 		'doublesTier': 'DOU',
 		'natDexTier': 'UU',
 	},
@@ -3389,7 +3413,7 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'Alomomola': {
-		'tier': 'OU',
+		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'OU',
 	},
@@ -3397,8 +3421,8 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Galvantula': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'UU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Ferroseed': {
@@ -3454,8 +3478,8 @@ tierData = {
 		'tier': 'NFE',
 	},
 	'Chandelure': {
-		'tier': 'RU',
-		'doublesTier': '(DUU)',
+		'tier': 'NU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Axew': {
@@ -3467,7 +3491,7 @@ tierData = {
 	'Haxorus': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
-		'natDexTier': 'RU',
+		'natDexTier': 'UU',
 	},
 	'Cubchoo': {
 		'tier': 'LC',
@@ -3506,7 +3530,7 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Mienshao': {
-		'tier': 'UU',
+		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -3519,8 +3543,8 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Golurk': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'RU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Pawniard': {
@@ -3550,7 +3574,9 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'Vullaby': {
-		'tier': 'LC',
+		'tier': 'ZU',
+		'doublesTier': 'LC',
+		'natDexTier': 'LC',
 	},
 	'Mandibuzz': {
 		'tier': 'UU',
@@ -3576,29 +3602,29 @@ tierData = {
 	'Hydreigon': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
-		'natDexTier': 'UU',
+		'natDexTier': 'RU',
 	},
 	'Larvesta': {
 		'tier': 'LC',
 	},
 	'Volcarona': {
 		'tier': 'OU',
-		'doublesTier': 'DUU',
+		'doublesTier': '(DUU)',
 		'natDexTier': 'OU',
 	},
 	'Cobalion': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'RU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Terrakion': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'RU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'UU',
 	},
 	'Virizion': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'PU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Tornadus': {
@@ -3612,7 +3638,7 @@ tierData = {
 		'natDexTier': 'OU',
 	},
 	'Thundurus': {
-		'tier': 'RU',
+		'tier': 'NU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
@@ -3633,7 +3659,7 @@ tierData = {
 	},
 	'Landorus': {
 		'tier': 'Ubers',
-		'doublesTier': 'DUU',
+		'doublesTier': 'DOU',
 		'natDexTier': 'Ubers',
 	},
 	'Landorus-Therian': {
@@ -3643,12 +3669,12 @@ tierData = {
 	},
 	'Kyurem': {
 		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'OU',
 	},
 	'Kyurem-Black': {
 		'tier': 'Ubers',
-		'doublesTier': 'DOU',
+		'doublesTier': 'DUbers',
 		'natDexTier': 'Ubers',
 	},
 	'Kyurem-White': {
@@ -3657,8 +3683,8 @@ tierData = {
 		'natDexTier': 'Ubers',
 	},
 	'Keldeo': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'UU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'UU',
 	},
 	'Meloetta': {
@@ -3722,8 +3748,8 @@ tierData = {
 		'natDexTier': 'NFE',
 	},
 	'Greninja': {
-		'tier': 'OU',
-		'doublesTier': '(DUU)',
+		'tier': 'UU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'OU',
 	},
 	'Greninja-Ash': {
@@ -3748,8 +3774,8 @@ tierData = {
 	},
 	'Talonflame': {
 		'tier': 'RU',
-		'doublesTier': 'DUU',
-		'natDexTier': 'UU',
+		'doublesTier': '(DUU)',
+		'natDexTier': 'RU',
 	},
 	'Scatterbug': {
 		'tier': 'LC',
@@ -3758,7 +3784,7 @@ tierData = {
 		'tier': 'NFE',
 	},
 	'Vivillon': {
-		'tier': 'NU',
+		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -3812,13 +3838,8 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Meowstic': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
-		'natDexTier': 'RU',
-	},
-	'Meowstic-F': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'PU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Honedge': {
@@ -3834,7 +3855,7 @@ tierData = {
 	'Aegislash': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'OU',
+		'natDexTier': 'UU',
 	},
 	'Aegislash-Blade': {
 		'isNonstandard': 'Past',
@@ -3863,8 +3884,8 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Malamar': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'PU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Binacle': {
@@ -3881,7 +3902,7 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Dragalge': {
-		'tier': 'RU',
+		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -3934,7 +3955,7 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'Carbink': {
-		'tier': 'PU',
+		'tier': 'ZU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -4049,7 +4070,7 @@ tierData = {
 		'natDexTier': 'Ubers',
 	},
 	'Diancie': {
-		'tier': 'RU',
+		'tier': 'NU',
 		'doublesTier': 'DOU',
 		'natDexTier': 'RU',
 	},
@@ -4080,12 +4101,12 @@ tierData = {
 		'tier': 'NFE',
 	},
 	'Decidueye': {
-		'tier': 'NU',
+		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
 	'Decidueye-Hisui': {
-		'tier': 'NU',
+		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -4096,7 +4117,7 @@ tierData = {
 		'tier': 'NFE',
 	},
 	'Incineroar': {
-		'tier': 'OU',
+		'tier': 'UU',
 		'doublesTier': 'DOU',
 		'natDexTier': 'RU',
 	},
@@ -4108,7 +4129,7 @@ tierData = {
 	},
 	'Primarina': {
 		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Pikipek': {
@@ -4118,8 +4139,8 @@ tierData = {
 		'tier': 'NFE',
 	},
 	'Toucannon': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'PU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Yungoos': {
@@ -4141,7 +4162,7 @@ tierData = {
 		'tier': 'NFE',
 	},
 	'Vikavolt': {
-		'tier': 'NU',
+		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -4163,12 +4184,12 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'Oricorio-Pompom': {
-		'tier': 'RU',
+		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
 	'Oricorio-Pau': {
-		'tier': 'NU',
+		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -4181,7 +4202,7 @@ tierData = {
 		'tier': 'NFE',
 	},
 	'Ribombee': {
-		'tier': 'OU',
+		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -4196,7 +4217,7 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Lycanroc': {
-		'tier': 'NU',
+		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -4224,7 +4245,7 @@ tierData = {
 	'Toxapex': {
 		'tier': 'OU',
 		'doublesTier': '(DUU)',
-		'natDexTier': 'OU',
+		'natDexTier': 'UU',
 	},
 	'Mudbray': {
 		'tier': 'LC',
@@ -4238,8 +4259,8 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Araquanid': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'UU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Araquanid-Totem': {
@@ -4302,13 +4323,13 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'Comfey': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'UU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Oranguru': {
 		'tier': 'ZU',
-		'doublesTier': 'DUU',
+		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
 	'Passimian': {
@@ -4324,13 +4345,13 @@ tierData = {
 	'Golisopod': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'RU',
+		'natDexTier': 'UU',
 	},
 	'Sandygast': {
 		'tier': 'LC',
 	},
 	'Palossand': {
-		'tier': 'PU',
+		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -4435,8 +4456,8 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'Minior': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'UU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Komala': {
@@ -4493,8 +4514,8 @@ tierData = {
 		'tier': 'NFE',
 	},
 	'Kommoo': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'UU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'OU',
 	},
 	'Kommoo-Totem': {
@@ -4545,7 +4566,7 @@ tierData = {
 	'Buzzwole': {
 		'isNonstandard': 'Past',
 		'tier': 'Illegal',
-		'natDexTier': 'RU',
+		'natDexTier': 'UU',
 	},
 	'Pheromosa': {
 		'isNonstandard': 'Past',
@@ -4573,8 +4594,8 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'Necrozma': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'UU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Necrozma-Dusk-Mane': {
@@ -4662,7 +4683,9 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Raboot': {
-		'tier': 'NFE',
+		'tier': 'ZU',
+		'doublesTier': 'NFE',
+		'natDexTier': 'NFE',
 	},
 	'Cinderace': {
 		'tier': 'OU',
@@ -4680,7 +4703,7 @@ tierData = {
 		'tier': 'NFE',
 	},
 	'Inteleon': {
-		'tier': 'NU',
+		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -4819,7 +4842,7 @@ tierData = {
 		'tier': 'Illegal',
 	},
 	'Dipplin': {
-		'tier': 'NU',
+		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -4827,7 +4850,7 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Sandaconda': {
-		'tier': 'NU',
+		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -4844,7 +4867,7 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Barraskewda': {
-		'tier': 'UU',
+		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -4900,9 +4923,7 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Hattrem': {
-		'tier': 'ZU',
-		'doublesTier': 'NFE',
-		'natDexTier': 'NFE',
+		'tier': 'NFE',
 	},
 	'Hatterene': {
 		'tier': 'OU',
@@ -4920,9 +4941,9 @@ tierData = {
 		'tier': 'NFE',
 	},
 	'Grimmsnarl': {
-		'tier': 'UU',
+		'tier': 'RU',
 		'doublesTier': 'DOU',
-		'natDexTier': 'UU',
+		'natDexTier': 'RU',
 	},
 	'Grimmsnarl-Gmax': {
 		'isNonstandard': 'Past',
@@ -4932,8 +4953,8 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Alcremie': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'tier': 'PU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Alcremie-Gmax': {
@@ -4969,8 +4990,8 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'Indeedee': {
-		'tier': 'PU',
-		'doublesTier': '(DUU)',
+		'tier': 'UU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Indeedee-F': {
@@ -5016,7 +5037,7 @@ tierData = {
 		'natDexTier': 'RU',
 	},
 	'Duraludon': {
-		'tier': 'NFE',
+		'tier': 'NU',
 		'doublesTier': 'NFE',
 		'natDexTier': 'RU',
 	},
@@ -5086,7 +5107,7 @@ tierData = {
 		'tier': 'Illegal',
 	},
 	'Zarude': {
-		'tier': 'UU',
+		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -5096,12 +5117,12 @@ tierData = {
 		'natDexTier': 'Ubers',
 	},
 	'Regidrago': {
-		'tier': 'UU',
+		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
 	'Glastrier': {
-		'tier': 'NU',
+		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -5131,7 +5152,7 @@ tierData = {
 		'natDexTier': 'UU',
 	},
 	'Enamorus-Therian': {
-		'tier': 'UU',
+		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -5142,9 +5163,9 @@ tierData = {
 		'tier': 'NFE',
 	},
 	'Meowscarada': {
-		'tier': 'UU',
+		'tier': 'OU',
 		'doublesTier': 'DUU',
-		'natDexTier': 'UU',
+		'natDexTier': 'OU',
 	},
 	'Fuecoco': {
 		'tier': 'LC',
@@ -5154,7 +5175,7 @@ tierData = {
 	},
 	'Skeledirge': {
 		'tier': 'OU',
-		'doublesTier': '(DUU)',
+		'doublesTier': 'DUU',
 		'natDexTier': 'UU',
 	},
 	'Quaxly': {
@@ -5246,7 +5267,7 @@ tierData = {
 	},
 	'Palafin': {
 		'tier': 'Ubers',
-		'doublesTier': 'DOU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'Ubers',
 	},
 	'Smoliv': {
@@ -5293,7 +5314,7 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Maushold': {
-		'tier': 'RU',
+		'tier': 'UU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
@@ -5369,12 +5390,12 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Naclstack': {
-		'tier': 'PU',
+		'tier': 'ZU',
 		'doublesTier': 'NFE',
 		'natDexTier': 'NFE',
 	},
 	'Garganacl': {
-		'tier': 'OU',
+		'tier': 'UU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'OU',
 	},
@@ -5461,16 +5482,16 @@ tierData = {
 	},
 	'Roaring Moon': {
 		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'Ubers',
 	},
 	'Iron Treads': {
 		'tier': 'UU',
 		'doublesTier': '(DUU)',
-		'natDexTier': 'UU',
+		'natDexTier': 'OU',
 	},
 	'Iron Moth': {
-		'tier': 'OU',
+		'tier': 'UU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'UU',
 	},
@@ -5480,18 +5501,18 @@ tierData = {
 		'natDexTier': 'UU',
 	},
 	'Iron Jugulis': {
-		'tier': 'RU',
+		'tier': 'UU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
 	'Iron Thorns': {
-		'tier': 'RU',
+		'tier': 'NU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
 	'Iron Bundle': {
 		'tier': 'Ubers',
-		'doublesTier': 'DOU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'Ubers',
 	},
 	'Iron Valiant': {
@@ -5510,7 +5531,7 @@ tierData = {
 		'natDexTier': 'Ubers',
 	},
 	'Wo-Chien': {
-		'tier': 'NU',
+		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -5546,13 +5567,13 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Armarouge': {
-		'tier': 'RU',
-		'doublesTier': 'DOU',
+		'tier': 'UU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
 	'Ceruledge': {
-		'tier': 'OU',
-		'doublesTier': '(DUU)',
+		'tier': 'UU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'UU',
 	},
 	'Toedscool': {
@@ -5569,7 +5590,7 @@ tierData = {
 		'natDexTier': 'Ubers',
 	},
 	'Clodsire': {
-		'tier': 'UU',
+		'tier': 'OU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'OU',
 	},
@@ -5580,7 +5601,7 @@ tierData = {
 	},
 	'Walkingwake': {
 		'tier': 'OU',
-		'doublesTier': 'DUU',
+		'doublesTier': 'DOU',
 		'natDexTier': 'Ubers',
 	},
 	'Iron Leaves': {
@@ -5627,7 +5648,7 @@ tierData = {
 		'natDexTier': 'Ubers',
 	},
 	'Ogerpon-Cornerstone': {
-		'tier': 'OU',
+		'tier': 'UU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'OU',
 	},
@@ -5637,9 +5658,9 @@ tierData = {
 		'natDexTier': 'OU',
 	},
 	'Hydrapple': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
-		'natDexTier': 'OU',
+		'tier': 'UU',
+		'doublesTier': 'DUU',
+		'natDexTier': 'UU',
 	},
 	'Gouging Fire': {
 		'tier': 'OU',
@@ -5653,32 +5674,23 @@ tierData = {
 	},
 	'Iron Boulder': {
 		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'OU',
 	},
 	'Iron Crown': {
 		'tier': 'OU',
-		'doublesTier': 'DOU',
+		'doublesTier': 'DUU',
 		'natDexTier': 'OU',
 	},
 	'Terapagos': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
-		'natDexTier': 'OU',
-	},
-	'Terapagos-Terastal': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
-		'natDexTier': 'OU',
-	},
-	'Terapagos-Stellar': {
-		'tier': 'OU',
-		'doublesTier': 'DOU',
-		'natDexTier': 'OU',
+		'tier': 'Ubers',
+		'doublesTier': 'DUbers',
+		'natDexTier': 'Ubers',
 	},
 	'Pecharunt': {
-		'isNonstandard': 'Unobtainable',
-		'tier': 'Unreleased',
+		'tier': 'OU',
+		'doublesTier': 'DOU',
+		'natDexTier': 'OU',
 	},
 	'Missingno': {
 		'isNonstandard': 'Custom',
