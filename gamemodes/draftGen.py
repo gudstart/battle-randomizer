@@ -6,7 +6,7 @@ import pokebase as pb
 from gamemodes.util.data.monTiers import tierData
 
 #### SETTINGS ####
-TIME_LIMIT_MINUTES = 9
+TIME_LIMIT_MINUTES = 15
 
 tiers = {
     "Ubers": [],

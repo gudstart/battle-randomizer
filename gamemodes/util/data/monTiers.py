@@ -6,7 +6,7 @@ tierData = {
 		'tier': 'NFE',
 	},
 	'Venusaur': {
-		'tier': 'NU',
+		'tier': 'PU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -327,7 +327,7 @@ tierData = {
 		'tier': 'NFE',
 	},
 	'Ninetales': {
-		'tier': 'NU',
+		'tier': 'PU',
 		'doublesTier': 'DUU',
 		'natDexTier': 'RU',
 	},
@@ -683,7 +683,7 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Cloyster': {
-		'tier': 'NU',
+		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -2697,7 +2697,7 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Lucario': {
-		'tier': 'NU',
+		'tier': 'RU',
 		'doublesTier': '(DUU)',
 		'natDexTier': 'RU',
 	},
@@ -4641,7 +4641,7 @@ tierData = {
 		'tier': 'LC',
 	},
 	'Thwackey': {
-		'tier': 'PU',
+		'tier': 'ZU',
 		'doublesTier': 'NFE',
 		'natDexTier': 'NFE',
 	},
@@ -5570,7 +5570,7 @@ tierData = {
 		'doublesTier': 'DUbers',
 		'natDexTier': 'Ubers',
 	},
-	'Walkingwake': {
+	'Walking Wake': {
 		'tier': 'OU',
 		'doublesTier': 'DOU',
 		'natDexTier': 'Ubers',

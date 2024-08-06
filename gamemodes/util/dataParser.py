@@ -2,6 +2,8 @@ import shutil
 import tempfile
 import urllib.request
 
+import pokebase as pb
+
 with urllib.request.urlopen('https://raw.githubusercontent.com/smogon/pokemon-showdown/master/data/formats-data.ts') as response:
     with tempfile.NamedTemporaryFile(delete=False) as tmp_file:
         shutil.copyfileobj(response, tmp_file)
@@ -75,6 +77,8 @@ with open(tmp_file.name) as html:
           line = line[:8] + " " + line[8:].capitalize()
         if line.lstrip().startswith("Roaring"):
           line = line[:8] + " " + line[8:].capitalize()
+        if line.lstrip().startswith("Walking"):
+          line = line[:8] + " " + line[8:].capitalize()
         if line.lstrip().startswith("Great"):
           line = line[:6] + " " + line[6:].capitalize()
         if line.lstrip().startswith("Ting"):
@@ -89,3 +93,29 @@ with open(tmp_file.name) as html:
     fw.write(line.lstrip() + "\n")
 
   fw.write("}")
+
+fw = open("gamemodes\\util\\data\\moveNames.py", "w")
+fw.write("moveList = [")
+i = 1
+fw.write("\"" + str(pb.move(id_or_name=i)).replace("-", " ").title() + "\"")
+while i > 0:
+  i += 1
+  try:
+    m = pb.move(id_or_name=i)
+  except:
+    break
+  fw.write(",\"" + str(m).replace("-", " ").title() + "\"")
+fw.write("]")
+
+fw = open("gamemodes\\util\\data\\abilityNames.py", "w")
+fw.write("abilityList = [")
+i = 1
+fw.write("\"" + str(pb.ability(id_or_name=i)).replace("-", " ").title() + "\"")
+while i > 0:
+  i += 1
+  try:
+    m = pb.ability(id_or_name=i)
+  except:
+    break
+  fw.write(",\"" + str(m).replace("-", " ").title() + "\"")
+fw.write("]")
