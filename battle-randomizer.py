@@ -26,7 +26,6 @@ async def on_message(message):
     global battleInProgress
     if message.author == client.user:
         return
-
     if message.content.startswith ("!battle"):
         if message.content != "!battle" and message.content != "!battle nd":
             channel = client.get_channel(MAIN_CH)
@@ -52,7 +51,6 @@ async def on_message(message):
                     await timerMessage.edit(content=timer)
                 await timerMessage.delete()
                 battleInProgress = "None"
-
     elif message.content.startswith("!draft"):
         if message.content != "!draft" and message.content != "!draft nd":
             channel = client.get_channel(MAIN_CH)
@@ -85,5 +83,8 @@ async def on_message(message):
         channel = client.get_channel(MAIN_CH)
         await channel.send("Battle stopped.")
         battleInProgress = "None"
+    elif message.content == "!help":
+        channel = client.get_channel(MAIN_CH)
+        await channel.send("Please refer to the #info channel to get started!")
 
 client.run(TOKEN)
