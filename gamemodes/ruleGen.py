@@ -13,7 +13,6 @@ NUM_MONS = 3
 TIME_LIMIT_MINUTES = 15
 RULE_MAX_BP_RANGE = [50, 100]
 RULE_MAX_STAT_RANGE = [40, 100]
-SETTING_NATDEX_CHANCE = 50
 SETTING_TERASTALLIZE_ON_CHANCE = 50
 
 SPECIES_CLAUSE_ON_CHANCE = 90
@@ -78,12 +77,12 @@ NATDEX_tiers = ["LC", "Ubers UU", "RU", "UU", "OU", "Ubers"]
 stats = ["HP", "Attack", "Defense", "Sp. Atk", "Sp. Def", "Speed"]
 influential_natures = ["Lonely", "Adamant", "Naughty", "Brave", "Bold", "Impish", "Lax", "Relaxed", "Modest", "Bashful", "Rash", "Quiet", "Calm", "Gentle", "Careful", "Sassy", "Timid", "Hasty", "Jolly", "Naive"]
 
-def getBattleRules():
+def getBattleRules(format):
     global ruleset
     rules = ruleset
     
     battleRules = "## " + str(NUM_MONS) + " MONS, " + str(TIME_LIMIT_MINUTES) + " MINUTE TIME LIMIT\n"
-    if randint(100) <= SETTING_NATDEX_CHANCE:
+    if format == "nd":
         battleRules += "**NATIONAL DEX**\n"
         battleRules += "Only **" + rand.choice(NATDEX_tiers) + "** pokemon or below\n"
     else:
@@ -125,5 +124,3 @@ def getBattleRules():
     
     battleRules += "[Online Teambuilder](https://play.pokemonshowdown.com/teambuilder)\n"
     return battleRules
-
-print(getBattleRules())

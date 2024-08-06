@@ -27,27 +27,31 @@ async def on_message(message):
     if message.author == client.user:
         return
 
-    if message.content == "!battle":
-        if battleInProgress != "None":
+    if message.content.startswith ("!battle"):
+        if message.content != "!battle" and message.content != "!battle nd":
             channel = client.get_channel(MAIN_CH)
-            await channel.send("Battle already in progress!")
+            await channel.send("Use !battle for regular rule battle and !draft nd for national dex rule battle!")
         else:
-            channel = client.get_channel(BATTLE_CH)
-            battleInProgress = "Battling"  
-            await channel.send(getBattleRules())
-            t = TIME_LIMIT_MINUTES*60
-            mins, secs = divmod(t, 60) 
-            timer = "**Teambuilding: {:02d}:{:02d}**".format(mins, secs)
-            timerMessage = await channel.send(timer)
-            while t: 
-                if battleInProgress == "None": break
-                time.sleep(1)
-                t -= 1
+            if battleInProgress != "None":
+                channel = client.get_channel(MAIN_CH)
+                await channel.send("Battle already in progress!")
+            else:
+                channel = client.get_channel(BATTLE_CH)
+                battleInProgress = "Battling"  
+                await channel.send(getBattleRules("reg")) if message.content == "!battle" else await channel.send(getBattleRules("nd"))
+                t = TIME_LIMIT_MINUTES*60
                 mins, secs = divmod(t, 60) 
                 timer = "**Teambuilding: {:02d}:{:02d}**".format(mins, secs)
-                await timerMessage.edit(content=timer)
-            await timerMessage.delete()
-            battleInProgress = "None"
+                timerMessage = await channel.send(timer)
+                while t: 
+                    if battleInProgress == "None": break
+                    time.sleep(1)
+                    t -= 1
+                    mins, secs = divmod(t, 60) 
+                    timer = "**Teambuilding: {:02d}:{:02d}**".format(mins, secs)
+                    await timerMessage.edit(content=timer)
+                await timerMessage.delete()
+                battleInProgress = "None"
 
     elif message.content.startswith("!draft"):
         if message.content != "!draft" and message.content != "!draft nd":
@@ -81,10 +85,5 @@ async def on_message(message):
         channel = client.get_channel(MAIN_CH)
         await channel.send("Battle stopped.")
         battleInProgress = "None"
-    elif message.content == "!purge":
-        channel = client.get_channel(BATTLE_CH)
-        async for mes in channel.history():
-            await mes.delete()
-        channel = client.get_channel(MAIN_CH)
-        await channel.send("All past battle text removed.")
+
 client.run(TOKEN)
