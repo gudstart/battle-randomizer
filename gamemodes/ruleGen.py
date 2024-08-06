@@ -4,8 +4,8 @@ import string
 from numpy.random import randint
 import pokebase as pb
 
-from util.data.moveNames import moveList
-from util.data.abilityNames import abilityList
+from gamemodes.util.data.moveNames import moveList
+from gamemodes.util.data.abilityNames import abilityList
 
 #### SETTINGS ####
 NUM_RULES = 3
