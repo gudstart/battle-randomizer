@@ -93,7 +93,8 @@ with open(tmp_file.name) as html:
     fw.write(line.lstrip() + "\n")
 
   fw.write("}")
-
+  
+"""
 fw = open("gamemodes\\util\\data\\moveNames.py", "w")
 fw.write("moveList = [")
 i = 1
@@ -119,3 +120,4 @@ while i > 0:
     break
   fw.write(",\"" + str(m).replace("-", " ").title() + "\"")
 fw.write("]")
+"""

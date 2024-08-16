@@ -2,7 +2,6 @@ import re
 import random as rand
 import string
 from numpy.random import randint
-import pokebase as pb
 
 from gamemodes.util.data.moveNames import moveList
 from gamemodes.util.data.abilityNames import abilityList
@@ -16,9 +15,8 @@ RULE_MAX_STAT_RANGE = [40, 100]
 SETTING_TERASTALLIZE_ON_CHANCE = 50
 
 SPECIES_CLAUSE_ON_CHANCE = 90
-OHKO_CLAUSE_ON_CHANCE = 85
+OHKO_CLAUSE_ON_CHANCE = 80
 EVASION_CLAUSE_ON_CHANCE = 80
-ITEM_CLAUSE_ON_CHANCE = 50
 
 #### RULESET ####
 # List of dictionaries representing categories of rules.
@@ -29,44 +27,49 @@ ruleset = [
     
     #POKEMON RULES
     {
-        "Only mons starting with **@**": 10,
-        "Only mons that have the following abilities: **^**, **^** or **^** (Their other abilities may also be used)": 10,
-        "Only mons with less than an 8 letter name": 3,
-        "Only mons with an 8 or more letter name": 3,
-        "Only mons that have **1** type": 5,
-        "Only mons that are part **&** type": 10
+        "**Alphabet Allies**: Only mons starting with **@** or **@**": 5,
+        "**Three Little Pigs**: Only mons that have the following abilities: **^**, **^** or **^** (Their other abilities may also be used)": 5,
+        "**Short and Sweet**: Only mons with less than an 8 letter name": 5,
+        "**Extended Nomenclature**: Only mons with an 8 or more letter name": 5,
+        "**In My Element**: Only mons that have **1** type": 5,
+        "**Bad Blood**: Only mons that are pure or part **&** type": 5,
+        "**Selected as Tribute**: Only 1 mon per valid tier (OU, UU, etc.)": 5
     },
     
     #MOVE RULES
     {
-        "Only moves starting with **@**": 14,
-        "Only moves that have 1 word": 3,
-        "Only moves that have 2 words": 3
+        "**Alphabet Atheneum**: Only moves starting with **@** or **@**": 5,
+        "**Elementary Wizardry**: Only moves that have 1 word": 5,
+        "**Incantations**: Only moves that have 2 words": 5,
+        "**Play Fighting**: Damaging moves can only be up to **#** base power. Multihit moves are banned.": 5,
+        "**Dexterity Training**: Attacking moves can only be physical **if base SpA >= base Atk** and vice versa": 5
     },
     
     #ITEM RULES
     {
-        "Only items starting with **@**": 5,
-        "Only **gems** allowed as items": 5,
-        "Only **berries** allowed as items": 5,
-        "Only **plates** allowed as items": 5,
-        "Only **Z items** allowed as items": 5
+        "**Alphabet Accessories**: Only items starting with **@** OR **@**": 4,
+        "**Mining Expedition**: Only **gems** allowed as items": 2,
+        "**Field Trip**: Only **berries** allowed as items": 4,
+        "**Buffet Party**: Only **plates** allowed as items": 2,
+        "**Dragon Ball**: Only **Z items** allowed as items": 4,
+        "**Gardening Day**: Only **Herbs and Seeds** allowed as items": 4
     },
     
     #HACKMON RULES
-    {"Regardless of other rules, all mons have access to the move **$**": 20},
-    {"Regardless of other rules, all mons have access to up to 1 move that starts with **@**": 10},
-    {"Regardless of other rules, all mons have access to the ability **^**": 15},
-    {"Regardless of other rules, all mons have access to any ability that starts with **@**": 10},
-    {"All mons may use up to 1 of ANY existing **&** type move including their own": 20},
+    {"**Enchanted Scroll**: Regardless of other rules, all mons have access to the move **$**": 10,
+    "**Enchanted Alphabet Atheneum**: Regardless of other rules, all mons have access to up to 1 move that starts with **@**": 8},
+    {"**Enchanted Altar**: Regardless of other rules, all mons have access to the ability **^**": 10,
+    "**Enchanted Alphabet Altar**: Regardless of other rules, all mons have access to any ability that starts with **@** or **@**": 8},
+    {"**Enchanted Initiation**: All mons may use up to 1 of ANY legal OR illegal **&** type move": 5},
     
     #NATURE RULES
-    {"Your mons must have the **%** nature": 2},
+    {"**Like-Minded**: Your mons must have the **%** nature": 0},
     
     #OTHER RULES
-    {"Damaging moves can only be up to **#** base power. Multihit moves are banned.": 5},
-    {"No STAB damaging moves allowed (Tera type included if terastallized)": 2},
-    {"All mons must not surpass a base | stat of **!**": 10}
+    {"**Amnesia**: No STAB damaging moves allowed (Tera type included if terastallized)": 5},
+    {"**Leg Day Skippers**: All mons must not surpass a base | stat of **!**": 5},
+    {"**Take Our Kids To Work Day**: You must additionally use another mon: a lower evolution of an existing mon": 5}
+    
 ]
 
 #LISTS
@@ -91,12 +94,11 @@ def getBattleRules(format):
     
     battleRules += "TERASTALLIZATION **ON**\n\n" if randint(100) <= SETTING_TERASTALLIZE_ON_CHANCE else "TERASTALLIZATION **OFF**\n\n"
 
-    battleRules += "**CLAUSES** | "
+    battleRules += "**CLAUSES**\n"
     battleRules += "Species Clause ON | "    if randint(100) <= SPECIES_CLAUSE_ON_CHANCE else "Species Clause **OFF** (>1 of the same species allowed) | "
     battleRules += "OHKO Clause ON | "       if randint(100) <= OHKO_CLAUSE_ON_CHANCE else "OHKO Clause **OFF** (OHKO moves allowed) | "
     battleRules += "Evasion Clause ON | "    if randint(100) <= EVASION_CLAUSE_ON_CHANCE else "Evasion Clause **OFF** (Evasion moves allowed) | "
-    battleRules += "Item Clause **ON** (No duplicate items allowed) | " if randint(100) <= ITEM_CLAUSE_ON_CHANCE else "Item Clause **OFF** (Duplicate items allowed) | "
-    battleRules += "\n"
+    battleRules += "\n\n**RULES**\n"
 
     #### SELECTED RULES ####
     for i in range(NUM_RULES):
@@ -122,5 +124,5 @@ def getBattleRules(format):
         selectedRuleString = re.sub(r'\^', lambda x: rand.choice(abilityList), selectedRuleString)
         battleRules += "- " + selectedRuleString + "\n"
     
-    battleRules += "[Online Teambuilder](https://play.pokemonshowdown.com/teambuilder)\n"
+    battleRules += "[Pokemon Showdown Teambuilder](https://play.pokemonshowdown.com/teambuilder)\n"
     return battleRules

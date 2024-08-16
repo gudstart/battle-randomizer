@@ -3,8 +3,8 @@ import os
 import discord
 from dotenv import load_dotenv
 
-from gamemodes.ruleGen import getBattleRules, TIME_LIMIT_MINUTES
-from gamemodes.draftGen import getDraftRules, TIME_LIMIT_MINUTES as DRAFT_TIME
+from gamemodes.scrambleGen import getBattleRules, TIME_LIMIT_MINUTES
+from gamemodes.snakeGen import getDraftRules, TIME_LIMIT_MINUTES as DRAFT_TIME
 battleInProgress = "None"
 
 load_dotenv()
@@ -26,10 +26,10 @@ async def on_message(message):
     global battleInProgress
     if message.author == client.user:
         return
-    if message.content.startswith ("!battle"):
-        if message.content != "!battle" and message.content != "!battle nd":
+    if message.content.startswith ("!scramble"):
+        if message.content != "!scramble" and message.content != "!scramble nd":
             channel = client.get_channel(MAIN_CH)
-            await channel.send("Use !battle for regular rule battle and !draft nd for national dex rule battle!")
+            await channel.send("Use !scramble for regular rule battle and !scramble nd for national dex rule battle!")
         else:
             if battleInProgress != "None":
                 channel = client.get_channel(MAIN_CH)
@@ -37,7 +37,7 @@ async def on_message(message):
             else:
                 channel = client.get_channel(BATTLE_CH)
                 battleInProgress = "Battling"  
-                await channel.send(getBattleRules("reg")) if message.content == "!battle" else await channel.send(getBattleRules("nd"))
+                await channel.send(getBattleRules("reg")) if message.content == "!scramble" else await channel.send(getBattleRules("nd"))
                 t = TIME_LIMIT_MINUTES*60
                 mins, secs = divmod(t, 60) 
                 timer = "**Teambuilding: {:02d}:{:02d}**".format(mins, secs)
@@ -51,10 +51,10 @@ async def on_message(message):
                     await timerMessage.edit(content=timer)
                 await timerMessage.delete()
                 battleInProgress = "None"
-    elif message.content.startswith("!draft"):
-        if message.content != "!draft" and message.content != "!draft nd":
+    elif message.content.startswith("!snake"):
+        if message.content != "!snake" and message.content != "!snake nd":
             channel = client.get_channel(MAIN_CH)
-            await channel.send("Use !draft for regular dex draft battle and !draft nd for national dex draft battle!")
+            await channel.send("Use !snake for regular dex draft battle and !snake nd for national dex draft battle!")
         else:
             if battleInProgress == "Battling":
                 channel = client.get_channel(MAIN_CH)
@@ -77,7 +77,7 @@ async def on_message(message):
                 battleInProgress = "None"
             else:
                 channel = client.get_channel(BATTLE_CH)
-                await channel.send(getDraftRules("reg")) if message.content == "!draft" else await channel.send(getDraftRules("nd"))
+                await channel.send(getDraftRules("reg")) if message.content == "!snake" else await channel.send(getDraftRules("nd"))
                 battleInProgress = "Drafting"
     elif message.content == "!stop":
         channel = client.get_channel(MAIN_CH)

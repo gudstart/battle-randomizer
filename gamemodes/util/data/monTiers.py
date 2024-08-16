@@ -2861,7 +2861,7 @@ tierData = {
 	'Darkrai': {
 		'tier': 'OU',
 		'doublesTier': 'DUbers',
-		'natDexTier': 'OU',
+		'natDexTier': 'Ubers',
 	},
 	'Shaymin': {
 		'tier': 'ZU',
