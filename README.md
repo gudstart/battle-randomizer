@@ -3,8 +3,11 @@
 **.env** file required in main directory to run. Contents of .env:
 
 DISCORD_TOKEN (bot auth token, ask me for permission @GudStrat on discord)
+
 DISCORD_SERVER (name of discord server)
+
 MAIN_CHANNEL (channel used to input bot commands)
+
 BATTLE_CHANNEL (channel used to output bot rules / gamemodes)
 
 ## Commands
