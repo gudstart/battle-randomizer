@@ -1,11 +1,12 @@
 import requests
 import random as rand
 
-from util.data.monTiers import tierData
+from util.data.monData import monData
 
-# Mutations
-# 4 possible level mutations. Each mutation increases level from 100 by 5-20.
-# 
+# Mutations {Type, Chance / 100}
+# 4 possible level mutations. Each mutation increases level from 100 by n^2, where n is a random int on {1, 5}.
+# 4 possible EV mutations. Each mutation increases the number of max EVs (252 each) by 1, starting from 2. They are always chosen in descending order of the mon's base stats.
+# 4 possible move mutations. Each mutation adds a random fixed move from the pool of all moves
 mutationChance = {
     "Ubers": {
         "Level": 0,

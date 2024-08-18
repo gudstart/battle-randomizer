@@ -3,7 +3,7 @@ import random as rand
 import string
 from numpy.random import randint
 
-from gamemodes.util.data.moveNames import moveList
+from gamemodes.util.data.moveData import moveData
 from gamemodes.util.data.abilityNames import abilityList
 
 #### SETTINGS ####
@@ -119,7 +119,7 @@ def getBattleRules(format):
         selectedRuleString = selectedRuleString.replace("#", str(bpRuleNum))
         selectedRuleString = selectedRuleString.replace("|", rand.choice(stats))
         selectedRuleString = selectedRuleString.replace("!", str(randint(RULE_MAX_STAT_RANGE[0]/5, RULE_MAX_STAT_RANGE[1]/5)*5))
-        selectedRuleString = selectedRuleString.replace("$", rand.choice(moveList))
+        selectedRuleString = selectedRuleString.replace("$", rand.choice(list(moveData.keys())))
         selectedRuleString = selectedRuleString.replace("%", rand.choice(influential_natures))
         selectedRuleString = re.sub(r'\^', lambda x: rand.choice(abilityList), selectedRuleString)
         battleRules += "- " + selectedRuleString + "\n"
