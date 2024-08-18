@@ -3,7 +3,7 @@ from numpy.random import randint
 from dotenv import load_dotenv
 import pokebase as pb
 
-from gamemodes.util.data.monTiers import tierData
+from gamemodes.util.data.monData import monData
 
 #### SETTINGS ####
 TIME_LIMIT_MINUTES = 15
@@ -39,7 +39,7 @@ ndTiers = {
     "Unreleased": []
 }
 
-for pokemon, data in tierData.items():
+for pokemon, data in monData.items():
     if pokemon.find("-Totem") == -1 and pokemon.find("-Gmax") == -1:
         if "natDexTier" in data:
             ndTiers[data["natDexTier"]].append(pokemon)
