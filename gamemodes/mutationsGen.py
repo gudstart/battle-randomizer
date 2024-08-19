@@ -121,6 +121,7 @@ def getMutationRules(format):
             "Spe": 0
         }
         
+        '''
         index = rand.choice(list(boostedStats.keys()))
         for _ in range(10): 
             if randint(100)+1 <= mutInfo['IV']:
@@ -129,7 +130,7 @@ def getMutationRules(format):
                 existing = index
                 while index == existing:
                     index = rand.choice(list(boostedStats.keys()))
-        
+        '''
         
         fixedMoves = []
         for _ in range(4):
