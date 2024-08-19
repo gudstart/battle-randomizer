@@ -40,11 +40,10 @@ ndTiers = {
 }
 
 for pokemon, data in monData.items():
-    if pokemon.find("-Totem") == -1 and pokemon.find("-Gmax") == -1:
-        if "natDexTier" in data:
-            ndTiers[data["natDexTier"]].append(pokemon)
-        if "tier" in data:
-            tiers[data["tier"]].append(pokemon)
+    if "natDexTier" in data:
+        ndTiers[data["natDexTier"]].append(pokemon)
+    if "tier" in data:
+        tiers[data["tier"]].append(pokemon)
 
 def getDraftRules(format):
     ndSelection = {
@@ -61,12 +60,12 @@ def getDraftRules(format):
         "Tera Captains": rand.sample(tiers["NU"] + tiers["PU"] + tiers["ZU"], 4),
     }
 
-    randN = randint(2)
-    r = "## SNAKE DRAFT: YOUNGEST" if randN == 0 else "## SNAKE DRAFT: OLDEST"
-    text = r + " GOES FIRST\n"
-    text += "Only Tera Captains may terastallize. " + str(TIME_LIMIT_MINUTES) + " minute time limit. Run **!draft** again to start timer\n"
+    text = "# SNAKE\n"
+    text += "## NATIONAL DEX: " if format == "nd" else "## STANDARD DEX: "
+    text += "SNAKE DRAFT, YOUNGEST" if randint(2) == 0 else "SNAKE DRAFT, OLDEST"
+    text += " GOES FIRST\n"
+    text += "Only Tera Captains may terastallize. " + str(TIME_LIMIT_MINUTES) + " minute teambuilding time limit. Run **!snake** again to start timer\n"
     text += "First pick: **OU** and below. Second pick: **UU** and below. Third pick: **RU** and below. Fourth pick: **Tera Captains** only.\n\n"
-    text = text + "**NATIONAL DEX**\n" if format == "nd" else text + "**STANDARD DEX**\n"
     form = ndSelection if format == "nd" else selection
     for i in range (4):
         text += "**" + list(form.keys())[i]  + ":** "
@@ -74,4 +73,6 @@ def getDraftRules(format):
             text += j + ", "
         text = text[:-2]
         text += "\n"
+    
+    text += "[Pokemon Showdown Teambuilder](https://play.pokemonshowdown.com/teambuilder)\n"
     return text

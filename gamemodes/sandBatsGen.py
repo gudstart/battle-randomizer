@@ -4,7 +4,7 @@ import string
 from numpy.random import randint
 
 from gamemodes.util.data.moveData import moveData
-from gamemodes.util.data.abilityNames import abilityList
+from gamemodes.util.data.abilityData import abilityData
 
 #### SETTINGS ####
 NUM_RULES = 3
@@ -84,14 +84,10 @@ def getBattleRules(format):
     global ruleset
     rules = ruleset
     
-    battleRules = "## " + str(NUM_MONS) + " MONS, " + str(TIME_LIMIT_MINUTES) + " MINUTE TIME LIMIT\n"
-    if format == "nd":
-        battleRules += "**NATIONAL DEX**\n"
-        battleRules += "Only **" + rand.choice(NATDEX_tiers) + "** pokemon or below\n"
-    else:
-        battleRules += "**SV DEX**\n"
-        battleRules += "Only **" + rand.choice(SV_tiers) + "** pokemon or below\n"
-    
+    battleRules = "# SANDBATS\n"
+    battleRules += "## NATIONAL DEX: " if format == "nd" else "## STANDARD DEX: "
+    battleRules += " " + str(NUM_MONS) + " MONS, " + str(TIME_LIMIT_MINUTES) + " MINUTE TIME LIMIT\n"
+    battleRules += "Only **" + rand.choice(NATDEX_tiers) + "** pokemon or below\n" if format == "nd" else "Only **" + rand.choice(SV_tiers) + "** pokemon or below\n"    
     battleRules += "TERASTALLIZATION **ON**\n\n" if randint(100) <= SETTING_TERASTALLIZE_ON_CHANCE else "TERASTALLIZATION **OFF**\n\n"
 
     battleRules += "**CLAUSES**\n"
@@ -100,6 +96,8 @@ def getBattleRules(format):
     battleRules += "Evasion Clause ON | "    if randint(100) <= EVASION_CLAUSE_ON_CHANCE else "Evasion Clause **OFF** (Evasion moves allowed) | "
     battleRules += "\n\n**RULES**\n"
 
+
+    noZ = {k:v for k, v in moveData.items() if "isZ" not in v and "isMax" not in v}
     #### SELECTED RULES ####
     for i in range(NUM_RULES):
         randNum = randint(sum(v for s in rules for v in s.values()))
@@ -119,9 +117,10 @@ def getBattleRules(format):
         selectedRuleString = selectedRuleString.replace("#", str(bpRuleNum))
         selectedRuleString = selectedRuleString.replace("|", rand.choice(stats))
         selectedRuleString = selectedRuleString.replace("!", str(randint(RULE_MAX_STAT_RANGE[0]/5, RULE_MAX_STAT_RANGE[1]/5)*5))
-        selectedRuleString = selectedRuleString.replace("$", rand.choice(list(moveData.keys())))
+        selectedRuleString = selectedRuleString.replace("$", rand.choice(list(noZ.keys())))
+        
         selectedRuleString = selectedRuleString.replace("%", rand.choice(influential_natures))
-        selectedRuleString = re.sub(r'\^', lambda x: rand.choice(abilityList), selectedRuleString)
+        selectedRuleString = re.sub(r'\^', lambda x: rand.choice(list(abilityData.keys())), selectedRuleString)
         battleRules += "- " + selectedRuleString + "\n"
     
     battleRules += "[Pokemon Showdown Teambuilder](https://play.pokemonshowdown.com/teambuilder)\n"
